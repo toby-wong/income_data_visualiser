@@ -1,0 +1,3137 @@
+Weekly Household Income,Household composition,SA4 Region Name,State ID,Count
+" $2,500-$2,999",Family households,Sydney - Northern Beaches,1,5814
+ $500-$649,Family households,Sydney - Outer West and Blue Mountains,1,1424
+ $400-$499,Family households,Geelong,2,1390
+ $650-$799,Non-family household,Melbourne - Inner South,2,3272
+ $400-$499,Non-family household,Northern Territory - Outback,7,491
+" $1,000-$1,249",Non-family household,Central West,1,2201
+ $1-$149,Family households,Newcastle and Lake Macquarie,1,357
+ $650-$799,Family households,Perth - South West,5,5526
+ $500-$649,Family households,Melbourne - Inner,2,1824
+ $150-$299,Family households,Western Australia - Outback (South),5,168
+ $150-$299,Non-family household,Sydney - Blacktown,1,784
+" $2,500-$2,999",Family households,Other Territories,9,97
+" $3,000-$3,499",Family households,Toowoomba,3,2994
+" $3,000-$3,499",Family households,Illawarra,1,7164
+ $1-$149,Non-family household,Sydney - Inner West,1,428
+" $2,500-$2,999",Non-family household,Melbourne - North West,2,404
+ $500-$649,Non-family household,North West,2,2288
+ $300-$399,Family households,Cairns,3,374
+" $1,000-$1,249",Family households,Ipswich,3,6412
+" $1,750-$1,999",Family households,Moreton Bay - North,3,4462
+" $3,500-$3,999",Family households,Migratory - Offshore - Shipping (Qld),3,0
+ $500-$649,Non-family household,Migratory - Offshore - Shipping (ACT),8,0
+ $800-$999,Non-family household,Riverina,1,1781
+ $1-$149,Non-family household,Sydney - City and Inner South,1,621
+" $3,000-$3,499",Non-family household,Brisbane - East,3,328
+" $1,500-$1,749",Non-family household,Capital Region,1,1540
+" $2,500-$2,999",Family households,Sydney - Parramatta,1,11326
+ $1-$149,Non-family household,Brisbane - South,3,444
+ $1-$149,Non-family household,Migratory - Offshore - Shipping (Qld),3,0
+" $1,750-$1,999",Non-family household,Migratory - Offshore - Shipping (SA),4,0
+" $1,250-$1,499",Non-family household,Sydney - Eastern Suburbs,1,2437
+" $1,750-$1,999",Family households,Bendigo,2,2806
+ $400-$499,Non-family household,Melbourne - North East,2,6960
+ $650-$799,Non-family household,Brisbane - North,3,1780
+ $300-$399,Family households,Gold Coast,3,791
+ $800-$999,Non-family household,South Australia - South East,4,2484
+" $1,750-$1,999",Non-family household,Latrobe - Gippsland,2,1215
+" $1,750-$1,999",Family households,Mornington Peninsula,2,4926
+" $1,250-$1,499",Family households,Mackay - Isaac - Whitsunday,3,2627
+ $800-$999,Family households,Sydney - Baulkham Hills and Hawkesbury,1,1973
+" $1,250-$1,499",Family households,Melbourne - West,2,15647
+" $1,250-$1,499",Family households,Shepparton,2,3169
+" $1,750-$1,999",Non-family household,Brisbane - West,3,991
+ $500-$649,Non-family household,Hunter Valley exc Newcastle,1,3439
+" $3,000-$3,499",Family households,Southern Highlands and Shoalhaven,1,2794
+" $3,000-$3,499",Non-family household,Ballarat,2,253
+" $1,000-$1,249",Family households,Adelaide - North,4,9329
+ $500-$649,Non-family household,West and North West,6,1965
+ $650-$799,Non-family household,Bunbury,5,1486
+" $1,500-$1,749",Family households,Hobart,6,3985
+" $3,000-$3,499",Non-family household,Far West and Orana,1,178
+ $650-$799,Family households,Brisbane - West,3,1412
+" $1,000-$1,249",Non-family household,Wide Bay,3,2838
+" $1,000-$1,249",Non-family household,Adelaide - South,4,4126
+ $1-$149,Family households,Perth - South East,5,510
+ $800-$999,Family households,Migratory - Offshore - Shipping (NT),7,0
+" $2,000-$2,499",Family households,Melbourne - South East,2,31198
+" $3,000-$3,499",Non-family household,Shepparton,2,160
+ $300-$399,Family households,Central Coast,1,447
+" $3,500-$3,999",Non-family household,Richmond - Tweed,1,101
+" $3,500-$3,999",Family households,Brisbane - South,3,6335
+ $400-$499,Non-family household,Logan - Beaudesert,3,4191
+ $800-$999,Non-family household,Sunshine Coast,3,3674
+ $300-$399,Non-family household,Townsville,3,1605
+" $3,000-$3,499",Family households,South East,6,572
+ $400-$499,Family households,Sydney - Eastern Suburbs,1,572
+" $4,000 or more",Non-family household,Bendigo,2,344
+ $1-$149,Family households,Perth - Inner,5,164
+" $2,000-$2,499",Family households,Western Australia - Outback (North),5,1714
+ $1-$149,Non-family household,Mid North Coast,1,387
+" $3,000-$3,499",Family households,Murray,1,2157
+ $500-$649,Non-family household,Central Queensland,3,2301
+" $1,500-$1,749",Non-family household,South Australia - Outback,4,592
+" $2,500-$2,999",Non-family household,Launceston and North East,6,162
+" $1,000-$1,249",Family households,Adelaide - West,4,4369
+ $650-$799,Non-family household,Perth - Inner,5,1516
+" $1,000-$1,249",Non-family household,Central Coast,1,3289
+" $1,750-$1,999",Non-family household,Southern Highlands and Shoalhaven,1,589
+" $1,500-$1,749",Family households,Sunshine Coast,3,6296
+ $800-$999,Non-family household,Coffs Harbour - Grafton,1,1633
+" $1,250-$1,499",Family households,Hume,2,4256
+ $150-$299,Non-family household,Melbourne - North West,2,1075
+" $2,500-$2,999",Non-family household,Melbourne - Outer East,2,445
+ $500-$649,Non-family household,Darwin,7,688
+" $1,250-$1,499",Family households,Far West and Orana,1,2199
+ $300-$399,Non-family household,Sydney - South West,1,2576
+ $650-$799,Non-family household,Perth - South East,5,3203
+ $650-$799,Family households,Western Australia - Wheat Belt,5,2735
+" $3,500-$3,999",Family households,Migratory - Offshore - Shipping (OT),9,0
+" $1,750-$1,999",Non-family household,South East,6,136
+" $1,250-$1,499",Non-family household,Geelong,2,2507
+" $4,000 or more",Family households,Melbourne - Inner,2,42696
+ $1-$149,Family households,Bunbury,5,238
+ $800-$999,Non-family household,Western Australia - Outback (South),5,964
+" $2,000-$2,499",Non-family household,Migratory - Offshore - Shipping (NT),7,0
+ $500-$649,Non-family household,Sydney - Inner South West,1,4074
+ $300-$399,Non-family household,Brisbane - East,3,1461
+" $4,000 or more",Family households,Mandurah,5,2940
+ $400-$499,Non-family household,Sydney - Baulkham Hills and Hawkesbury,1,1596
+ $300-$399,Family households,Toowoomba,3,200
+" $4,000 or more",Family households,Sydney - Ryde,1,15137
+" $4,000 or more",Non-family household,North West,2,319
+ $150-$299,Family households,Riverina,1,183
+" $3,000-$3,499",Family households,Gold Coast,3,13131
+" $3,500-$3,999",Family households,Geelong,2,4610
+ $500-$649,Non-family household,Melbourne - Inner East,2,3328
+" $1,250-$1,499",Family households,Barossa - Yorke - Mid North,4,2906
+ $800-$999,Non-family household,Perth - North West,5,4254
+" $3,500-$3,999",Non-family household,Northern Territory - Outback,7,58
+" $3,500-$3,999",Family households,Mid North Coast,1,1795
+ $300-$399,Family households,Illawarra,1,449
+" $3,500-$3,999",Non-family household,Melbourne - North East,2,240
+" $1,750-$1,999",Family households,Wide Bay,3,4902
+" $4,000 or more",Non-family household,Migratory - Offshore - Shipping (ACT),8,0
+" $1,250-$1,499",Non-family household,Melbourne - South East,2,4613
+" $3,000-$3,499",Non-family household,Mackay - Isaac - Whitsunday,3,498
+" $1,500-$1,749",Family households,Queensland - Outback,3,837
+" $2,000-$2,499",Non-family household,Sydney - City and Inner South,1,10069
+" $1,000-$1,249",Family households,Melbourne - North West,2,6933
+" $1,000-$1,249",Family households,Warrnambool and South West,2,2569
+" $1,000-$1,249",Non-family household,Gold Coast,3,6397
+ $650-$799,Family households,Adelaide - Central and Hills,4,3378
+" $1,750-$1,999",Family households,Adelaide - South,4,6434
+ $650-$799,Non-family household,Western Australia - Outback (North),5,221
+" $1,750-$1,999",Non-family household,Australian Capital Territory,8,4131
+ $1-$149,Non-family household,Migratory - Offshore - Shipping (OT),9,0
+" $2,500-$2,999",Non-family household,Sydney - Blacktown,1,312
+" $3,500-$3,999",Non-family household,Sydney - Sutherland,1,105
+ $300-$399,Family households,Wide Bay,3,632
+" $1,750-$1,999",Non-family household,Perth - South West,5,2319
+" $4,000 or more",Family households,Launceston and North East,6,2882
+" $1,500-$1,749",Non-family household,Sydney - Outer West and Blue Mountains,1,1904
+ $300-$399,Family households,Migratory - Offshore - Shipping (NSW),1,0
+" $2,500-$2,999",Family households,Perth - North West,5,15241
+ $500-$649,Non-family household,Adelaide - West,4,3406
+" $4,000 or more",Non-family household,Migratory - Offshore - Shipping (WA),5,0
+" $4,000 or more",Family households,Melbourne - Outer East,2,22890
+" $1,750-$1,999",Non-family household,Darling Downs - Maranoa,3,472
+ $300-$399,Family households,Adelaide - South,4,433
+ $300-$399,Non-family household,Barossa - Yorke - Mid North,4,1245
+" $2,000-$2,499",Family households,Migratory - Offshore - Shipping (Tas.),6,0
+" $1,750-$1,999",Family households,New England and North West,1,3051
+ $650-$799,Non-family household,Hume,2,1808
+" $2,000-$2,499",Non-family household,Brisbane Inner City,3,7425
+" $3,500-$3,999",Family households,Sydney - Inner West,1,5047
+ $800-$999,Family households,Brisbane Inner City,3,1723
+ $500-$649,Family households,Melbourne - Outer East,2,2082
+ $650-$799,Family households,Migratory - Offshore - Shipping (SA),4,0
+ $1-$149,Family households,Western Australia - Outback (North),5,57
+" $4,000 or more",Non-family household,Darwin,7,696
+" $3,500-$3,999",Non-family household,Moreton Bay - South,3,53
+ $300-$399,Family households,Southern Highlands and Shoalhaven,1,221
+" $1,000-$1,249",Family households,North West,2,3257
+ $1-$149,Family households,Brisbane - North,3,179
+ $650-$799,Non-family household,Migratory - Offshore - Shipping (Tas.),6,0
+" $1,000-$1,249",Family households,Migratory - Offshore - Shipping (ACT),8,0
+" $2,000-$2,499",Non-family household,Sydney - Outer South West,1,1310
+ $1-$149,Family households,Hume,2,229
+" $3,000-$3,499",Non-family household,Melbourne - West,2,1497
+" $1,500-$1,749",Non-family household,Mandurah,5,554
+ $1-$149,Non-family household,Sydney - Outer South West,1,215
+ $300-$399,Family households,South East,6,87
+" $4,000 or more",Non-family household,Adelaide - West,4,699
+" $1,000-$1,249",Non-family household,Perth - North East,5,2584
+ $500-$649,Family households,Launceston and North East,6,1066
+" $1,750-$1,999",Family households,Darwin,7,1673
+ $1-$149,Family households,Melbourne - Inner South,2,466
+" $1,000-$1,249",Non-family household,Toowoomba,3,1758
+" $2,500-$2,999",Family households,Western Australia - Outback (South),5,2637
+ $800-$999,Family households,Northern Territory - Outback,7,879
+ $400-$499,Non-family household,Sydney - Sutherland,1,2820
+" $1,500-$1,749",Non-family household,Melbourne - Inner,2,11084
+" $4,000 or more",Non-family household,Moreton Bay - North,3,406
+ $650-$799,Family households,Australian Capital Territory,8,2531
+" $1,500-$1,749",Non-family household,Sydney - Parramatta,1,2765
+" $3,000-$3,499",Family households,Migratory - Offshore - Shipping (NSW),1,0
+" $3,000-$3,499",Non-family household,Barossa - Yorke - Mid North,4,84
+" $1,750-$1,999",Family households,Migratory - Offshore - Shipping (WA),5,0
+ $1-$149,Family households,Migratory - Offshore - Shipping (Tas.),6,0
+" $1,000-$1,249",Non-family household,Bendigo,2,1870
+ $650-$799,Family households,Darling Downs - Maranoa,3,2954
+ $500-$649,Family households,Mandurah,5,818
+" $2,000-$2,499",Family households,Perth - South East,5,17771
+ $1-$149,Family households,Melbourne - South East,2,985
+ $150-$299,Family households,Perth - North West,5,670
+" $3,000-$3,499",Family households,Central Coast,1,7255
+" $1,500-$1,749",Family households,Moreton Bay - South,3,3436
+ $500-$649,Family households,Sydney - Ryde,1,674
+" $1,500-$1,749",Family households,Sydney - Sutherland,1,2509
+ $300-$399,Family households,Mornington Peninsula,2,345
+ $650-$799,Family households,Townsville,3,3356
+" $1,250-$1,499",Family households,Bunbury,5,3667
+" $3,000-$3,499",Family households,Perth - South West,5,10375
+" $2,000-$2,499",Non-family household,Melbourne - North East,2,4053
+" $2,500-$2,999",Family households,South Australia - South East,4,3914
+" $1,250-$1,499",Non-family household,Western Australia - Outback (North),5,538
+ $400-$499,Family households,Sydney - Outer South West,1,1064
+" $1,000-$1,249",Non-family household,Migratory - Offshore - Shipping (NSW),1,0
+" $4,000 or more",Non-family household,Melbourne - Inner East,2,2003
+" $3,000-$3,499",Family households,Adelaide - South,4,8204
+ $150-$299,Non-family household,Capital Region,1,904
+" $1,250-$1,499",Non-family household,Sydney - City and Inner South,1,4813
+" $2,500-$2,999",Family households,Coffs Harbour - Grafton,1,3116
+" $4,000 or more",Family households,Ipswich,3,8101
+ $1-$149,Family households,Mackay - Isaac - Whitsunday,3,198
+" $2,500-$2,999",Family households,Riverina,1,4009
+ $300-$399,Non-family household,Brisbane - West,3,727
+ $800-$999,Family households,Migratory - Offshore - Shipping (Qld),3,0
+ $650-$799,Family households,Ballarat,2,3430
+" $1,500-$1,749",Family households,Western Australia - Outback (South),5,1293
+" $1,500-$1,749",Non-family household,Melbourne - Outer East,2,2806
+ $400-$499,Family households,Melbourne - South East,2,3400
+" $1,750-$1,999",Family households,West and North West,6,1983
+ $650-$799,Family households,Sydney - South West,1,7228
+ $300-$399,Non-family household,Melbourne - West,2,4149
+" $1,750-$1,999",Family households,North West,2,2694
+ $800-$999,Family households,Richmond - Tweed,1,4482
+" $1,000-$1,249",Family households,Sydney - Inner South West,1,9293
+" $2,500-$2,999",Family households,Sydney - North Sydney and Hornsby,1,8592
+ $650-$799,Family households,Brisbane - East,3,3572
+" $2,500-$2,999",Non-family household,Melbourne - Inner,2,2841
+" $1,500-$1,749",Family households,Logan - Beaudesert,3,6026
+" $4,000 or more",Non-family household,Wide Bay,3,465
+" $1,000-$1,249",Non-family household,South East,6,407
+ $800-$999,Non-family household,Other Territories,9,51
+" $2,500-$2,999",Non-family household,Hunter Valley exc Newcastle,1,184
+ $800-$999,Family households,Sydney - Inner West,1,2374
+" $1,500-$1,749",Non-family household,Western Australia - Outback (South),5,836
+" $2,500-$2,999",Family households,Sunshine Coast,3,10251
+" $1,750-$1,999",Non-family household,Adelaide - Central and Hills,4,1991
+" $1,750-$1,999",Family households,Adelaide - West,4,3908
+" $2,000-$2,499",Non-family household,Migratory - Offshore - Shipping (OT),9,0
+" $3,000-$3,499",Family households,Central West,1,3927
+ $800-$999,Non-family household,Sydney - Parramatta,1,3104
+" $2,500-$2,999",Family households,Melbourne - Inner,2,13259
+" $2,000-$2,499",Family households,Melbourne - Inner South,2,11637
+" $4,000 or more",Non-family household,Warrnambool and South West,2,281
+" $2,000-$2,499",Family households,Brisbane - North,3,7797
+ $300-$399,Family households,Migratory - Offshore - Shipping (WA),5,0
+" $1,500-$1,749",Family households,Northern Territory - Outback,7,814
+" $3,500-$3,999",Family households,Migratory - Offshore - Shipping (NT),7,0
+" $4,000 or more",Non-family household,West and North West,6,173
+ $150-$299,Non-family household,Sydney - Outer West and Blue Mountains,1,894
+" $2,000-$2,499",Family households,Hume,2,6784
+" $3,500-$3,999",Non-family household,Logan - Beaudesert,3,78
+" $1,750-$1,999",Non-family household,Illawarra,1,1422
+" $1,750-$1,999",Family households,Gold Coast,3,10601
+" $3,000-$3,499",Family households,New England and North West,1,2983
+ $300-$399,Family households,Brisbane - West,3,161
+" $1,750-$1,999",Non-family household,Gold Coast,3,3081
+ $500-$649,Non-family household,New England and North West,1,2483
+ $650-$799,Family households,Southern Highlands and Shoalhaven,1,3604
+" $3,500-$3,999",Family households,Sydney - Baulkham Hills and Hawkesbury,1,5088
+ $1-$149,Non-family household,Logan - Beaudesert,3,311
+" $2,000-$2,499",Non-family household,Richmond - Tweed,1,1423
+ $500-$649,Family households,Sydney - Blacktown,1,1654
+" $1,250-$1,499",Family households,Western Australia - Outback (North),5,585
+ $150-$299,Family households,Sydney - Parramatta,1,707
+" $1,750-$1,999",Family households,Warrnambool and South West,2,2300
+ $500-$649,Non-family household,Perth - North East,5,2345
+" $1,000-$1,249",Family households,Launceston and North East,6,3287
+" $2,500-$2,999",Family households,Capital Region,1,5629
+" $1,500-$1,749",Non-family household,Sydney - Blacktown,1,1345
+ $150-$299,Non-family household,Sydney - North Sydney and Hornsby,1,995
+ $500-$649,Non-family household,Moreton Bay - North,3,4015
+ $150-$299,Non-family household,West and North West,6,602
+" $1,750-$1,999",Non-family household,Ballarat,2,842
+" $1,000-$1,249",Non-family household,Mornington Peninsula,2,3194
+ $800-$999,Family households,Migratory - Offshore - Shipping (Vic.),2,0
+" $3,000-$3,499",Non-family household,Australian Capital Territory,8,1954
+" $1,500-$1,749",Non-family household,Perth - North West,5,3688
+" $3,000-$3,499",Family households,Australian Capital Territory,8,12033
+" $2,000-$2,499",Family households,Newcastle and Lake Macquarie,1,13268
+" $4,000 or more",Family households,Sydney - Parramatta,1,17979
+ $650-$799,Non-family household,Mackay - Isaac - Whitsunday,3,1042
+" $2,000-$2,499",Non-family household,Migratory - Offshore - Shipping (Qld),3,0
+ $650-$799,Family households,Illawarra,1,5128
+" $1,750-$1,999",Family households,Cairns,3,4151
+ $400-$499,Non-family household,Moreton Bay - South,3,2108
+" $1,500-$1,749",Family households,Perth - North West,5,7720
+" $2,000-$2,499",Non-family household,Sydney - Baulkham Hills and Hawkesbury,1,1180
+ $400-$499,Family households,Sydney - City and Inner South,1,844
+ $150-$299,Non-family household,Melbourne - Inner East,2,1184
+" $3,500-$3,999",Non-family household,Queensland - Outback,3,49
+ $400-$499,Non-family household,Sydney - Outer South West,1,3309
+" $1,250-$1,499",Non-family household,Sydney - Outer South West,1,1480
+ $800-$999,Family households,Melbourne - North East,2,6489
+" $3,500-$3,999",Non-family household,Hobart,6,143
+" $2,000-$2,499",Non-family household,Migratory - Offshore - Shipping (Vic.),2,0
+ $400-$499,Non-family household,Riverina,1,3361
+ $150-$299,Family households,Sydney - Outer West and Blue Mountains,1,323
+ $150-$299,Family households,Queensland - Outback,3,116
+" $2,000-$2,499",Non-family household,Sydney - Inner West,1,4836
+ $300-$399,Non-family household,Western Australia - Wheat Belt,5,1132
+" $1,000-$1,249",Family households,Perth - North East,5,4138
+" $1,000-$1,249",Non-family household,Migratory - Offshore - Shipping (WA),5,0
+ $150-$299,Family households,Other Territories,9,6
+" $4,000 or more",Non-family household,Mornington Peninsula,2,756
+ $500-$649,Family households,Western Australia - Outback (South),5,539
+ $800-$999,Non-family household,Hobart,6,2628
+ $400-$499,Non-family household,Coffs Harbour - Grafton,1,3639
+ $300-$399,Non-family household,Southern Highlands and Shoalhaven,1,1276
+" $4,000 or more",Non-family household,Cairns,3,541
+" $3,500-$3,999",Non-family household,Migratory - Offshore - Shipping (NT),7,0
+" $1,000-$1,249",Family households,Hunter Valley exc Newcastle,1,5356
+" $4,000 or more",Family households,Sydney - Outer West and Blue Mountains,1,12552
+" $1,750-$1,999",Non-family household,Brisbane - East,3,857
+ $400-$499,Non-family household,Brisbane Inner City,3,3064
+ $500-$649,Non-family household,Adelaide - North,4,5192
+" $2,500-$2,999",Non-family household,Adelaide - North,4,447
+ $500-$649,Family households,South Australia - Outback,4,533
+" $2,500-$2,999",Family households,South Australia - Outback,4,1770
+" $1,750-$1,999",Non-family household,Western Australia - Wheat Belt,5,572
+" $1,750-$1,999",Non-family household,Townsville,3,1306
+ $150-$299,Non-family household,Mandurah,5,444
+" $1,000-$1,249",Non-family household,Cairns,3,2739
+ $300-$399,Non-family household,Darling Downs - Maranoa,3,1027
+ $300-$399,Non-family household,Perth - Inner,5,1385
+" $1,500-$1,749",Non-family household,Sydney - Ryde,1,1506
+" $4,000 or more",Family households,Melbourne - North West,2,14070
+" $1,750-$1,999",Family households,Melbourne - Inner East,2,4572
+ $400-$499,Non-family household,Migratory - Offshore - Shipping (Vic.),2,0
+ $1-$149,Non-family household,Migratory - Offshore - Shipping (NT),7,0
+ $150-$299,Non-family household,Sydney - Ryde,1,576
+" $1,750-$1,999",Non-family household,Murray,1,478
+" $1,250-$1,499",Non-family household,Newcastle and Lake Macquarie,1,3040
+" $3,500-$3,999",Family households,Melbourne - North East,2,8651
+ $1-$149,Family households,Shepparton,2,181
+ $150-$299,Non-family household,Warrnambool and South West,2,609
+ $1-$149,Non-family household,Geelong,2,410
+ $800-$999,Family households,Migratory - Offshore - Shipping (OT),9,0
+" $2,000-$2,499",Non-family household,Mid North Coast,1,929
+ $400-$499,Family households,Newcastle and Lake Macquarie,1,1488
+" $2,000-$2,499",Family households,Sydney - City and Inner South,1,8436
+" $1,500-$1,749",Non-family household,Sydney - Northern Beaches,1,1517
+ $150-$299,Non-family household,Central Queensland,3,812
+ $150-$299,Non-family household,Ipswich,3,845
+ $650-$799,Family households,Murray,1,2499
+" $1,500-$1,749",Family households,Sydney - Parramatta,1,6848
+" $4,000 or more",Non-family household,Sydney - Ryde,1,907
+ $300-$399,Family households,Latrobe - Gippsland,2,529
+ $300-$399,Non-family household,Adelaide - Central and Hills,4,2267
+" $2,500-$2,999",Non-family household,Sydney - Inner South West,1,862
+ $500-$649,Family households,Sydney - North Sydney and Hornsby,1,1119
+" $1,750-$1,999",Non-family household,Sydney - South West,1,992
+ $300-$399,Non-family household,Ballarat,2,1624
+" $1,250-$1,499",Non-family household,Brisbane - South,3,2977
+" $1,750-$1,999",Family households,Central Queensland,3,3118
+" $1,750-$1,999",Family households,Ipswich,3,6230
+ $500-$649,Family households,Capital Region,1,1182
+" $2,000-$2,499",Family households,Far West and Orana,1,3532
+ $800-$999,Family households,Mid North Coast,1,5231
+ $150-$299,Non-family household,Melbourne - Outer East,2,1314
+ $650-$799,Non-family household,Shepparton,2,1260
+ $400-$499,Family households,Brisbane - South,3,1216
+ $800-$999,Non-family household,Queensland - Outback,3,595
+ $300-$399,Non-family household,Migratory - Offshore - Shipping (SA),4,0
+" $3,000-$3,499",Non-family household,Bunbury,5,327
+ $500-$649,Non-family household,Central West,1,2712
+" $1,500-$1,749",Non-family household,Sydney - North Sydney and Hornsby,1,3373
+" $2,000-$2,499",Family households,Perth - Inner,5,4087
+" $2,500-$2,999",Non-family household,Perth - North East,5,288
+ $1-$149,Non-family household,Melbourne - South East,2,844
+ $500-$649,Non-family household,Launceston and North East,6,2511
+ $800-$999,Non-family household,Northern Territory - Outback,7,454
+" $1,000-$1,249",Non-family household,North West,2,1779
+ $300-$399,Non-family household,Far West and Orana,1,1034
+ $500-$649,Family households,Sydney - Northern Beaches,1,593
+" $4,000 or more",Non-family household,Central Queensland,3,586
+" $4,000 or more",Non-family household,Ipswich,3,412
+ $400-$499,Non-family household,South Australia - South East,4,5765
+ $400-$499,Non-family household,Richmond - Tweed,1,6303
+" $2,000-$2,499",Family households,Sydney - Eastern Suburbs,1,5757
+" $1,000-$1,249",Non-family household,Latrobe - Gippsland,2,3097
+ $400-$499,Non-family household,Sunshine Coast,3,6946
+ $150-$299,Family households,Hobart,6,251
+" $3,500-$3,999",Non-family household,Brisbane - South,3,334
+ $800-$999,Non-family household,Sydney - Outer West and Blue Mountains,1,2713
+ $300-$399,Family households,Darling Downs - Maranoa,3,197
+ $150-$299,Family households,Northern Territory - Outback,7,302
+" $4,000 or more",Non-family household,Illawarra,1,737
+ $300-$399,Family households,Migratory - Offshore - Shipping (ACT),8,0
+" $3,500-$3,999",Non-family household,Other Territories,9,0
+" $2,500-$2,999",Non-family household,Mornington Peninsula,2,218
+" $3,000-$3,499",Family households,Ballarat,2,3145
+" $4,000 or more",Non-family household,Toowoomba,3,330
+ $400-$499,Non-family household,Perth - North West,5,7981
+" $1,500-$1,749",Non-family household,Hobart,6,1855
+ $400-$499,Family households,Melbourne - Inner South,2,1271
+ $500-$649,Family households,Warrnambool and South West,2,738
+ $650-$799,Non-family household,Darling Downs - Maranoa,3,1015
+ $650-$799,Family households,Central West,1,3925
+" $4,000 or more",Non-family household,Sydney - Blacktown,1,526
+" $2,500-$2,999",Family households,Sydney - Ryde,1,4847
+" $2,000-$2,499",Non-family household,Melbourne - South East,2,4224
+ $800-$999,Non-family household,Brisbane Inner City,3,3711
+ $500-$649,Family households,West and North West,6,869
+ $650-$799,Non-family household,Australian Capital Territory,8,2657
+ $1-$149,Family households,Migratory - Offshore - Shipping (OT),9,0
+" $3,500-$3,999",Family households,Newcastle and Lake Macquarie,1,5910
+" $1,750-$1,999",Non-family household,Mornington Peninsula,2,1409
+ $800-$999,Family households,Sunshine Coast,3,6391
+ $500-$649,Family households,Adelaide - West,4,1236
+ $800-$999,Family households,South Australia - South East,4,4274
+ $500-$649,Non-family household,Central Coast,1,5312
+" $2,000-$2,499",Family households,Brisbane - East,3,8570
+" $3,000-$3,499",Non-family household,South East,6,36
+" $1,750-$1,999",Non-family household,New England and North West,1,767
+" $3,500-$3,999",Non-family household,Sydney - Northern Beaches,1,185
+ $1-$149,Family households,Sydney - South West,1,451
+" $1,250-$1,499",Family households,Brisbane - West,3,2612
+" $4,000 or more",Non-family household,Migratory - Offshore - Shipping (NSW),1,0
+" $3,000-$3,499",Non-family household,Southern Highlands and Shoalhaven,1,176
+" $3,500-$3,999",Non-family household,Sydney - Inner West,1,463
+ $150-$299,Family households,Sydney - Sutherland,1,194
+ $800-$999,Family households,Riverina,1,2297
+ $500-$649,Family households,Melbourne - Inner East,2,1501
+" $1,750-$1,999",Family households,Melbourne - North West,2,6641
+" $3,500-$3,999",Non-family household,Sydney - City and Inner South,1,1045
+" $2,500-$2,999",Non-family household,Sydney - Parramatta,1,930
+ $500-$649,Family households,Queensland - Outback,3,412
+ $300-$399,Family households,Adelaide - Central and Hills,4,327
+" $1,000-$1,249",Non-family household,Adelaide - North,4,4772
+" $1,000-$1,249",Family households,South Australia - Outback,4,1496
+" $4,000 or more",Family households,Western Australia - Outback (South),5,3663
+ $300-$399,Non-family household,Gold Coast,3,3679
+" $1,000-$1,249",Family households,Migratory - Offshore - Shipping (WA),5,0
+ $300-$399,Family households,Sydney - Inner South West,1,1002
+" $1,250-$1,499",Family households,Migratory - Offshore - Shipping (SA),4,0
+ $150-$299,Non-family household,Sydney - Parramatta,1,1474
+" $1,500-$1,749",Non-family household,Adelaide - West,4,2026
+" $4,000 or more",Non-family household,Southern Highlands and Shoalhaven,1,368
+ $800-$999,Non-family household,Sydney - Sutherland,1,1558
+ $500-$649,Family households,Adelaide - North,4,2867
+ $400-$499,Family households,Perth - South East,5,1990
+ $500-$649,Family households,Migratory - Offshore - Shipping (ACT),8,0
+" $1,500-$1,749",Non-family household,Queensland - Outback,3,509
+" $3,000-$3,499",Non-family household,Toowoomba,3,230
+" $3,500-$3,999",Family households,Bunbury,5,2129
+" $1,500-$1,749",Non-family household,Coffs Harbour - Grafton,1,709
+ $800-$999,Non-family household,Sydney - North Sydney and Hornsby,1,2862
+ $500-$649,Non-family household,Sydney - Outer West and Blue Mountains,1,3001
+" $3,000-$3,499",Family households,Bendigo,2,3297
+" $2,500-$2,999",Family households,Moreton Bay - South,3,6729
+" $1,000-$1,249",Family households,Capital Region,1,4067
+ $150-$299,Non-family household,Bendigo,2,673
+" $1,250-$1,499",Family households,Melbourne - South East,2,16651
+" $3,000-$3,499",Non-family household,Western Australia - Outback (North),5,385
+ $400-$499,Family households,Migratory - Offshore - Shipping (Tas.),6,0
+" $1,750-$1,999",Family households,Migratory - Offshore - Shipping (NSW),1,0
+" $4,000 or more",Non-family household,Melbourne - North West,2,770
+ $300-$399,Family households,Adelaide - West,4,333
+ $150-$299,Non-family household,Western Australia - Outback (South),5,471
+ $400-$499,Family households,Bunbury,5,1007
+" $4,000 or more",Non-family household,South East,6,49
+ $300-$399,Family households,Darwin,7,170
+" $3,500-$3,999",Family households,Northern Territory - Outback,7,836
+" $1,750-$1,999",Family households,Illawarra,1,4737
+ $400-$499,Non-family household,Sydney - City and Inner South,1,4576
+ $800-$999,Family households,Melbourne - South East,2,10863
+ $650-$799,Family households,Cairns,3,4018
+ $300-$399,Family households,Sydney - South West,1,886
+ $400-$499,Family households,Perth - Inner,5,412
+ $650-$799,Family households,Perth - South East,5,6503
+" $1,750-$1,999",Non-family household,Central West,1,914
+" $2,500-$2,999",Non-family household,Sydney - Northern Beaches,1,330
+" $1,250-$1,499",Non-family household,Melbourne - Inner South,2,3865
+" $1,500-$1,749",Family households,Brisbane - South,3,4895
+ $650-$799,Family households,Gold Coast,3,9004
+" $2,000-$2,499",Non-family household,Sunshine Coast,3,2510
+" $1,000-$1,249",Family households,Mornington Peninsula,2,5617
+" $1,000-$1,249",Non-family household,Adelaide - West,4,3139
+" $1,500-$1,749",Family households,Migratory - Offshore - Shipping (NT),7,0
+" $3,000-$3,499",Non-family household,Melbourne - South East,2,1158
+" $1,500-$1,749",Non-family household,Adelaide - North,4,2614
+" $1,500-$1,749",Family households,South Australia - Outback,4,1116
+ $150-$299,Non-family household,North West,2,734
+" $2,000-$2,499",Family households,Shepparton,2,4597
+" $1,750-$1,999",Family households,South East,6,741
+ $500-$649,Family households,Coffs Harbour - Grafton,1,900
+" $1,750-$1,999",Family households,Southern Highlands and Shoalhaven,1,2799
+ $300-$399,Family households,Central Queensland,3,305
+" $3,000-$3,499",Family households,Far West and Orana,1,1835
+" $1,500-$1,749",Family households,Sydney - Baulkham Hills and Hawkesbury,1,2605
+" $1,000-$1,249",Non-family household,Ipswich,3,3243
+ $150-$299,Non-family household,Moreton Bay - North,3,779
+ $500-$649,Non-family household,Illawarra,1,3550
+ $500-$649,Non-family household,Sydney - North Sydney and Hornsby,1,2795
+" $1,500-$1,749",Family households,Sydney - Northern Beaches,1,2555
+" $1,000-$1,249",Non-family household,Adelaide - Central and Hills,4,3725
+" $2,000-$2,499",Non-family household,South Australia - South East,4,834
+ $400-$499,Family households,Richmond - Tweed,1,1262
+" $2,000-$2,499",Non-family household,Sydney - Eastern Suburbs,1,5120
+ $500-$649,Family households,Sydney - Inner South West,1,3171
+" $1,000-$1,249",Family households,Sydney - Parramatta,1,7179
+" $3,500-$3,999",Non-family household,Perth - North West,5,268
+" $1,250-$1,499",Non-family household,Far West and Orana,1,877
+" $4,000 or more",Family households,Bendigo,2,4249
+ $150-$299,Family households,Melbourne - Outer East,2,574
+ $650-$799,Family households,Mornington Peninsula,2,4729
+ $300-$399,Family households,Adelaide - North,4,770
+ $500-$649,Non-family household,Sydney - Blacktown,1,1742
+ $1-$149,Non-family household,Melbourne - North East,2,579
+" $4,000 or more",Family households,Warrnambool and South West,2,2744
+" $2,000-$2,499",Family households,Mackay - Isaac - Whitsunday,3,5378
+" $1,000-$1,249",Family households,Melbourne - Inner,2,5667
+ $1-$149,Family households,Brisbane - East,3,216
+" $3,000-$3,499",Non-family household,Brisbane - West,3,429
+" $1,750-$1,999",Non-family household,Perth - North East,5,1472
+" $4,000 or more",Family households,West and North West,6,1821
+" $2,000-$2,499",Family households,Migratory - Offshore - Shipping (OT),9,0
+ $300-$399,Non-family household,Murray,1,1095
+ $650-$799,Non-family household,Sydney - South West,1,1572
+" $3,500-$3,999",Non-family household,Migratory - Offshore - Shipping (OT),9,0
+" $4,000 or more",Family households,Melbourne - Inner East,2,27911
+ $400-$499,Family households,Migratory - Offshore - Shipping (Vic.),2,0
+" $1,000-$1,249",Non-family household,Central Queensland,3,2028
+" $3,000-$3,499",Family households,Moreton Bay - North,3,4631
+ $1-$149,Family households,Sydney - Inner West,1,327
+" $1,250-$1,499",Non-family household,Perth - Inner,5,2112
+" $1,500-$1,749",Non-family household,Migratory - Offshore - Shipping (ACT),8,0
+ $500-$649,Non-family household,Wide Bay,3,5160
+" $1,250-$1,499",Family households,Australian Capital Territory,8,5688
+ $1-$149,Non-family household,Newcastle and Lake Macquarie,1,570
+" $2,000-$2,499",Non-family household,Queensland - Outback,3,832
+" $4,000 or more",Family households,Perth - North East,5,9760
+ $150-$299,Non-family household,Migratory - Offshore - Shipping (WA),5,0
+" $1,500-$1,749",Non-family household,Warrnambool and South West,2,724
+ $1-$149,Non-family household,Moreton Bay - South,3,135
+ $400-$499,Non-family household,Mid North Coast,1,6853
+" $1,000-$1,249",Non-family household,Sydney - Inner South West,1,4334
+" $1,250-$1,499",Non-family household,Bunbury,5,1251
+" $1,500-$1,749",Family households,Capital Region,1,3427
+" $1,000-$1,249",Family households,Cairns,3,4493
+" $2,500-$2,999",Family households,Ipswich,3,9498
+ $500-$649,Non-family household,Southern Highlands and Shoalhaven,1,2479
+ $650-$799,Non-family household,Latrobe - Gippsland,2,2911
+ $400-$499,Family households,Brisbane Inner City,3,561
+" $1,000-$1,249",Family households,Mandurah,5,2124
+" $2,000-$2,499",Non-family household,Hobart,6,1866
+" $1,500-$1,749",Non-family household,Launceston and North East,6,885
+" $1,500-$1,749",Family households,Sydney - Outer South West,1,4516
+" $2,500-$2,999",Non-family household,South Australia - Outback,4,68
+" $3,000-$3,499",Non-family household,Perth - South West,5,1011
+" $1,750-$1,999",Family households,Latrobe - Gippsland,2,5229
+ $400-$499,Non-family household,Migratory - Offshore - Shipping (Qld),3,0
+" $3,000-$3,499",Non-family household,Perth - South East,5,1219
+" $3,000-$3,499",Family households,Western Australia - Wheat Belt,5,2212
+ $300-$399,Non-family household,Western Australia - Outback (North),5,336
+ $300-$399,Non-family household,Melbourne - South East,2,3805
+ $300-$399,Non-family household,Hume,2,1648
+ $400-$499,Family households,Northern Territory - Outback,7,608
+ $150-$299,Family households,Logan - Beaudesert,3,393
+" $2,500-$2,999",Non-family household,Migratory - Offshore - Shipping (WA),5,0
+" $2,500-$2,999",Non-family household,Darwin,7,303
+" $1,250-$1,499",Non-family household,Richmond - Tweed,1,1787
+" $2,000-$2,499",Family households,Sydney - Inner West,1,8586
+ $800-$999,Family households,Queensland - Outback,3,876
+ $150-$299,Non-family household,South Australia - South East,4,967
+" $1,250-$1,499",Non-family household,Brisbane Inner City,3,4660
+ $800-$999,Family households,Hobart,6,3692
+" $2,000-$2,499",Family households,Melbourne - West,2,29768
+" $3,000-$3,499",Family households,Townsville,3,4719
+" $2,000-$2,499",Family households,Barossa - Yorke - Mid North,4,3659
+" $1,500-$1,749",Family households,Other Territories,9,63
+" $1,750-$1,999",Family households,Sydney - Blacktown,1,5601
+" $1,500-$1,749",Family households,Sydney - City and Inner South,1,2824
+ $800-$999,Non-family household,Melbourne - Outer East,2,4046
+ $800-$999,Non-family household,Logan - Beaudesert,3,2809
+" $3,500-$3,999",Family households,Brisbane - North,3,4113
+ $500-$649,Non-family household,Adelaide - South,4,5413
+ $650-$799,Family households,Perth - North East,5,3597
+" $1,250-$1,499",Non-family household,Northern Territory - Outback,7,621
+" $4,000 or more",Family households,Hunter Valley exc Newcastle,1,8574
+ $650-$799,Family households,Newcastle and Lake Macquarie,1,6054
+" $3,500-$3,999",Non-family household,Sydney - Outer South West,1,50
+" $3,500-$3,999",Family households,Hume,2,1941
+ $300-$399,Non-family household,Brisbane - North,3,1486
+" $1,250-$1,499",Family households,Perth - South West,5,6844
+ $800-$999,Non-family household,Mid North Coast,1,2691
+ $400-$499,Non-family household,Brisbane - South,3,4225
+" $3,000-$3,499",Family households,Wide Bay,3,3868
+" $2,500-$2,999",Non-family household,Migratory - Offshore - Shipping (ACT),8,0
+ $800-$999,Family households,Sydney - Eastern Suburbs,1,1470
+" $1,000-$1,249",Non-family household,Darling Downs - Maranoa,3,1299
+" $2,500-$2,999",Non-family household,North West,2,147
+" $4,000 or more",Family households,New England and North West,1,3890
+ $400-$499,Family households,Mid North Coast,1,1533
+ $650-$799,Family households,Migratory - Offshore - Shipping (NSW),1,0
+ $1-$149,Non-family household,Coffs Harbour - Grafton,1,203
+ $1-$149,Non-family household,Sydney - Baulkham Hills and Hawkesbury,1,220
+" $2,500-$2,999",Non-family household,Cairns,3,274
+" $1,250-$1,499",Non-family household,Migratory - Offshore - Shipping (Qld),3,0
+" $4,000 or more",Non-family household,Perth - South West,5,1385
+" $1,000-$1,249",Non-family household,Launceston and North East,6,1751
+" $1,500-$1,749",Family households,Melbourne - North East,2,8066
+ $300-$399,Non-family household,Mackay - Isaac - Whitsunday,3,1026
+" $3,000-$3,499",Non-family household,Western Australia - Wheat Belt,5,198
+" $1,750-$1,999",Family households,Australian Capital Territory,8,5486
+" $1,000-$1,249",Non-family household,Brisbane - East,3,1850
+ $1-$149,Non-family household,Hume,2,301
+" $1,250-$1,499",Non-family household,Migratory - Offshore - Shipping (Vic.),2,0
+ $800-$999,Family households,Western Australia - Outback (North),5,477
+" $3,500-$3,999",Non-family household,Coffs Harbour - Grafton,1,38
+" $3,000-$3,499",Non-family household,Central West,1,277
+ $150-$299,Non-family household,Sunshine Coast,3,1181
+ $650-$799,Family households,Toowoomba,3,2813
+" $4,000 or more",Family households,Wide Bay,3,4194
+ $300-$399,Non-family household,Adelaide - South,4,3071
+ $300-$399,Family households,Murray,1,163
+ $500-$649,Family households,Other Territories,9,21
+ $150-$299,Non-family household,Central West,1,903
+" $2,500-$2,999",Non-family household,Mandurah,5,63
+" $4,000 or more",Non-family household,Central West,1,462
+" $2,000-$2,499",Family households,Geelong,2,11191
+ $300-$399,Family households,Shepparton,2,243
+" $1,750-$1,999",Non-family household,Bunbury,5,807
+" $1,250-$1,499",Family households,Perth - Inner,5,2005
+" $3,500-$3,999",Non-family household,Sydney - Baulkham Hills and Hawkesbury,1,52
+ $650-$799,Non-family household,Sydney - Outer South West,1,1235
+ $650-$799,Non-family household,Brisbane - East,3,1505
+" $1,000-$1,249",Family households,Central Queensland,3,3425
+" $1,250-$1,499",Family households,Perth - South East,5,9219
+ $800-$999,Non-family household,Sydney - Blacktown,1,1818
+" $2,000-$2,499",Non-family household,Geelong,2,2629
+" $1,750-$1,999",Non-family household,North West,2,610
+" $1,000-$1,249",Family households,Darwin,7,1307
+" $1,000-$1,249",Non-family household,Sydney - South West,1,2296
+" $2,000-$2,499",Family households,Melbourne - North East,2,19000
+" $1,750-$1,999",Non-family household,Toowoomba,3,798
+" $2,500-$2,999",Non-family household,Adelaide - West,4,464
+" $1,750-$1,999",Non-family household,Cairns,3,1178
+" $1,000-$1,249",Family households,Gold Coast,3,10913
+" $2,500-$2,999",Non-family household,Perth - North West,5,593
+ $800-$999,Family households,Western Australia - Outback (South),5,1311
+" $3,500-$3,999",Non-family household,Capital Region,1,42
+" $3,000-$3,499",Non-family household,Migratory - Offshore - Shipping (Tas.),6,0
+ $150-$299,Non-family household,Riverina,1,625
+" $1,000-$1,249",Family households,Sydney - Northern Beaches,1,2512
+ $500-$649,Non-family household,Bendigo,2,2379
+" $4,000 or more",Non-family household,New England and North West,1,414
+" $1,250-$1,499",Family households,Melbourne - Inner South,2,5740
+ $650-$799,Family households,South East,6,1101
+ $650-$799,Non-family household,Sydney - City and Inner South,1,2763
+ $300-$399,Family households,Mackay - Isaac - Whitsunday,3,195
+" $1,000-$1,249",Family households,Perth - North West,5,8284
+" $3,000-$3,499",Family households,West and North West,6,1749
+" $4,000 or more",Family households,Riverina,1,3841
+" $1,250-$1,499",Family households,Ballarat,2,3996
+" $2,500-$2,999",Non-family household,Gold Coast,3,1044
+" $1,500-$1,749",Family households,Migratory - Offshore - Shipping (OT),9,0
+" $2,000-$2,499",Non-family household,Sydney - Sutherland,1,2052
+" $3,000-$3,499",Non-family household,Melbourne - Inner South,2,1460
+ $300-$399,Family households,Brisbane - East,3,247
+" $2,000-$2,499",Non-family household,Western Australia - Outback (South),5,1278
+ $150-$299,Non-family household,New England and North West,1,902
+ $1-$149,Non-family household,Mackay - Isaac - Whitsunday,3,189
+" $3,000-$3,499",Non-family household,Migratory - Offshore - Shipping (SA),4,0
+ $800-$999,Non-family household,Migratory - Offshore - Shipping (Vic.),2,0
+" $1,250-$1,499",Non-family household,Migratory - Offshore - Shipping (Tas.),6,0
+" $2,500-$2,999",Non-family household,Capital Region,1,194
+" $1,750-$1,999",Family households,Central West,1,3273
+" $4,000 or more",Family households,Sydney - North Sydney and Hornsby,1,46034
+" $3,000-$3,499",Family households,Melbourne - Inner East,2,7548
+" $3,000-$3,499",Family households,Migratory - Offshore - Shipping (SA),4,0
+" $2,000-$2,499",Family households,Sydney - Baulkham Hills and Hawkesbury,1,7367
+ $400-$499,Non-family household,Sydney - Parramatta,1,5406
+" $1,500-$1,749",Non-family household,Sydney - Inner South West,1,3070
+ $150-$299,Family households,Sydney - North Sydney and Hornsby,1,426
+" $1,250-$1,499",Family households,Migratory - Offshore - Shipping (Tas.),6,0
+ $150-$299,Family households,Sydney - Blacktown,1,381
+ $800-$999,Family households,Geelong,2,4691
+" $3,500-$3,999",Family households,Moreton Bay - South,3,3619
+ $650-$799,Family households,Migratory - Offshore - Shipping (WA),5,0
+" $2,500-$2,999",Family households,Northern Territory - Outback,7,1469
+" $2,000-$2,499",Family households,Migratory - Offshore - Shipping (NT),7,0
+ $650-$799,Family households,Latrobe - Gippsland,2,6833
+ $500-$649,Non-family household,Melbourne - Outer East,2,4725
+ $650-$799,Family households,North West,2,3231
+ $300-$399,Family households,Hume,2,266
+" $1,250-$1,499",Family households,Southern Highlands and Shoalhaven,1,4064
+" $1,500-$1,749",Family households,Sydney - Inner West,1,3206
+" $3,500-$3,999",Non-family household,South Australia - Outback,4,27
+ $150-$299,Family households,South Australia - South East,4,251
+" $1,500-$1,749",Family households,Launceston and North East,6,2557
+ $1-$149,Family households,Sydney - Outer South West,1,234
+ $150-$299,Family households,Migratory - Offshore - Shipping (Vic.),2,0
+ $500-$649,Family households,Hobart,6,1418
+ $300-$399,Non-family household,Central Coast,1,2737
+" $1,500-$1,749",Family households,Coffs Harbour - Grafton,1,2435
+ $800-$999,Family households,Sydney - Sutherland,1,2060
+ $650-$799,Family households,Bunbury,5,3481
+ $150-$299,Non-family household,Perth - North East,5,836
+" $1,000-$1,249",Family households,Sydney - Ryde,1,2303
+" $4,000 or more",Non-family household,Perth - North East,5,644
+" $1,250-$1,499",Family households,Illawarra,1,6043
+ $300-$399,Non-family household,Shepparton,2,1246
+ $1-$149,Family households,Brisbane - South,3,390
+" $1,250-$1,499",Family households,Townsville,3,4261
+" $2,000-$2,499",Non-family household,Western Australia - Outback (North),5,1272
+" $1,000-$1,249",Non-family household,Darwin,7,1207
+ $150-$299,Non-family household,Hunter Valley exc Newcastle,1,892
+" $1,500-$1,749",Non-family household,Melbourne - North East,2,3350
+" $3,000-$3,499",Family households,Melbourne - West,2,18344
+" $2,500-$2,999",Non-family household,Ipswich,3,311
+ $150-$299,Family households,Sunshine Coast,3,460
+" $4,000 or more",Non-family household,Australian Capital Territory,8,3176
+" $1,250-$1,499",Non-family household,Mid North Coast,1,1394
+" $1,750-$1,999",Family households,Toowoomba,3,2715
+" $1,250-$1,499",Non-family household,Perth - South East,5,4171
+" $1,250-$1,499",Family households,Western Australia - Wheat Belt,5,2761
+" $1,250-$1,499",Non-family household,Australian Capital Territory,8,4349
+ $800-$999,Non-family household,Richmond - Tweed,1,3001
+" $1,250-$1,499",Family households,Sydney - Eastern Suburbs,1,2447
+" $1,750-$1,999",Non-family household,Migratory - Offshore - Shipping (NSW),1,0
+" $2,500-$2,999",Family households,Mandurah,5,2211
+" $1,750-$1,999",Family households,Perth - South West,5,6132
+ $300-$399,Family households,Launceston and North East,6,286
+ $150-$299,Family households,Richmond - Tweed,1,286
+" $1,000-$1,249",Non-family household,Melbourne - Inner,2,11743
+" $1,500-$1,749",Family households,Melbourne - Inner,2,5691
+" $1,000-$1,249",Non-family household,Murray,1,1477
+" $2,500-$2,999",Non-family household,Sydney - Ryde,1,284
+" $3,000-$3,499",Family households,Warrnambool and South West,2,2135
+" $2,000-$2,499",Non-family household,Logan - Beaudesert,3,1480
+" $2,500-$2,999",Family households,Melbourne - North West,2,11212
+ $500-$649,Non-family household,Warrnambool and South West,2,1988
+ $650-$799,Non-family household,Adelaide - Central and Hills,4,2863
+" $3,000-$3,499",Non-family household,Illawarra,1,511
+ $1-$149,Family households,Sydney - City and Inner South,1,274
+" $3,500-$3,999",Family households,Sydney - City and Inner South,1,5536
+" $2,500-$2,999",Non-family household,Central Queensland,3,219
+" $3,000-$3,499",Non-family household,Perth - Inner,5,1097
+" $3,000-$3,499",Non-family household,Sydney - Eastern Suburbs,1,1941
+" $4,000 or more",Non-family household,Hunter Valley exc Newcastle,1,459
+ $500-$649,Non-family household,Brisbane - West,3,1380
+" $1,250-$1,499",Family households,Wide Bay,3,7824
+ $650-$799,Non-family household,Brisbane - South,3,2207
+" $4,000 or more",Family households,Sunshine Coast,3,12774
+ $650-$799,Non-family household,Newcastle and Lake Macquarie,1,3015
+" $3,500-$3,999",Non-family household,Melbourne - Inner,2,1506
+ $1-$149,Non-family household,Brisbane - North,3,282
+" $1,750-$1,999",Family households,Hunter Valley exc Newcastle,1,4676
+" $4,000 or more",Family households,Sydney - Blacktown,1,16393
+ $1-$149,Family households,Darling Downs - Maranoa,3,188
+ $500-$649,Family households,Adelaide - South,4,1897
+" $3,000-$3,499",Family households,Barossa - Yorke - Mid North,4,1742
+" $1,750-$1,999",Non-family household,Migratory - Offshore - Shipping (WA),5,0
+" $4,000 or more",Family households,Richmond - Tweed,1,6059
+" $3,500-$3,999",Family households,Sydney - Outer South West,1,4481
+" $2,500-$2,999",Family households,North West,2,3513
+" $3,000-$3,499",Non-family household,Wide Bay,3,228
+" $1,250-$1,499",Non-family household,Perth - South West,5,3286
+" $3,000-$3,499",Family households,Brisbane - West,3,4729
+" $1,750-$1,999",Family households,Perth - North East,5,4180
+ $150-$299,Family households,Brisbane Inner City,3,226
+ $400-$499,Family households,Migratory - Offshore - Shipping (Qld),3,0
+" $4,000 or more",Family households,Moreton Bay - North,3,5771
+" $4,000 or more",Family households,South Australia - South East,4,2927
+" $1,500-$1,749",Non-family household,Other Territories,9,31
+" $1,000-$1,249",Non-family household,Hume,2,2149
+ $800-$999,Family households,Logan - Beaudesert,3,5360
+" $2,000-$2,499",Non-family household,Melbourne - West,2,5706
+" $3,000-$3,499",Non-family household,Townsville,3,427
+ $1-$149,Family households,Adelaide - Central and Hills,4,350
+" $1,000-$1,249",Non-family household,Migratory - Offshore - Shipping (ACT),8,0
+" $2,000-$2,499",Non-family household,Far West and Orana,1,844
+" $1,250-$1,499",Family households,New England and North West,1,3974
+" $1,750-$1,999",Family households,Shepparton,2,2340
+" $1,000-$1,249",Family households,Brisbane - West,3,2302
+ $650-$799,Non-family household,Central Coast,1,2972
+ $150-$299,Family households,Sydney - Inner South West,1,897
+" $3,000-$3,499",Non-family household,Sydney - Outer South West,1,224
+" $1,750-$1,999",Non-family household,Ipswich,3,1477
+" $1,250-$1,499",Non-family household,Sunshine Coast,3,2694
+" $1,250-$1,499",Family households,Migratory - Offshore - Shipping (NT),7,0
+ $800-$999,Non-family household,Adelaide - West,4,2866
+" $3,000-$3,499",Non-family household,Perth - North East,5,561
+" $3,500-$3,999",Non-family household,Launceston and North East,6,53
+" $2,000-$2,499",Family households,Murray,1,4270
+" $3,500-$3,999",Family households,Sydney - South West,1,6002
+ $300-$399,Family households,Perth - Inner,5,146
+" $1,000-$1,249",Non-family household,Sydney - North Sydney and Hornsby,1,3606
+ $1-$149,Non-family household,Other Territories,9,12
+" $1,750-$1,999",Family households,Far West and Orana,1,1648
+ $150-$299,Family households,Central Queensland,3,267
+ $150-$299,Non-family household,Illawarra,1,1205
+" $2,500-$2,999",Family households,Sydney - City and Inner South,1,7061
+ $400-$499,Family households,Darling Downs - Maranoa,3,777
+ $400-$499,Family households,Adelaide - Central and Hills,4,1002
+" $1,500-$1,749",Non-family household,Adelaide - South,4,2514
+" $4,000 or more",Non-family household,Barossa - Yorke - Mid North,4,171
+" $2,500-$2,999",Non-family household,South East,6,17
+ $1-$149,Family households,Richmond - Tweed,1,322
+ $1-$149,Non-family household,Sydney - South West,1,351
+ $400-$499,Non-family household,Perth - South East,5,7308
+ $400-$499,Family households,Western Australia - Wheat Belt,5,771
+" $1,500-$1,749",Non-family household,Wide Bay,3,1367
+" $2,500-$2,999",Non-family household,Southern Highlands and Shoalhaven,1,98
+" $3,000-$3,499",Non-family household,Sydney - Inner West,1,1581
+ $300-$399,Non-family household,Migratory - Offshore - Shipping (Qld),3,0
+" $4,000 or more",Non-family household,Sydney - Northern Beaches,1,1855
+ $800-$999,Non-family household,Hunter Valley exc Newcastle,1,2525
+" $4,000 or more",Family households,Gold Coast,3,21735
+" $3,000-$3,499",Non-family household,Moreton Bay - North,3,272
+" $3,000-$3,499",Family households,Launceston and North East,6,2461
+" $4,000 or more",Family households,Melbourne - North East,2,22188
+" $1,500-$1,749",Family households,Melbourne - South East,2,13354
+" $3,000-$3,499",Non-family household,Brisbane - South,3,1052
+ $500-$649,Family households,Brisbane Inner City,3,689
+" $2,500-$2,999",Family households,Moreton Bay - North,3,6316
+ $300-$399,Family households,Bunbury,5,283
+ $150-$299,Family households,Darwin,7,116
+" $1,250-$1,499",Family households,Adelaide - South,4,8356
+" $3,000-$3,499",Non-family household,Migratory - Offshore - Shipping (WA),5,0
+ $800-$999,Non-family household,Migratory - Offshore - Shipping (ACT),8,0
+ $800-$999,Family households,Melbourne - Inner,2,4298
+ $500-$649,Non-family household,Western Australia - Outback (South),5,1101
+" $1,500-$1,749",Non-family household,Migratory - Offshore - Shipping (WA),5,0
+" $3,000-$3,499",Family households,Newcastle and Lake Macquarie,1,9133
+ $500-$649,Non-family household,Perth - North West,5,5196
+ $400-$499,Non-family household,Western Australia - Outback (North),5,321
+ $650-$799,Non-family household,Central West,1,1787
+" $3,500-$3,999",Non-family household,Sydney - Blacktown,1,142
+" $1,500-$1,749",Family households,Sydney - Ryde,1,2300
+ $500-$649,Family households,Sydney - Sutherland,1,706
+ $1-$149,Family households,Cairns,3,309
+" $3,500-$3,999",Family households,Townsville,3,2903
+ $800-$999,Non-family household,Adelaide - North,4,4626
+ $800-$999,Family households,South Australia - Outback,4,1340
+ $400-$499,Non-family household,Melbourne - Inner South,2,5979
+" $2,000-$2,499",Family households,Toowoomba,3,5835
+" $1,000-$1,249",Family households,Perth - South West,5,6040
+" $4,000 or more",Non-family household,Sydney - Parramatta,1,1626
+ $1-$149,Family households,Gold Coast,3,687
+" $2,500-$2,999",Non-family household,Hobart,6,365
+ $500-$649,Non-family household,Australian Capital Territory,8,2726
+" $3,000-$3,499",Family households,Sydney - Ryde,1,4603
+ $800-$999,Non-family household,Geelong,2,3137
+" $4,000 or more",Family households,Toowoomba,3,4068
+ $800-$999,Non-family household,Melbourne - Inner East,2,3089
+" $2,500-$2,999",Family households,Mornington Peninsula,2,8540
+" $1,500-$1,749",Family households,Ipswich,3,6155
+ $1-$149,Family households,Logan - Beaudesert,3,285
+" $1,000-$1,249",Non-family household,Mackay - Isaac - Whitsunday,3,1458
+ $400-$499,Non-family household,Melbourne - Inner,2,9091
+ $150-$299,Family households,North West,2,202
+ $650-$799,Non-family household,Adelaide - South,4,3541
+" $4,000 or more",Non-family household,Other Territories,9,9
+" $1,750-$1,999",Family households,Ballarat,2,3014
+ $650-$799,Family households,Warrnambool and South West,2,2520
+ $150-$299,Family households,West and North West,6,162
+ $1-$149,Family households,Northern Territory - Outback,7,170
+" $1,250-$1,499",Non-family household,Riverina,1,1200
+ $800-$999,Family households,Sydney - Outer West and Blue Mountains,1,3875
+" $1,250-$1,499",Non-family household,Migratory - Offshore - Shipping (SA),4,0
+ $500-$649,Family households,Sydney - Baulkham Hills and Hawkesbury,1,684
+" $1,000-$1,249",Family households,Queensland - Outback,3,989
+ $1-$149,Non-family household,Barossa - Yorke - Mid North,4,194
+" $1,500-$1,749",Non-family household,Migratory - Offshore - Shipping (NT),7,0
+ $300-$399,Family households,Capital Region,1,307
+ $650-$799,Family households,Sydney - Inner South West,1,8602
+" $2,000-$2,499",Non-family household,Sydney - North Sydney and Hornsby,1,6520
+" $1,250-$1,499",Family households,Bendigo,2,3784
+" $4,000 or more",Family households,Central West,1,5820
+ $150-$299,Family households,Sydney - Inner West,1,327
+" $2,000-$2,499",Family households,Brisbane - West,3,5519
+" $2,000-$2,499",Non-family household,Townsville,3,1828
+" $1,750-$1,999",Family households,Sydney - South West,1,6898
+ $800-$999,Non-family household,Ipswich,3,2962
+ $800-$999,Family households,Perth - Inner,5,1194
+" $3,500-$3,999",Family households,Sydney - Parramatta,1,6742
+" $1,750-$1,999",Non-family household,Sydney - Ryde,1,1255
+" $2,500-$2,999",Non-family household,Sunshine Coast,3,490
+ $150-$299,Family households,Brisbane - South,3,407
+" $1,500-$1,749",Non-family household,Moreton Bay - North,3,1252
+ $650-$799,Non-family household,Wide Bay,3,2611
+" $3,500-$3,999",Non-family household,Bunbury,5,66
+" $1,750-$1,999",Non-family household,Launceston and North East,6,649
+" $2,000-$2,499",Non-family household,Ballarat,2,1146
+ $650-$799,Family households,Central Queensland,3,3621
+" $1,750-$1,999",Family households,Capital Region,1,3705
+ $300-$399,Non-family household,Mid North Coast,1,2409
+ $500-$649,Family households,New England and North West,1,1121
+ $500-$649,Non-family household,Sydney - South West,1,2205
+ $800-$999,Non-family household,Migratory - Offshore - Shipping (Qld),3,0
+" $1,750-$1,999",Non-family household,Melbourne - Inner East,2,2235
+" $2,000-$2,499",Non-family household,Other Territories,9,30
+ $650-$799,Family households,Migratory - Offshore - Shipping (OT),9,0
+" $1,250-$1,499",Family households,Mid North Coast,1,6353
+ $300-$399,Non-family household,Warrnambool and South West,2,1215
+ $150-$299,Non-family household,South East,6,179
+" $1,000-$1,249",Non-family household,Far West and Orana,1,1140
+ $500-$649,Family households,Mornington Peninsula,2,1410
+ $150-$299,Family households,Perth - North East,5,291
+ $400-$499,Family households,Latrobe - Gippsland,2,1877
+ $400-$499,Non-family household,Melbourne - Outer East,2,7445
+" $2,000-$2,499",Non-family household,Brisbane - East,3,1387
+" $2,500-$2,999",Non-family household,Riverina,1,179
+" $4,000 or more",Family households,Logan - Beaudesert,3,7752
+ $1-$149,Non-family household,Perth - North West,5,655
+" $1,000-$1,249",Family households,Coffs Harbour - Grafton,1,3374
+" $3,000-$3,499",Non-family household,Central Queensland,3,485
+ $150-$299,Non-family household,Moreton Bay - South,3,322
+" $1,750-$1,999",Family households,Townsville,3,3717
+" $3,500-$3,999",Non-family household,Perth - Inner,5,215
+" $3,000-$3,499",Non-family household,Migratory - Offshore - Shipping (OT),9,0
+" $1,000-$1,249",Non-family household,Newcastle and Lake Macquarie,1,3878
+" $2,500-$2,999",Non-family household,Richmond - Tweed,1,314
+" $1,250-$1,499",Family households,Sydney - Baulkham Hills and Hawkesbury,1,3312
+" $3,000-$3,499",Non-family household,Sydney - Inner South West,1,1131
+ $150-$299,Family households,Warrnambool and South West,2,154
+" $2,500-$2,999",Non-family household,Latrobe - Gippsland,2,175
+" $1,250-$1,499",Family households,Migratory - Offshore - Shipping (Qld),3,0
+ $650-$799,Non-family household,Migratory - Offshore - Shipping (NT),7,0
+ $1-$149,Non-family household,Australian Capital Territory,8,375
+ $1-$149,Family households,Migratory - Offshore - Shipping (Vic.),2,0
+" $1,250-$1,499",Non-family household,Hobart,6,2049
+" $1,500-$1,749",Family households,West and North West,6,2005
+" $1,500-$1,749",Non-family household,Central West,1,1263
+" $1,000-$1,249",Non-family household,Shepparton,2,1459
+ $500-$649,Non-family household,Western Australia - Wheat Belt,5,1813
+ $500-$649,Non-family household,Hobart,6,3269
+" $1,500-$1,749",Non-family household,Sydney - Inner West,1,2638
+ $650-$799,Non-family household,Migratory - Offshore - Shipping (WA),5,0
+ $650-$799,Family households,Hunter Valley exc Newcastle,1,5462
+ $400-$499,Family households,Queensland - Outback,3,477
+ $400-$499,Family households,Brisbane - East,3,917
+" $1,750-$1,999",Non-family household,Adelaide - North,4,1773
+" $1,750-$1,999",Family households,South Australia - Outback,4,1204
+" $2,500-$2,999",Non-family household,South Australia - South East,4,116
+" $3,500-$3,999",Family households,Riverina,1,1836
+" $1,250-$1,499",Non-family household,South Australia - South East,4,1351
+ $300-$399,Non-family household,Migratory - Offshore - Shipping (ACT),8,0
+ $400-$499,Family households,Coffs Harbour - Grafton,1,836
+" $4,000 or more",Family households,Sydney - Sutherland,1,17111
+ $650-$799,Family households,Migratory - Offshore - Shipping (Qld),3,0
+" $4,000 or more",Non-family household,Western Australia - Wheat Belt,5,274
+ $650-$799,Family households,West and North West,6,3260
+ $150-$299,Non-family household,Central Coast,1,1211
+ $1-$149,Non-family household,Western Australia - Outback (South),5,148
+" $2,500-$2,999",Family households,Bendigo,2,4221
+ $1-$149,Family households,Latrobe - Gippsland,2,462
+" $4,000 or more",Non-family household,Brisbane - East,3,403
+ $1-$149,Family households,Murray,1,152
+" $2,000-$2,499",Non-family household,Sydney - Northern Beaches,1,2516
+" $1,250-$1,499",Family households,Mornington Peninsula,2,6251
+ $800-$999,Family households,Bunbury,5,2818
+" $2,500-$2,999",Non-family household,Murray,1,98
+" $3,500-$3,999",Non-family household,Melbourne - Inner East,2,292
+" $4,000 or more",Non-family household,Queensland - Outback,3,246
+" $2,500-$2,999",Family households,Perth - North East,5,7602
+ $150-$299,Non-family household,Northern Territory - Outback,7,250
+ $800-$999,Family households,Capital Region,1,3533
+" $2,500-$2,999",Non-family household,Migratory - Offshore - Shipping (Vic.),2,0
+ $500-$649,Family households,Cairns,3,1444
+ $500-$649,Family households,Logan - Beaudesert,3,2037
+ $150-$299,Family households,Migratory - Offshore - Shipping (OT),9,0
+" $2,500-$2,999",Family households,Central West,1,5255
+" $2,500-$2,999",Family households,Sydney - Baulkham Hills and Hawkesbury,1,6434
+ $800-$999,Family households,Sydney - South West,1,6454
+ $500-$649,Non-family household,Shepparton,2,1911
+ $400-$499,Family households,Moreton Bay - South,3,630
+" $3,000-$3,499",Family households,Adelaide - North,4,8173
+" $2,000-$2,499",Non-family household,Perth - South East,5,4640
+" $2,000-$2,499",Family households,Western Australia - Wheat Belt,5,4088
+ $300-$399,Non-family household,New England and North West,1,1715
+" $1,000-$1,249",Non-family household,Melbourne - Outer East,2,4230
+ $150-$299,Non-family household,Wide Bay,3,1345
+" $1,750-$1,999",Non-family household,Newcastle and Lake Macquarie,1,2032
+" $1,250-$1,499",Non-family household,Ballarat,2,1413
+" $3,000-$3,499",Non-family household,Warrnambool and South West,2,178
+" $3,000-$3,499",Non-family household,Logan - Beaudesert,3,289
+" $4,000 or more",Family households,Hobart,6,7407
+ $500-$649,Family households,Southern Highlands and Shoalhaven,1,927
+ $650-$799,Family households,Sydney - Inner West,1,2531
+" $3,000-$3,499",Family households,Hume,2,3255
+" $1,250-$1,499",Non-family household,Townsville,3,2099
+" $2,500-$2,999",Family households,Adelaide - West,4,6792
+" $1,500-$1,749",Non-family household,Darwin,7,1160
+" $3,500-$3,999",Family households,Mackay - Isaac - Whitsunday,3,2445
+" $1,500-$1,749",Family households,Mandurah,5,1324
+ $150-$299,Family households,Migratory - Offshore - Shipping (WA),5,0
+" $1,250-$1,499",Family households,Northern Territory - Outback,7,1074
+ $500-$649,Non-family household,Murray,1,1999
+" $4,000 or more",Family households,Migratory - Offshore - Shipping (WA),5,0
+" $2,000-$2,499",Non-family household,Melbourne - Inner South,2,5138
+" $2,000-$2,499",Non-family household,Brisbane - North,3,2542
+ $400-$499,Non-family household,Mackay - Isaac - Whitsunday,3,2391
+" $1,500-$1,749",Non-family household,Illawarra,1,1703
+ $650-$799,Family households,Sydney - Outer South West,1,3733
+" $1,750-$1,999",Non-family household,Migratory - Offshore - Shipping (Tas.),6,0
+ $800-$999,Family households,Sydney - Blacktown,1,3880
+" $1,000-$1,249",Non-family household,Sydney - Ryde,1,1889
+" $1,750-$1,999",Family households,Sydney - Outer West and Blue Mountains,1,5325
+ $300-$399,Family households,Melbourne - West,2,1289
+" $2,500-$2,999",Family households,Adelaide - North,4,11713
+" $1,250-$1,499",Family households,Cairns,3,5290
+ $150-$299,Family households,Melbourne - North West,2,572
+" $1,750-$1,999",Non-family household,Brisbane - North,3,1498
+" $2,500-$2,999",Family households,Wide Bay,3,5635
+ $650-$799,Non-family household,Migratory - Offshore - Shipping (NSW),1,0
+" $1,000-$1,249",Family households,Migratory - Offshore - Shipping (NSW),1,0
+ $400-$499,Family households,Melbourne - West,2,3411
+ $500-$649,Family households,Migratory - Offshore - Shipping (Vic.),2,0
+ $650-$799,Family households,Mid North Coast,1,6697
+" $1,250-$1,499",Non-family household,Southern Highlands and Shoalhaven,1,1020
+" $1,250-$1,499",Family households,Geelong,2,6507
+" $4,000 or more",Non-family household,Latrobe - Gippsland,2,623
+ $400-$499,Family households,Barossa - Yorke - Mid North,4,784
+" $2,500-$2,999",Non-family household,Northern Territory - Outback,7,93
+ $150-$299,Family households,Melbourne - South East,2,1123
+" $1,500-$1,749",Family households,Newcastle and Lake Macquarie,1,5541
+ $400-$499,Family households,Sydney - Northern Beaches,1,573
+" $3,000-$3,499",Non-family household,Melbourne - North East,2,957
+" $1,500-$1,749",Non-family household,Central Queensland,3,1368
+ $150-$299,Non-family household,Latrobe - Gippsland,2,1380
+ $800-$999,Family households,Migratory - Offshore - Shipping (Tas.),6,0
+ $300-$399,Non-family household,Mornington Peninsula,2,2106
+" $1,750-$1,999",Non-family household,Perth - Inner,5,1637
+ $500-$649,Family households,Richmond - Tweed,1,1482
+ $300-$399,Non-family household,Adelaide - West,4,2642
+ $1-$149,Family households,Hobart,6,197
+" $2,000-$2,499",Non-family household,Coffs Harbour - Grafton,1,715
+ $400-$499,Family households,Illawarra,1,1395
+ $400-$499,Family households,Sydney - Parramatta,1,2163
+ $1-$149,Non-family household,Queensland - Outback,3,104
+" $3,500-$3,999",Family households,Hobart,6,3225
+ $1-$149,Family households,Mid North Coast,1,383
+ $400-$499,Non-family household,Far West and Orana,1,2844
+" $1,500-$1,749",Non-family household,Brisbane - South,3,2645
+ $1-$149,Non-family household,Brisbane - West,3,211
+ $300-$399,Non-family household,Brisbane Inner City,3,2088
+ $300-$399,Non-family household,Ipswich,3,1833
+ $500-$649,Non-family household,South Australia - Outback,4,1051
+ $400-$499,Non-family household,Sydney - North Sydney and Hornsby,1,3218
+" $2,000-$2,499",Family households,Western Australia - Outback (South),5,3355
+" $2,500-$2,999",Family households,Sydney - Eastern Suburbs,1,4834
+" $3,000-$3,499",Family households,Melbourne - Inner South,2,9790
+" $1,750-$1,999",Non-family household,Sydney - City and Inner South,1,4404
+" $3,000-$3,499",Non-family household,North West,2,175
+" $1,750-$1,999",Family households,Sydney - North Sydney and Hornsby,1,4450
+" $1,000-$1,249",Family households,Central Coast,1,6289
+ $150-$299,Non-family household,Darling Downs - Maranoa,3,490
+" $4,000 or more",Non-family household,Adelaide - Central and Hills,4,1474
+" $3,000-$3,499",Family households,Perth - South East,5,11470
+ $500-$649,Non-family household,Perth - South West,5,4160
+" $1,250-$1,499",Family households,South East,6,1054
+" $3,500-$3,999",Family households,South East,6,311
+" $4,000 or more",Non-family household,Mandurah,5,237
+" $1,250-$1,499",Non-family household,Sydney - Sutherland,1,1516
+ $300-$399,Non-family household,West and North West,6,1300
+" $2,000-$2,499",Non-family household,Riverina,1,1042
+" $1,500-$1,749",Family households,Western Australia - Outback (North),5,504
+" $1,000-$1,249",Family households,Australian Capital Territory,8,4041
+ $1-$149,Non-family household,Melbourne - West,2,714
+" $1,750-$1,999",Non-family household,Adelaide - West,4,1511
+" $1,750-$1,999",Family households,Migratory - Offshore - Shipping (SA),4,0
+" $1,500-$1,749",Non-family household,Sydney - Outer South West,1,1163
+ $800-$999,Family households,Shepparton,2,2493
+" $3,000-$3,499",Family households,Brisbane - North,3,5881
+ $1-$149,Family households,South East,6,69
+" $1,500-$1,749",Family households,Melbourne - Outer East,2,7501
+ $400-$499,Non-family household,Capital Region,1,5089
+" $4,000 or more",Non-family household,Newcastle and Lake Macquarie,1,1113
+" $1,500-$1,749",Non-family household,Bendigo,2,1086
+" $3,500-$3,999",Family households,Shepparton,2,1234
+" $1,250-$1,499",Non-family household,Logan - Beaudesert,3,2199
+" $1,750-$1,999",Non-family household,Hume,2,759
+ $400-$499,Non-family household,Townsville,3,3667
+ $500-$649,Family households,Migratory - Offshore - Shipping (SA),4,0
+ $400-$499,Family households,Brisbane - West,3,460
+ $400-$499,Family households,Western Australia - Outback (South),5,525
+ $300-$399,Family households,Barossa - Yorke - Mid North,4,174
+" $1,000-$1,249",Non-family household,Mandurah,5,886
+" $4,000 or more",Non-family household,Western Australia - Outback (South),5,373
+" $1,000-$1,249",Family households,Sydney - Baulkham Hills and Hawkesbury,1,2597
+" $1,750-$1,999",Non-family household,Sydney - Eastern Suburbs,1,2354
+" $1,500-$1,749",Family households,Sydney - Outer West and Blue Mountains,1,4975
+" $2,000-$2,499",Family households,Sydney - South West,1,14188
+ $150-$299,Non-family household,Cairns,3,941
+ $650-$799,Non-family household,Toowoomba,3,1369
+" $2,000-$2,499",Non-family household,Hume,2,988
+ $650-$799,Family households,Melbourne - Inner South,2,3603
+ $650-$799,Non-family household,Perth - South West,5,2681
+" $4,000 or more",Family households,Migratory - Offshore - Shipping (NSW),1,0
+" $3,500-$3,999",Non-family household,Melbourne - West,2,460
+" $1,500-$1,749",Family households,Warrnambool and South West,2,2122
+" $4,000 or more",Non-family household,Darling Downs - Maranoa,3,259
+ $800-$999,Non-family household,Migratory - Offshore - Shipping (NT),7,0
+ $300-$399,Non-family household,Sydney - Ryde,1,1079
+" $1,750-$1,999",Family households,Melbourne - Outer East,2,7968
+" $4,000 or more",Non-family household,Melbourne - West,2,1905
+" $3,000-$3,499",Family households,Hunter Valley exc Newcastle,1,6115
+" $1,500-$1,749",Non-family household,Sydney - Eastern Suburbs,1,2429
+ $500-$649,Non-family household,Melbourne - Inner,2,7054
+" $4,000 or more",Non-family household,Brisbane - West,3,637
+" $1,250-$1,499",Non-family household,Perth - North West,5,4239
+" $1,500-$1,749",Non-family household,Melbourne - Inner East,2,2663
+ $1-$149,Family households,Melbourne - North East,2,613
+" $1,750-$1,999",Non-family household,Migratory - Offshore - Shipping (ACT),8,0
+" $1,250-$1,499",Family households,Central Coast,1,7360
+ $650-$799,Non-family household,Sydney - Baulkham Hills and Hawkesbury,1,835
+ $500-$649,Non-family household,Mackay - Isaac - Whitsunday,3,1642
+ $800-$999,Non-family household,Adelaide - South,4,4144
+ $500-$649,Family households,Sydney - City and Inner South,1,834
+ $650-$799,Family households,Darwin,7,865
+" $1,750-$1,999",Non-family household,Sydney - Blacktown,1,1070
+ $300-$399,Non-family household,Sydney - City and Inner South,1,3078
+ $300-$399,Family households,Melbourne - North West,2,632
+" $1,500-$1,749",Non-family household,Gold Coast,3,3860
+ $650-$799,Family households,New England and North West,1,3797
+" $1,000-$1,249",Non-family household,Sydney - Parramatta,1,3702
+" $1,750-$1,999",Family households,Perth - North West,5,8106
+" $1,000-$1,249",Non-family household,Melbourne - South East,2,5909
+ $800-$999,Family households,Mackay - Isaac - Whitsunday,3,1856
+" $1,000-$1,249",Family households,Other Territories,9,64
+ $300-$399,Family households,Geelong,2,378
+ $500-$649,Family households,Moreton Bay - South,3,868
+" $2,500-$2,999",Family households,Migratory - Offshore - Shipping (ACT),8,0
+" $3,000-$3,499",Non-family household,Migratory - Offshore - Shipping (NSW),1,0
+" $1,750-$1,999",Non-family household,Moreton Bay - North,3,883
+ $400-$499,Non-family household,South Australia - Outback,4,2189
+" $2,000-$2,499",Non-family household,Launceston and North East,6,786
+" $2,500-$2,999",Non-family household,Melbourne - North East,2,628
+" $2,000-$2,499",Family households,Gold Coast,3,22868
+" $1,000-$1,249",Non-family household,Sydney - Outer West and Blue Mountains,1,3022
+" $3,500-$3,999",Non-family household,Melbourne - North West,2,176
+" $1,000-$1,249",Family households,Toowoomba,3,2930
+" $1,000-$1,249",Non-family household,Western Australia - Outback (North),5,447
+ $400-$499,Non-family household,Sydney - South West,1,4562
+" $3,500-$3,999",Non-family household,North West,2,56
+" $2,000-$2,499",Family households,Wide Bay,3,8800
+" $2,000-$2,499",Family households,Illawarra,1,10298
+" $3,500-$3,999",Non-family household,Geelong,2,201
+ $150-$299,Non-family household,Mornington Peninsula,2,1002
+ $150-$299,Non-family household,Brisbane - West,3,483
+ $650-$799,Non-family household,Perth - North East,5,1613
+" $3,500-$3,999",Family households,Richmond - Tweed,1,2474
+" $4,000 or more",Family households,Sydney - Inner South West,1,23253
+ $150-$299,Family households,Melbourne - North East,2,681
+ $1-$149,Non-family household,Toowoomba,3,190
+ $800-$999,Family households,Perth - South West,5,5137
+" $1,250-$1,499",Family households,Latrobe - Gippsland,2,7061
+" $1,000-$1,249",Non-family household,Riverina,1,1747
+" $1,750-$1,999",Family households,Melbourne - South East,2,14309
+ $650-$799,Family households,Brisbane Inner City,3,1485
+" $3,500-$3,999",Non-family household,Barossa - Yorke - Mid North,4,12
+" $2,000-$2,499",Family households,Perth - North East,5,9627
+" $4,000 or more",Family households,Migratory - Offshore - Shipping (OT),9,0
+" $3,000-$3,499",Family households,Sydney - City and Inner South,1,6975
+" $1,250-$1,499",Non-family household,Capital Region,1,1752
+" $3,500-$3,999",Non-family household,Bendigo,2,47
+" $2,000-$2,499",Family households,Brisbane - South,3,12225
+" $4,000 or more",Family households,Darwin,7,6465
+" $1,750-$1,999",Non-family household,Migratory - Offshore - Shipping (NT),7,0
+ $1-$149,Non-family household,Illawarra,1,417
+ $1-$149,Non-family household,Sydney - Blacktown,1,293
+ $500-$649,Non-family household,Gold Coast,3,7134
+ $500-$649,Non-family household,Bunbury,5,2188
+" $4,000 or more",Family households,Perth - North West,5,27402
+" $2,500-$2,999",Family households,Launceston and North East,6,3367
+ $300-$399,Family households,North West,2,257
+ $500-$649,Family households,Hunter Valley exc Newcastle,1,1575
+ $300-$399,Non-family household,Richmond - Tweed,1,2257
+ $400-$499,Non-family household,Sydney - Inner South West,1,7995
+ $650-$799,Non-family household,Geelong,2,2671
+" $1,750-$1,999",Non-family household,Melbourne - West,2,3483
+" $2,000-$2,499",Family households,Moreton Bay - North,3,8970
+" $1,000-$1,249",Non-family household,South Australia - South East,4,2220
+" $1,500-$1,749",Family households,Mid North Coast,1,3725
+" $1,750-$1,999",Non-family household,Wide Bay,3,849
+ $300-$399,Family households,Australian Capital Territory,8,319
+ $400-$499,Family households,Central Coast,1,1497
+" $1,000-$1,249",Non-family household,Hunter Valley exc Newcastle,1,2674
+" $1,750-$1,999",Family households,Murray,1,2108
+ $300-$399,Non-family household,Newcastle and Lake Macquarie,1,3077
+" $3,000-$3,499",Family households,Sydney - Northern Beaches,1,5804
+" $1,000-$1,249",Non-family household,Sunshine Coast,3,3499
+" $4,000 or more",Non-family household,Launceston and North East,6,291
+ $500-$649,Family households,Riverina,1,902
+" $2,500-$2,999",Family households,Sydney - Blacktown,1,11037
+ $150-$299,Non-family household,Sydney - City and Inner South,1,1583
+" $3,500-$3,999",Family households,Migratory - Offshore - Shipping (Vic.),2,0
+ $150-$299,Family households,Gold Coast,3,711
+" $2,000-$2,499",Non-family household,Ipswich,3,1862
+" $2,500-$2,999",Non-family household,Far West and Orana,1,116
+" $2,000-$2,499",Family households,Sydney - Outer South West,1,10684
+ $400-$499,Family households,Brisbane - North,3,674
+ $300-$399,Family households,Western Australia - Outback (South),5,166
+" $1,000-$1,249",Family households,Migratory - Offshore - Shipping (NT),7,0
+ $1-$149,Family households,Migratory - Offshore - Shipping (Qld),3,0
+" $3,000-$3,499",Family households,Migratory - Offshore - Shipping (Qld),3,0
+ $150-$299,Non-family household,Sydney - Northern Beaches,1,597
+" $2,000-$2,499",Non-family household,Latrobe - Gippsland,2,1571
+" $1,000-$1,249",Family households,Adelaide - South,4,7341
+ $300-$399,Non-family household,Perth - South East,5,3317
+ $300-$399,Family households,Western Australia - Wheat Belt,5,208
+ $650-$799,Family households,Melbourne - Inner,2,4251
+" $3,500-$3,999",Non-family household,Perth - North East,5,110
+" $1,500-$1,749",Family households,New England and North West,1,2727
+ $650-$799,Family households,Sydney - North Sydney and Hornsby,1,2455
+ $650-$799,Non-family household,Sydney - Eastern Suburbs,1,1743
+" $3,000-$3,499",Family households,Sydney - Parramatta,1,9817
+" $3,500-$3,999",Non-family household,Moreton Bay - North,3,55
+" $4,000 or more",Non-family household,Moreton Bay - South,3,281
+ $150-$299,Non-family household,Other Territories,9,14
+" $1,000-$1,249",Family households,Melbourne - West,2,12491
+ $800-$999,Non-family household,Sydney - Baulkham Hills and Hawkesbury,1,974
+" $4,000 or more",Family households,North West,2,2683
+ $800-$999,Non-family household,Brisbane - North,3,2144
+ $650-$799,Non-family household,Queensland - Outback,3,440
+" $1,750-$1,999",Non-family household,Adelaide - South,4,1792
+ $300-$399,Non-family household,Northern Territory - Outback,7,291
+" $1,250-$1,499",Non-family household,Sydney - Outer West and Blue Mountains,1,2443
+" $1,500-$1,749",Non-family household,Perth - South West,5,2960
+ $500-$649,Family households,Darling Downs - Maranoa,3,772
+ $500-$649,Family households,Sunshine Coast,3,2006
+ $650-$799,Family households,Mackay - Isaac - Whitsunday,3,2277
+ $500-$649,Family households,Adelaide - Central and Hills,4,1213
+ $800-$999,Non-family household,Hume,2,2178
+" $3,500-$3,999",Family households,Melbourne - Outer East,2,8798
+" $1,250-$1,499",Family households,Moreton Bay - South,3,4143
+ $400-$499,Non-family household,Ballarat,2,4538
+" $3,000-$3,499",Family households,Adelaide - Central and Hills,4,6746
+ $650-$799,Non-family household,Western Australia - Wheat Belt,5,1084
+" $2,000-$2,499",Non-family household,Sydney - Ryde,1,2501
+" $1,250-$1,499",Non-family household,Melbourne - Inner,2,11340
+" $1,000-$1,249",Non-family household,Warrnambool and South West,2,1541
+ $150-$299,Non-family household,Adelaide - Central and Hills,4,1298
+ $500-$649,Family households,South Australia - South East,4,1360
+ $1-$149,Non-family household,Bunbury,5,254
+ $800-$999,Family households,Australian Capital Territory,8,2737
+" $2,500-$2,999",Non-family household,Mid North Coast,1,138
+ $650-$799,Family households,Logan - Beaudesert,3,5672
+" $1,000-$1,249",Family households,Wide Bay,3,7484
+" $3,000-$3,499",Non-family household,Murray,1,125
+ $400-$499,Non-family household,Sydney - Inner West,1,3445
+ $150-$299,Family households,Melbourne - Inner,2,748
+" $4,000 or more",Family households,Sydney - Inner West,1,24596
+ $1-$149,Non-family household,Migratory - Offshore - Shipping (NSW),1,0
+ $1-$149,Family households,Townsville,3,230
+" $2,000-$2,499",Family households,Migratory - Offshore - Shipping (WA),5,0
+" $2,500-$2,999",Family households,Illawarra,1,8496
+" $3,000-$3,499",Non-family household,Melbourne - North West,2,573
+" $2,500-$2,999",Non-family household,Townsville,3,320
+" $1,250-$1,499",Family households,Sydney - Ryde,1,2874
+" $1,500-$1,749",Non-family household,Melbourne - North West,2,2138
+ $1-$149,Family households,Warrnambool and South West,2,161
+" $1,500-$1,749",Family households,Townsville,3,3364
+ $500-$649,Non-family household,Capital Region,1,3033
+ $800-$999,Non-family household,Newcastle and Lake Macquarie,1,3844
+" $1,750-$1,999",Non-family household,Bendigo,2,820
+" $3,500-$3,999",Family households,Logan - Beaudesert,3,4077
+" $1,000-$1,249",Family households,Moreton Bay - North,3,5506
+" $1,500-$1,749",Family households,Sydney - North Sydney and Hornsby,1,3971
+" $3,000-$3,499",Family households,Migratory - Offshore - Shipping (ACT),8,0
+" $3,500-$3,999",Family households,Melbourne - South East,2,11255
+" $3,500-$3,999",Non-family household,Western Australia - Outback (South),5,56
+" $4,000 or more",Non-family household,Brisbane - North,3,700
+ $500-$649,Family households,Ipswich,3,2058
+ $400-$499,Family households,Adelaide - South,4,1564
+ $150-$299,Non-family household,Migratory - Offshore - Shipping (ACT),8,0
+ $1-$149,Non-family household,Perth - Inner,5,301
+" $1,750-$1,999",Non-family household,Other Territories,9,36
+ $650-$799,Family households,Sydney - Sutherland,1,2046
+ $300-$399,Family households,Melbourne - Inner East,2,553
+ $650-$799,Family households,Melbourne - North East,2,7007
+ $500-$649,Family households,Latrobe - Gippsland,2,1988
+" $1,750-$1,999",Family households,Hobart,6,4124
+ $1-$149,Family households,South Australia - South East,4,271
+ $400-$499,Non-family household,West and North West,6,3669
+ $400-$499,Family households,Hume,2,991
+ $400-$499,Non-family household,Warrnambool and South West,2,3245
+" $1,500-$1,749",Family households,Brisbane Inner City,3,2755
+ $800-$999,Non-family household,Mandurah,5,935
+" $1,000-$1,249",Family households,Central West,1,3752
+ $300-$399,Family households,Sydney - Eastern Suburbs,1,217
+" $3,500-$3,999",Family households,Perth - South East,5,7165
+ $650-$799,Family households,Far West and Orana,1,2026
+ $500-$649,Non-family household,Migratory - Offshore - Shipping (NSW),1,0
+" $1,750-$1,999",Non-family household,Barossa - Yorke - Mid North,4,418
+ $500-$649,Non-family household,Toowoomba,3,2221
+" $2,000-$2,499",Non-family household,Adelaide - West,4,2256
+" $2,000-$2,499",Family households,Perth - North West,5,18679
+" $1,750-$1,999",Family households,Western Australia - Outback (North),5,654
+" $1,500-$1,749",Non-family household,North West,2,929
+" $1,250-$1,499",Non-family household,Gold Coast,3,5053
+" $1,250-$1,499",Family households,Launceston and North East,6,3743
+" $2,500-$2,999",Non-family household,Sydney - Outer West and Blue Mountains,1,269
+" $3,500-$3,999",Family households,Sydney - Outer West and Blue Mountains,1,5365
+ $800-$999,Non-family household,Cairns,3,2910
+ $800-$999,Non-family household,Mornington Peninsula,2,3123
+" $3,500-$3,999",Non-family household,Australian Capital Territory,8,574
+ $300-$399,Non-family household,Cairns,3,2032
+" $2,000-$2,499",Non-family household,Moreton Bay - South,3,1258
+" $1,250-$1,499",Non-family household,South Australia - Outback,4,685
+" $4,000 or more",Non-family household,Central Coast,1,707
+ $1-$149,Family households,Riverina,1,188
+" $1,250-$1,499",Family households,Adelaide - North,4,10655
+ $400-$499,Non-family household,Shepparton,2,3213
+" $4,000 or more",Family households,Shepparton,2,2544
+" $3,000-$3,499",Family households,Brisbane - East,3,6031
+ $150-$299,Family households,Mackay - Isaac - Whitsunday,3,188
+ $300-$399,Non-family household,Migratory - Offshore - Shipping (Vic.),2,0
+ $300-$399,Non-family household,Mandurah,5,964
+" $2,000-$2,499",Non-family household,South East,6,158
+ $150-$299,Non-family household,Migratory - Offshore - Shipping (NT),7,0
+ $300-$399,Family households,Bendigo,2,210
+ $150-$299,Non-family household,Brisbane - East,3,677
+ $300-$399,Non-family household,Latrobe - Gippsland,2,3000
+" $3,500-$3,999",Family households,Melbourne - Inner South,2,7155
+" $3,500-$3,999",Family households,Western Australia - Outback (North),5,1286
+" $2,500-$2,999",Non-family household,New England and North West,1,164
+" $1,750-$1,999",Non-family household,Sydney - Baulkham Hills and Hawkesbury,1,603
+" $1,500-$1,749",Family households,Ballarat,2,2845
+" $2,500-$2,999",Family households,Melbourne - Inner East,2,8058
+ $300-$399,Non-family household,Melbourne - Inner South,2,2517
+" $1,000-$1,249",Non-family household,West and North West,6,1285
+ $1-$149,Non-family household,Melbourne - Inner East,2,652
+" $4,000 or more",Family households,Central Queensland,3,6815
+ $150-$299,Non-family household,Adelaide - West,4,1234
+ $800-$999,Non-family household,Launceston and North East,6,1880
+ $400-$499,Family households,Migratory - Offshore - Shipping (NT),7,0
+ $400-$499,Non-family household,Migratory - Offshore - Shipping (OT),9,0
+ $800-$999,Family households,Migratory - Offshore - Shipping (NSW),1,0
+ $650-$799,Family households,Shepparton,2,3001
+ $150-$299,Non-family household,Queensland - Outback,3,382
+" $2,000-$2,499",Family households,Central West,1,6849
+" $1,500-$1,749",Family households,Far West and Orana,1,1543
+" $4,000 or more",Family households,Brisbane - South,3,18524
+" $3,000-$3,499",Family households,Adelaide - West,4,5274
+" $1,000-$1,249",Non-family household,Migratory - Offshore - Shipping (SA),4,0
+" $1,250-$1,499",Family households,Ipswich,3,7656
+" $1,000-$1,249",Family households,Migratory - Offshore - Shipping (Tas.),6,0
+" $2,500-$2,999",Family households,Queensland - Outback,3,1490
+" $2,000-$2,499",Non-family household,Adelaide - Central and Hills,4,3321
+ $150-$299,Non-family household,Adelaide - North,4,1651
+ $150-$299,Family households,South Australia - Outback,4,112
+" $2,000-$2,499",Non-family household,Mandurah,5,764
+" $1,500-$1,749",Family households,Perth - South East,5,7508
+ $500-$649,Family households,South East,6,326
+ $1-$149,Non-family household,Central West,1,372
+" $4,000 or more",Non-family household,Adelaide - North,4,532
+" $4,000 or more",Family households,South Australia - Outback,4,1561
+" $1,250-$1,499",Family households,Newcastle and Lake Macquarie,1,7414
+ $800-$999,Non-family household,Sydney - Ryde,1,1458
+" $3,000-$3,499",Non-family household,Melbourne - Inner,2,5604
+ $650-$799,Non-family household,Moreton Bay - North,3,2015
+" $2,500-$2,999",Non-family household,Sydney - Sutherland,1,188
+ $1-$149,Family households,New England and North West,1,244
+ $1-$149,Non-family household,Sydney - Eastern Suburbs,1,413
+ $150-$299,Non-family household,Adelaide - South,4,1496
+" $3,500-$3,999",Non-family household,Sydney - Eastern Suburbs,1,550
+ $500-$649,Family households,Sydney - Parramatta,1,2328
+" $4,000 or more",Non-family household,Hume,2,342
+ $650-$799,Family households,Melbourne - Outer East,2,6454
+" $3,500-$3,999",Family households,New England and North West,1,1765
+" $1,250-$1,499",Non-family household,Sydney - South West,1,1672
+" $3,500-$3,999",Family households,Migratory - Offshore - Shipping (SA),4,0
+ $1-$149,Non-family household,Perth - South West,5,542
+ $800-$999,Non-family household,Brisbane - East,3,1754
+" $2,000-$2,499",Non-family household,Darling Downs - Maranoa,3,613
+" $1,500-$1,749",Non-family household,Bunbury,5,1027
+" $1,000-$1,249",Family households,Illawarra,1,5228
+" $1,750-$1,999",Family households,Melbourne - Inner,2,6393
+ $800-$999,Family households,Brisbane - South,3,3751
+" $4,000 or more",Family households,Mackay - Isaac - Whitsunday,3,6206
+ $1-$149,Family households,Sunshine Coast,3,532
+" $4,000 or more",Non-family household,Adelaide - South,4,723
+ $150-$299,Non-family household,Coffs Harbour - Grafton,1,637
+" $1,000-$1,249",Non-family household,Southern Highlands and Shoalhaven,1,1582
+ $150-$299,Non-family household,Sydney - Baulkham Hills and Hawkesbury,1,349
+" $1,250-$1,499",Non-family household,Sydney - Inner West,1,2930
+ $500-$649,Non-family household,Melbourne - North West,2,2613
+ $400-$499,Non-family household,Melbourne - South East,2,9651
+ $800-$999,Non-family household,Moreton Bay - South,3,1436
+" $1,000-$1,249",Non-family household,Migratory - Offshore - Shipping (Qld),3,0
+ $300-$399,Family households,Perth - North East,5,344
+" $2,000-$2,499",Non-family household,Northern Territory - Outback,7,903
+" $1,250-$1,499",Family households,Migratory - Offshore - Shipping (ACT),8,0
+ $500-$649,Family households,Mid North Coast,1,1571
+" $4,000 or more",Non-family household,Sydney - Baulkham Hills and Hawkesbury,1,507
+" $1,250-$1,499",Family households,Adelaide - Central and Hills,4,5558
+" $2,000-$2,499",Family households,Perth - South West,5,14106
+ $400-$499,Non-family household,Hobart,6,5249
+" $3,500-$3,999",Non-family household,Central West,1,45
+" $4,000 or more",Non-family household,Coffs Harbour - Grafton,1,240
+" $1,000-$1,249",Non-family household,Ballarat,2,2081
+" $1,750-$1,999",Family households,Melbourne - North East,2,8381
+" $3,500-$3,999",Non-family household,Western Australia - Wheat Belt,5,28
+" $3,500-$3,999",Family households,Sunshine Coast,3,4816
+ $650-$799,Family households,Western Australia - Outback (North),5,495
+" $2,000-$2,499",Family households,North West,2,5278
+ $400-$499,Family households,Other Territories,9,20
+" $1,000-$1,249",Non-family household,Mid North Coast,1,2360
+" $1,000-$1,249",Family households,Sydney - Blacktown,1,4969
+" $1,250-$1,499",Family households,Sydney - City and Inner South,1,3346
+ $800-$999,Family households,Sydney - Outer South West,1,3544
+" $1,000-$1,249",Family households,Barossa - Yorke - Mid North,4,2508
+ $150-$299,Family households,Murray,1,163
+" $1,000-$1,249",Non-family household,Richmond - Tweed,1,2751
+" $1,250-$1,499",Family households,Darling Downs - Maranoa,3,2859
+" $3,500-$3,999",Family households,South Australia - South East,4,1344
+ $1-$149,Non-family household,Western Australia - Wheat Belt,5,214
+ $400-$499,Family households,Launceston and North East,6,927
+" $1,250-$1,499",Family households,Brisbane - North,3,3713
+" $3,500-$3,999",Non-family household,Wide Bay,3,49
+" $2,500-$2,999",Family households,Adelaide - South,4,10454
+" $2,500-$2,999",Non-family household,Brisbane Inner City,3,1357
+ $650-$799,Non-family household,Barossa - Yorke - Mid North,4,1147
+ $650-$799,Non-family household,Illawarra,1,2234
+ $650-$799,Non-family household,Melbourne - West,2,3884
+ $500-$649,Non-family household,Brisbane - South,3,2991
+" $3,000-$3,499",Family households,Darling Downs - Maranoa,3,1830
+ $1-$149,Non-family household,Wide Bay,3,467
+" $3,500-$3,999",Non-family household,Perth - South West,5,167
+" $1,500-$1,749",Family households,Hunter Valley exc Newcastle,1,4463
+" $1,250-$1,499",Non-family household,Murray,1,987
+ $150-$299,Family households,Sydney - Outer South West,1,309
+" $2,500-$2,999",Non-family household,Logan - Beaudesert,3,279
+" $1,000-$1,249",Non-family household,Townsville,3,2524
+ $300-$399,Family households,Sydney - Blacktown,1,518
+" $3,500-$3,999",Family households,Brisbane Inner City,3,4609
+" $4,000 or more",Family households,Sydney - Outer South West,1,10662
+ $800-$999,Family households,North West,2,2773
+" $1,500-$1,749",Family households,South Australia - South East,4,3242
+ $500-$649,Non-family household,Migratory - Offshore - Shipping (WA),5,0
+" $1,500-$1,749",Family households,Richmond - Tweed,1,4086
+ $150-$299,Non-family household,Hume,2,749
+ $800-$999,Family households,Melbourne - North West,2,5674
+" $2,500-$2,999",Family households,Brisbane - West,3,4663
+" $3,000-$3,499",Family households,Latrobe - Gippsland,2,4836
+" $2,000-$2,499",Family households,Australian Capital Territory,8,14033
+" $2,000-$2,499",Non-family household,Newcastle and Lake Macquarie,1,3367
+" $2,500-$2,999",Non-family household,Warrnambool and South West,2,111
+ $1-$149,Family households,Brisbane Inner City,3,241
+ $300-$399,Family households,Moreton Bay - North,3,405
+ $500-$649,Family households,Migratory - Offshore - Shipping (Qld),3,0
+" $1,500-$1,749",Family households,Migratory - Offshore - Shipping (Qld),3,0
+" $2,500-$2,999",Family households,Central Coast,1,9036
+" $1,250-$1,499",Family households,Brisbane - East,3,4337
+ $650-$799,Non-family household,Brisbane - West,3,1066
+" $1,000-$1,249",Non-family household,Perth - South East,5,5056
+" $1,000-$1,249",Family households,Western Australia - Wheat Belt,5,2454
+ $300-$399,Non-family household,South East,6,434
+ $1-$149,Family households,Southern Highlands and Shoalhaven,1,268
+" $1,250-$1,499",Family households,Adelaide - West,4,4903
+ $1-$149,Non-family household,Migratory - Offshore - Shipping (Tas.),6,0
+ $300-$399,Non-family household,Hunter Valley exc Newcastle,1,1901
+" $1,000-$1,249",Family households,Bendigo,2,3258
+" $1,250-$1,499",Non-family household,Melbourne - North East,2,3738
+" $2,500-$2,999",Non-family household,Migratory - Offshore - Shipping (SA),4,0
+ $300-$399,Family households,Perth - South West,5,586
+" $2,500-$2,999",Family households,Melbourne - West,2,22510
+" $3,000-$3,499",Non-family household,Darwin,7,439
+" $3,000-$3,499",Family households,Cairns,3,4373
+" $3,500-$3,999",Family households,Southern Highlands and Shoalhaven,1,1659
+" $3,000-$3,499",Family households,Mornington Peninsula,2,6680
+ $1-$149,Family households,West and North West,6,145
+ $300-$399,Family households,Central West,1,336
+" $3,000-$3,499",Family households,Mandurah,5,1916
+" $1,000-$1,249",Family households,Perth - Inner,5,1662
+" $4,000 or more",Family households,Capital Region,1,9121
+" $1,250-$1,499",Family households,Sydney - Northern Beaches,1,3123
+" $1,500-$1,749",Non-family household,Migratory - Offshore - Shipping (NSW),1,0
+" $1,250-$1,499",Non-family household,Shepparton,2,977
+" $3,000-$3,499",Non-family household,South Australia - Outback,4,152
+" $2,500-$2,999",Non-family household,Ballarat,2,161
+ $1-$149,Non-family household,Moreton Bay - North,3,311
+" $1,750-$1,999",Non-family household,Central Coast,1,1410
+" $1,750-$1,999",Non-family household,Queensland - Outback,3,405
+" $2,500-$2,999",Family households,Migratory - Offshore - Shipping (NT),7,0
+" $3,500-$3,999",Family households,Sydney - Sutherland,1,4662
+" $4,000 or more",Family households,Murray,1,2557
+ $400-$499,Non-family household,Sydney - Outer West and Blue Mountains,1,4696
+" $1,500-$1,749",Family households,Migratory - Offshore - Shipping (Vic.),2,0
+" $1,500-$1,749",Non-family household,Perth - North East,5,1805
+ $500-$649,Family households,Northern Territory - Outback,7,392
+ $150-$299,Family households,Capital Region,1,264
+" $2,500-$2,999",Non-family household,Sydney - North Sydney and Hornsby,1,562
+" $3,000-$3,499",Non-family household,Sydney - South West,1,290
+" $1,750-$1,999",Family households,Mackay - Isaac - Whitsunday,3,2466
+" $1,500-$1,749",Non-family household,Australian Capital Territory,8,4773
+" $1,250-$1,499",Family households,Coffs Harbour - Grafton,1,3715
+" $1,750-$1,999",Non-family household,Geelong,2,1682
+ $800-$999,Family households,Central Queensland,3,2977
+" $3,000-$3,499",Non-family household,Capital Region,1,407
+ $1-$149,Family households,Far West and Orana,1,115
+ $800-$999,Non-family household,Sydney - Northern Beaches,1,1810
+" $2,500-$2,999",Family households,Geelong,2,8822
+" $1,500-$1,749",Non-family household,Toowoomba,3,1067
+ $150-$299,Non-family household,Launceston and North East,6,733
+ $650-$799,Non-family household,Melbourne - Inner East,2,2643
+" $1,000-$1,249",Non-family household,Melbourne - Inner South,2,4509
+" $1,250-$1,499",Non-family household,Mackay - Isaac - Whitsunday,3,1123
+" $1,250-$1,499",Non-family household,Sydney - Inner South West,1,3566
+" $1,750-$1,999",Family households,Sydney - Inner South West,1,8561
+ $150-$299,Family households,Sydney - South West,1,659
+" $3,500-$3,999",Family households,Ballarat,2,1855
+" $1,500-$1,749",Family households,Melbourne - Inner South,2,4537
+ $1-$149,Family households,Sydney - Sutherland,1,246
+ $1-$149,Family households,Ballarat,2,189
+" $3,000-$3,499",Non-family household,Gold Coast,3,1300
+" $2,500-$2,999",Non-family household,West and North West,6,65
+" $1,250-$1,499",Non-family household,Migratory - Offshore - Shipping (OT),9,0
+" $1,750-$1,999",Family households,Migratory - Offshore - Shipping (OT),9,0
+ $800-$999,Family households,Perth - North West,5,6797
+ $400-$499,Family households,Sydney - Baulkham Hills and Hawkesbury,1,710
+ $800-$999,Non-family household,Sydney - City and Inner South,1,3700
+ $1-$149,Family households,Sydney - North Sydney and Hornsby,1,468
+" $2,000-$2,499",Non-family household,Sydney - Parramatta,1,4073
+" $1,000-$1,249",Family households,Melbourne - Inner East,2,4792
+" $3,000-$3,499",Family households,Ipswich,3,7137
+ $650-$799,Non-family household,Western Australia - Outback (South),5,751
+" $2,000-$2,499",Family households,Migratory - Offshore - Shipping (NSW),1,0
+ $400-$499,Family households,Adelaide - North,4,2230
+" $2,000-$2,499",Family households,Bunbury,5,6049
+ $300-$399,Family households,Migratory - Offshore - Shipping (Tas.),6,0
+" $3,500-$3,999",Family households,Sydney - North Sydney and Hornsby,1,6923
+" $4,000 or more",Family households,Sydney - South West,1,14204
+" $3,500-$3,999",Non-family household,Migratory - Offshore - Shipping (Tas.),6,0
+" $1,000-$1,249",Non-family household,New England and North West,1,1943
+ $1-$149,Family households,Migratory - Offshore - Shipping (SA),4,0
+" $2,000-$2,499",Non-family household,Cairns,3,1695
+" $1,000-$1,249",Family households,Western Australia - Outback (South),5,1373
+" $3,500-$3,999",Family households,Far West and Orana,1,1168
+" $1,500-$1,749",Family households,Riverina,1,2426
+ $650-$799,Family households,Sydney - Outer West and Blue Mountains,1,4042
+ $650-$799,Non-family household,Bendigo,2,1605
+ $650-$799,Family households,Melbourne - South East,2,11055
+" $1,000-$1,249",Non-family household,Migratory - Offshore - Shipping (Vic.),2,0
+" $3,500-$3,999",Family households,West and North West,6,976
+" $4,000 or more",Non-family household,Sydney - Inner West,1,2735
+ $300-$399,Family households,Sydney - Sutherland,1,169
+" $2,000-$2,499",Family households,Melbourne - North West,2,14410
+" $1,250-$1,499",Non-family household,Adelaide - North,4,3458
+" $1,250-$1,499",Family households,South Australia - Outback,4,1672
+ $650-$799,Family households,Queensland - Outback,3,913
+" $4,000 or more",Family households,Newcastle and Lake Macquarie,1,14807
+" $1,000-$1,249",Non-family household,Sydney - Baulkham Hills and Hawkesbury,1,1061
+" $2,500-$2,999",Family households,Brisbane - East,3,7025
+" $3,500-$3,999",Non-family household,Migratory - Offshore - Shipping (NSW),1,0
+" $1,250-$1,499",Non-family household,Melbourne - Inner East,2,3006
+" $3,000-$3,499",Family households,Migratory - Offshore - Shipping (Vic.),2,0
+ $650-$799,Family households,South Australia - South East,4,5212
+" $2,500-$2,999",Non-family household,Melbourne - South East,2,1014
+ $800-$999,Family households,Adelaide - South,4,6085
+ $800-$999,Non-family household,Western Australia - Wheat Belt,5,1449
+" $1,750-$1,999",Family households,Mid North Coast,1,3772
+ $650-$799,Family households,Sunshine Coast,3,6825
+" $4,000 or more",Non-family household,Migratory - Offshore - Shipping (Qld),3,0
+" $3,000-$3,499",Non-family household,Sydney - Parramatta,1,1105
+ $650-$799,Family households,Coffs Harbour - Grafton,1,3441
+" $4,000 or more",Non-family household,Sydney - City and Inner South,1,7549
+ $150-$299,Family households,Adelaide - Central and Hills,4,325
+" $3,500-$3,999",Non-family household,Southern Highlands and Shoalhaven,1,30
+ $1-$149,Family households,Mandurah,5,145
+ $650-$799,Family households,Riverina,1,2633
+" $2,500-$2,999",Family households,Ballarat,2,4194
+ $500-$649,Non-family household,Geelong,2,4203
+ $500-$649,Family households,Melbourne - Inner South,2,1324
+" $3,500-$3,999",Family households,Darwin,7,2478
+" $3,000-$3,499",Family households,Richmond - Tweed,1,4185
+" $2,500-$2,999",Family households,Sydney - South West,1,11179
+" $2,000-$2,499",Non-family household,Mornington Peninsula,2,2040
+ $400-$499,Family households,North West,2,936
+" $4,000 or more",Family households,Bunbury,5,4822
+" $3,500-$3,999",Non-family household,Illawarra,1,163
+" $1,500-$1,749",Family households,Murray,1,1940
+" $1,750-$1,999",Family households,Sydney - Outer South West,1,4611
+ $500-$649,Family households,Hume,2,1032
+ $650-$799,Non-family household,Melbourne - Inner,2,6470
+ $300-$399,Family households,Melbourne - North East,2,722
+ $400-$499,Non-family household,Gold Coast,3,9119
+ $300-$399,Family households,Logan - Beaudesert,3,491
+ $300-$399,Non-family household,Western Australia - Outback (South),5,874
+" $3,500-$3,999",Non-family household,South East,6,0
+" $1,500-$1,749",Family households,Latrobe - Gippsland,2,4652
+ $500-$649,Family households,Brisbane - North,3,825
+" $1,500-$1,749",Non-family household,Mackay - Isaac - Whitsunday,3,1019
+ $400-$499,Family households,Migratory - Offshore - Shipping (ACT),8,0
+ $400-$499,Family households,Warrnambool and South West,2,683
+" $1,750-$1,999",Non-family household,Hobart,6,1287
+ $400-$499,Family households,Adelaide - West,4,1111
+" $4,000 or more",Family households,Perth - South East,5,19532
+ $400-$499,Family households,West and North West,6,776
+ $1-$149,Family households,Melbourne - Outer East,2,608
+" $2,000-$2,499",Non-family household,Moreton Bay - North,3,1260
+ $400-$499,Non-family household,Toowoomba,3,3052
+" $1,250-$1,499",Non-family household,West and North West,6,774
+ $150-$299,Non-family household,Newcastle and Lake Macquarie,1,1434
+ $300-$399,Family households,Brisbane Inner City,3,204
+ $800-$999,Non-family household,Migratory - Offshore - Shipping (SA),4,0
+" $2,000-$2,499",Non-family household,Perth - North East,5,2405
+ $300-$399,Family households,Northern Territory - Outback,7,184
+ $500-$649,Non-family household,Migratory - Offshore - Shipping (OT),9,0
+" $2,000-$2,499",Family households,Sydney - Blacktown,1,14024
+" $3,500-$3,999",Family households,Sydney - Inner South West,1,7950
+ $650-$799,Non-family household,Mandurah,5,899
+" $2,000-$2,499",Non-family household,New England and North West,1,1144
+ $400-$499,Non-family household,Cairns,3,4476
+" $1,000-$1,249",Non-family household,Logan - Beaudesert,3,3035
+" $4,000 or more",Family households,Perth - Inner,5,16899
+" $1,500-$1,749",Family households,Brisbane - West,3,2156
+ $650-$799,Family households,Hobart,6,3744
+" $3,000-$3,499",Non-family household,Other Territories,9,14
+ $400-$499,Non-family household,Illawarra,1,6150
+ $1-$149,Family households,Sydney - Blacktown,1,263
+" $4,000 or more",Non-family household,Sydney - Outer South West,1,321
+" $3,500-$3,999",Family households,Central Queensland,3,2901
+" $4,000 or more",Family households,Western Australia - Outback (North),5,4299
+ $150-$299,Family households,Australian Capital Territory,8,248
+" $4,000 or more",Family households,Melbourne - Inner South,2,34794
+ $150-$299,Family households,Darling Downs - Maranoa,3,188
+" $1,000-$1,249",Family households,Sydney - Eastern Suburbs,1,2036
+" $2,000-$2,499",Non-family household,Bendigo,2,1084
+" $4,000 or more",Family households,Brisbane - North,3,11212
+ $800-$999,Family households,Migratory - Offshore - Shipping (WA),5,0
+" $2,000-$2,499",Family households,Sydney - Ryde,1,6228
+" $1,000-$1,249",Non-family household,Brisbane Inner City,3,4821
+" $2,500-$2,999",Family households,Townsville,3,6214
+" $4,000 or more",Family households,Migratory - Offshore - Shipping (Tas.),6,0
+ $300-$399,Non-family household,Perth - North West,5,3285
+ $150-$299,Non-family household,Western Australia - Outback (North),5,232
+ $650-$799,Non-family household,Capital Region,1,2065
+" $1,750-$1,999",Family households,Sydney - City and Inner South,1,3216
+" $1,750-$1,999",Non-family household,Moreton Bay - South,3,833
+ $500-$649,Non-family household,Migratory - Offshore - Shipping (Qld),3,0
+ $300-$399,Family households,Richmond - Tweed,1,382
+ $800-$999,Non-family household,Darling Downs - Maranoa,3,1340
+ $800-$999,Non-family household,Adelaide - Central and Hills,4,3216
+ $150-$299,Non-family household,Migratory - Offshore - Shipping (Tas.),6,0
+" $1,250-$1,499",Family households,Sydney - North Sydney and Hornsby,1,4778
+" $1,250-$1,499",Family households,Sydney - Parramatta,1,8422
+" $2,500-$2,999",Family households,Barossa - Yorke - Mid North,4,2471
+" $2,000-$2,499",Non-family household,Migratory - Offshore - Shipping (WA),5,0
+" $1,750-$1,999",Family households,Sydney - Inner West,1,3484
+ $150-$299,Non-family household,Brisbane - North,3,693
+ $800-$999,Non-family household,Australian Capital Territory,8,3318
+ $800-$999,Family households,New England and North West,1,3037
+" $2,500-$2,999",Non-family household,Western Australia - Outback (North),5,112
+" $1,500-$1,749",Family households,Toowoomba,3,2630
+ $500-$649,Non-family household,Sydney - Eastern Suburbs,1,2058
+ $1-$149,Family households,Melbourne - Inner,2,594
+ $150-$299,Non-family household,Melbourne - South East,2,1907
+ $150-$299,Family households,Barossa - Yorke - Mid North,4,177
+ $400-$499,Non-family household,Central West,1,5048
+" $1,500-$1,749",Non-family household,Melbourne - Inner South,2,3537
+" $1,000-$1,249",Non-family household,Melbourne - North East,2,4266
+ $300-$399,Non-family household,Sydney - Parramatta,1,3264
+" $3,000-$3,499",Non-family household,Perth - North West,5,1284
+" $1,250-$1,499",Non-family household,Migratory - Offshore - Shipping (ACT),8,0
+" $1,500-$1,749",Family households,Illawarra,1,4362
+ $500-$649,Non-family household,Sydney - City and Inner South,1,2995
+ $1-$149,Non-family household,Mornington Peninsula,2,446
+" $1,250-$1,499",Non-family household,North West,2,1180
+ $500-$649,Family households,Mackay - Isaac - Whitsunday,3,765
+" $3,500-$3,999",Family households,Moreton Bay - North,3,2819
+ $800-$999,Family households,Moreton Bay - North,3,4970
+ $300-$399,Family households,Sydney - Baulkham Hills and Hawkesbury,1,217
+" $3,500-$3,999",Family households,Warrnambool and South West,2,1213
+ $150-$299,Non-family household,Perth - Inner,5,703
+ $300-$399,Non-family household,Coffs Harbour - Grafton,1,1342
+" $1,000-$1,249",Non-family household,Sydney - Sutherland,1,1835
+ $1-$149,Non-family household,Central Queensland,3,268
+ $650-$799,Family households,Perth - North West,5,6935
+" $1,500-$1,749",Family households,Migratory - Offshore - Shipping (NSW),1,0
+" $3,500-$3,999",Non-family household,Gold Coast,3,372
+" $1,500-$1,749",Family households,Migratory - Offshore - Shipping (SA),4,0
+" $3,500-$3,999",Family households,Migratory - Offshore - Shipping (ACT),8,0
+ $1-$149,Non-family household,Sydney - Inner South West,1,719
+" $3,000-$3,499",Family households,Moreton Bay - South,3,5642
+" $1,500-$1,749",Non-family household,Barossa - Yorke - Mid North,4,629
+ $1-$149,Family households,Launceston and North East,6,188
+ $500-$649,Family households,Migratory - Offshore - Shipping (Tas.),6,0
+" $2,500-$2,999",Family households,Far West and Orana,1,2460
+ $650-$799,Non-family household,Sydney - Blacktown,1,1269
+" $2,000-$2,499",Family households,Ipswich,3,13546
+ $650-$799,Non-family household,Sydney - Outer West and Blue Mountains,1,2123
+" $1,250-$1,499",Non-family household,Darwin,7,1190
+" $1,250-$1,499",Non-family household,Adelaide - West,4,2527
+ $150-$299,Family households,Brisbane - West,3,194
+" $3,500-$3,999",Non-family household,Migratory - Offshore - Shipping (SA),4,0
+ $150-$299,Non-family household,Bunbury,5,681
+" $1,500-$1,749",Non-family household,Perth - South East,5,3616
+" $1,500-$1,749",Family households,Western Australia - Wheat Belt,5,1844
+" $2,500-$2,999",Non-family household,Migratory - Offshore - Shipping (Tas.),6,0
+" $2,000-$2,499",Non-family household,Central Coast,1,1931
+" $1,750-$1,999",Family households,Brisbane Inner City,3,3107
+" $2,500-$2,999",Family households,Darling Downs - Maranoa,3,2643
+ $650-$799,Non-family household,South Australia - Outback,4,732
+" $1,500-$1,749",Non-family household,Migratory - Offshore - Shipping (Tas.),6,0
+" $1,750-$1,999",Family households,Migratory - Offshore - Shipping (NT),7,0
+ $1-$149,Non-family household,Perth - North East,5,315
+" $2,000-$2,499",Non-family household,Wide Bay,3,1186
+ $800-$999,Non-family household,Perth - South West,5,3334
+" $1,500-$1,749",Non-family household,Melbourne - West,2,4587
+" $4,000 or more",Non-family household,Migratory - Offshore - Shipping (NT),7,0
+ $500-$649,Non-family household,Sydney - Outer South West,1,1769
+" $1,000-$1,249",Non-family household,Sydney - Outer South West,1,1869
+" $1,500-$1,749",Non-family household,Hume,2,1136
+" $2,000-$2,499",Family households,Melbourne - Outer East,2,18514
+" $2,500-$2,999",Family households,Shepparton,2,3200
+" $2,000-$2,499",Family households,Mandurah,5,2993
+" $3,500-$3,999",Family households,North West,2,1305
+" $3,000-$3,499",Family households,Hobart,6,4877
+" $2,000-$2,499",Family households,Launceston and North East,6,5170
+ $800-$999,Family households,Central Coast,1,5353
+ $500-$649,Family households,Melbourne - West,2,3975
+" $2,500-$2,999",Family households,Australian Capital Territory,8,12128
+ $1-$149,Non-family household,Bendigo,2,277
+" $1,000-$1,249",Family households,Geelong,2,5703
+" $1,500-$1,749",Non-family household,Brisbane - North,3,1844
+ $650-$799,Family households,Western Australia - Outback (South),5,1570
+ $1-$149,Family households,Sydney - Outer West and Blue Mountains,1,266
+" $3,000-$3,499",Family households,Brisbane Inner City,3,5892
+ $800-$999,Family households,Gold Coast,3,8643
+" $3,500-$3,999",Non-family household,Toowoomba,3,59
+ $150-$299,Family households,Perth - South West,5,524
+ $1-$149,Non-family household,West and North West,6,169
+ $1-$149,Family households,Melbourne - North West,2,463
+" $2,000-$2,499",Non-family household,Adelaide - South,4,2455
+ $800-$999,Non-family household,Barossa - Yorke - Mid North,4,1276
+ $500-$649,Family households,Perth - South East,5,2371
+" $1,500-$1,749",Family households,Southern Highlands and Shoalhaven,1,2552
+" $1,000-$1,249",Family households,Melbourne - South East,2,13596
+ $300-$399,Family households,Moreton Bay - South,3,172
+" $2,500-$2,999",Family households,Adelaide - Central and Hills,4,7935
+ $300-$399,Non-family household,Riverina,1,1236
+ $800-$999,Non-family household,Brisbane - West,3,1259
+" $1,500-$1,749",Family households,South East,6,711
+" $3,000-$3,499",Family households,Northern Territory - Outback,7,1271
+ $800-$999,Family households,Wide Bay,3,7280
+" $1,250-$1,499",Family households,Perth - North West,5,9576
+" $1,000-$1,249",Family households,Western Australia - Outback (North),5,601
+ $400-$499,Family households,Darwin,7,350
+" $2,500-$2,999",Non-family household,Melbourne - Inner South,2,589
+" $1,750-$1,999",Family households,Logan - Beaudesert,3,6071
+ $400-$499,Family households,Moreton Bay - North,3,1322
+" $3,500-$3,999",Family households,Adelaide - North,4,4700
+ $500-$649,Family households,Barossa - Yorke - Mid North,4,807
+" $1,750-$1,999",Non-family household,Western Australia - Outback (South),5,699
+ $650-$799,Family households,Sydney - Northern Beaches,1,1760
+ $800-$999,Family households,Toowoomba,3,2488
+ $800-$999,Non-family household,South East,6,444
+ $150-$299,Family households,Latrobe - Gippsland,2,484
+" $1,250-$1,499",Non-family household,Melbourne - Outer East,2,3242
+ $500-$649,Family households,Brisbane - East,3,996
+" $2,500-$2,999",Non-family household,Brisbane - North,3,405
+ $300-$399,Non-family household,South Australia - Outback,4,1025
+" $3,000-$3,499",Family households,Riverina,1,3025
+ $400-$499,Family households,Melbourne - North West,2,1852
+" $1,250-$1,499",Family households,Mandurah,5,2125
+" $2,000-$2,499",Family households,Warrnambool and South West,2,4487
+" $2,500-$2,999",Family households,Perth - South West,5,11315
+" $2,000-$2,499",Family households,West and North West,6,3835
+" $2,000-$2,499",Non-family household,Migratory - Offshore - Shipping (ACT),8,0
+" $1,000-$1,249",Family households,Migratory - Offshore - Shipping (OT),9,0
+" $1,500-$1,749",Family households,Cairns,3,3904
+" $2,000-$2,499",Family households,Melbourne - Inner,2,15597
+ $150-$299,Family households,Melbourne - West,2,1116
+" $2,000-$2,499",Non-family household,Gold Coast,3,4702
+" $1,750-$1,999",Family households,Geelong,2,4911
+" $3,000-$3,499",Family households,Sunshine Coast,3,7818
+" $3,000-$3,499",Family households,South Australia - South East,4,2615
+" $3,000-$3,499",Family households,Coffs Harbour - Grafton,1,2199
+" $4,000 or more",Non-family household,Sydney - Eastern Suburbs,1,4936
+" $1,500-$1,749",Family households,Adelaide - Central and Hills,4,4175
+" $2,000-$2,499",Family households,Adelaide - West,4,8502
+" $4,000 or more",Family households,Melbourne - West,2,29848
+ $400-$499,Non-family household,New England and North West,1,4421
+ $400-$499,Family households,Mornington Peninsula,2,1374
+" $1,500-$1,749",Family households,Darling Downs - Maranoa,3,2009
+ $500-$649,Family households,Townsville,3,1093
+" $1,000-$1,249",Family households,Migratory - Offshore - Shipping (Qld),3,0
+" $3,000-$3,499",Family households,Sydney - Baulkham Hills and Hawkesbury,1,6577
+ $400-$499,Family households,Bendigo,2,798
+ $150-$299,Family households,Shepparton,2,167
+ $800-$999,Family households,Darwin,7,873
+ $650-$799,Non-family household,Other Territories,9,46
+" $1,500-$1,749",Non-family household,Newcastle and Lake Macquarie,1,2517
+" $1,000-$1,249",Non-family household,Brisbane - South,3,3357
+" $3,500-$3,999",Family households,Adelaide - South,4,5208
+" $2,000-$2,499",Non-family household,Hunter Valley exc Newcastle,1,1811
+ $800-$999,Non-family household,Toowoomba,3,1738
+ $1-$149,Family households,Adelaide - North,4,401
+ $400-$499,Non-family household,Migratory - Offshore - Shipping (SA),4,0
+" $1,000-$1,249",Family households,Bunbury,5,3397
+" $2,000-$2,499",Non-family household,Darwin,7,1811
+ $300-$399,Non-family household,Capital Region,1,1854
+" $2,000-$2,499",Family households,Migratory - Offshore - Shipping (ACT),8,0
+" $4,000 or more",Family households,Melbourne - South East,2,26251
+ $800-$999,Family households,Perth - North East,5,3221
+ $500-$649,Family households,Sydney - South West,1,2521
+ $800-$999,Non-family household,Shepparton,2,1482
+ $650-$799,Family households,Moreton Bay - South,3,2507
+ $300-$399,Non-family household,Sunshine Coast,3,2499
+" $3,500-$3,999",Non-family household,Adelaide - South,4,120
+ $300-$399,Non-family household,South Australia - South East,4,2080
+ $1-$149,Non-family household,Adelaide - South,4,515
+" $1,000-$1,249",Family households,Perth - South East,5,7780
+" $3,500-$3,999",Family households,Migratory - Offshore - Shipping (WA),5,0
+ $300-$399,Family households,Migratory - Offshore - Shipping (NT),7,0
+ $1-$149,Non-family household,Central Coast,1,503
+" $1,500-$1,749",Family households,Central Coast,1,5305
+" $1,250-$1,499",Non-family household,Bendigo,2,1268
+" $2,000-$2,499",Family households,Melbourne - Inner East,2,10170
+" $1,500-$1,749",Non-family household,Townsville,3,1731
+ $300-$399,Family households,Hobart,6,319
+" $1,750-$1,999",Family households,Sydney - Eastern Suburbs,1,2377
+ $800-$999,Family households,Murray,1,2016
+" $1,500-$1,749",Non-family household,Brisbane - East,3,1164
+" $2,500-$2,999",Non-family household,Bunbury,5,142
+" $2,500-$2,999",Family households,Perth - South East,5,13596
+" $1,000-$1,249",Non-family household,Northern Territory - Outback,7,643
+" $1,750-$1,999",Non-family household,Sydney - Northern Beaches,1,1318
+" $2,500-$2,999",Family households,Mackay - Isaac - Whitsunday,3,4317
+ $400-$499,Non-family household,Southern Highlands and Shoalhaven,1,3849
+" $3,000-$3,499",Non-family household,Sydney - Outer West and Blue Mountains,1,423
+ $300-$399,Family households,Brisbane - South,3,450
+" $3,500-$3,999",Non-family household,Central Coast,1,99
+ $1-$149,Non-family household,Warrnambool and South West,2,249
+" $2,500-$2,999",Family households,Perth - Inner,5,3364
+" $2,500-$2,999",Non-family household,Perth - South East,5,708
+" $2,500-$2,999",Family households,Western Australia - Wheat Belt,5,2992
+ $650-$799,Non-family household,Launceston and North East,6,1539
+ $800-$999,Family households,Migratory - Offshore - Shipping (ACT),8,0
+" $2,000-$2,499",Non-family household,Sydney - Inner South West,1,4150
+" $1,500-$1,749",Non-family household,Sydney - South West,1,1233
+" $4,000 or more",Non-family household,Geelong,2,961
+" $1,250-$1,499",Non-family household,Melbourne - North West,2,2302
+" $3,500-$3,999",Non-family household,Brisbane - West,3,83
+" $2,000-$2,499",Family households,Central Queensland,3,7272
+" $1,250-$1,499",Family households,Other Territories,9,72
+ $150-$299,Non-family household,Geelong,2,1057
+ $800-$999,Non-family household,Latrobe - Gippsland,2,3515
+ $500-$649,Family households,Newcastle and Lake Macquarie,1,1727
+ $1-$149,Non-family household,Migratory - Offshore - Shipping (WA),5,0
+ $1-$149,Family households,Other Territories,9,7
+" $2,500-$2,999",Non-family household,Migratory - Offshore - Shipping (Qld),3,0
+" $3,500-$3,999",Family households,Hunter Valley exc Newcastle,1,3777
+" $1,750-$1,999",Non-family household,Riverina,1,732
+ $1-$149,Non-family household,Cairns,3,370
+ $300-$399,Non-family household,Moreton Bay - South,3,764
+" $1,750-$1,999",Non-family household,Coffs Harbour - Grafton,1,519
+ $150-$299,Family households,Migratory - Offshore - Shipping (NSW),1,0
+" $1,250-$1,499",Non-family household,Mandurah,5,567
+" $4,000 or more",Non-family household,Sydney - Sutherland,1,684
+" $3,500-$3,999",Non-family household,Latrobe - Gippsland,2,62
+" $1,250-$1,499",Non-family household,Mornington Peninsula,2,2375
+" $2,000-$2,499",Family households,Darwin,7,4442
+" $1,250-$1,499",Family households,Sydney - Outer West and Blue Mountains,1,6079
+" $3,000-$3,499",Family households,Melbourne - North East,2,12808
+" $2,000-$2,499",Non-family household,Adelaide - North,4,2427
+" $2,000-$2,499",Family households,South Australia - Outback,4,2314
+" $3,500-$3,999",Family households,Central Coast,1,4497
+ $1-$149,Family households,Hunter Valley exc Newcastle,1,336
+" $1,750-$1,999",Non-family household,Brisbane Inner City,3,3720
+" $1,250-$1,499",Family households,Queensland - Outback,3,1173
+" $2,500-$2,999",Family households,Migratory - Offshore - Shipping (Tas.),6,0
+ $800-$999,Family households,Hunter Valley exc Newcastle,1,4600
+ $400-$499,Family households,Melbourne - Outer East,2,1911
+ $150-$299,Non-family household,Melbourne - West,2,1907
+" $4,000 or more",Non-family household,Logan - Beaudesert,3,333
+" $3,500-$3,999",Family households,Perth - North East,5,4046
+" $3,500-$3,999",Non-family household,Migratory - Offshore - Shipping (WA),5,0
+" $1,500-$1,749",Family households,Barossa - Yorke - Mid North,4,1785
+ $800-$999,Family households,Sydney - Inner South West,1,7446
+ $400-$499,Non-family household,Murray,1,3018
+" $1,750-$1,999",Non-family household,Migratory - Offshore - Shipping (Vic.),2,0
+" $2,500-$2,999",Non-family household,Migratory - Offshore - Shipping (OT),9,0
+ $300-$399,Non-family household,Sydney - Northern Beaches,1,1024
+" $3,500-$3,999",Non-family household,Cairns,3,104
+ $400-$499,Non-family household,Western Australia - Wheat Belt,5,3174
+" $1,500-$1,749",Non-family household,Perth - Inner,5,1996
+" $1,500-$1,749",Non-family household,Western Australia - Wheat Belt,5,825
+ $400-$499,Family households,Melbourne - Inner East,2,1463
+" $1,500-$1,749",Non-family household,Darling Downs - Maranoa,3,655
+ $650-$799,Non-family household,Adelaide - North,4,3351
+ $650-$799,Family households,South Australia - Outback,4,1648
+ $150-$299,Family households,South East,6,63
+" $1,000-$1,249",Non-family household,Migratory - Offshore - Shipping (NT),7,0
+ $800-$999,Family households,Central West,1,3244
+" $2,500-$2,999",Family households,Brisbane - North,3,6613
+" $1,250-$1,499",Non-family household,Warrnambool and South West,2,1020
+ $500-$649,Family households,Perth - Inner,5,466
+" $2,000-$2,499",Family households,Sydney - North Sydney and Hornsby,1,10906
+" $1,250-$1,499",Non-family household,Sydney - Ryde,1,1686
+ $1-$149,Non-family household,Melbourne - North West,2,401
+" $1,250-$1,499",Non-family household,Central Queensland,3,1523
+ $400-$499,Non-family household,Wide Bay,3,9010
+ $650-$799,Family households,Richmond - Tweed,1,5034
+ $500-$649,Family households,Ballarat,2,1064
+" $1,750-$1,999",Family households,Brisbane - South,3,5225
+" $1,250-$1,499",Non-family household,Ipswich,3,2481
+ $500-$649,Family households,Far West and Orana,1,644
+" $1,500-$1,749",Non-family household,Adelaide - Central and Hills,4,2490
+" $2,000-$2,499",Family households,Capital Region,1,7634
+ $500-$649,Non-family household,Mid North Coast,1,4517
+" $2,500-$2,999",Family households,Melbourne - Inner South,2,10033
+ $150-$299,Non-family household,Barossa - Yorke - Mid North,4,588
+" $1,000-$1,249",Non-family household,Geelong,2,3251
+" $3,000-$3,499",Family households,Mid North Coast,1,3115
+ $500-$649,Family households,Sydney - Eastern Suburbs,1,580
+" $2,500-$2,999",Family households,Hume,2,4562
+" $3,000-$3,499",Non-family household,Queensland - Outback,3,194
+ $800-$999,Non-family household,Migratory - Offshore - Shipping (NSW),1,0
+" $1,500-$1,749",Non-family household,Ballarat,2,1162
+ $400-$499,Family households,Ipswich,3,1518
+ $500-$649,Non-family household,Sydney - Inner West,1,2311
+ $400-$499,Family households,Sydney - Ryde,1,688
+ $400-$499,Non-family household,Moreton Bay - North,3,5341
+" $1,500-$1,749",Non-family household,Far West and Orana,1,673
+ $300-$399,Non-family household,Sydney - North Sydney and Hornsby,1,1623
+ $800-$999,Non-family household,Central Coast,1,3460
+" $1,750-$1,999",Non-family household,Richmond - Tweed,1,941
+ $1-$149,Non-family household,North West,2,272
+ $650-$799,Family households,Migratory - Offshore - Shipping (Vic.),2,0
+ $400-$499,Non-family household,Darwin,7,1066
+" $2,000-$2,499",Non-family household,Central West,1,1488
+" $2,500-$2,999",Family households,Murray,1,2855
+" $4,000 or more",Non-family household,Brisbane - South,3,1317
+" $1,750-$1,999",Non-family household,Sunshine Coast,3,1674
+" $1,750-$1,999",Non-family household,South Australia - Outback,4,399
+" $1,750-$1,999",Family households,Sydney - Sutherland,1,2889
+" $1,750-$1,999",Non-family household,South Australia - South East,4,644
+ $400-$499,Family households,Central Queensland,3,1054
+" $3,000-$3,499",Non-family household,Hobart,6,486
+" $1,000-$1,249",Non-family household,Coffs Harbour - Grafton,1,1424
+" $1,250-$1,499",Non-family household,Sydney - North Sydney and Hornsby,1,3286
+" $2,000-$2,499",Family households,Bendigo,2,5883
+" $1,500-$1,749",Non-family household,Migratory - Offshore - Shipping (SA),4,0
+ $1-$149,Family households,Darwin,7,59
+" $1,500-$1,749",Family households,Mornington Peninsula,2,4523
+ $500-$649,Non-family household,Perth - Inner,5,2062
+ $1-$149,Family households,Perth - North West,5,548
+ $150-$299,Family households,Migratory - Offshore - Shipping (Tas.),6,0
+ $800-$999,Non-family household,Central West,1,2293
+ $500-$649,Non-family household,Melbourne - North East,2,3903
+" $2,500-$2,999",Non-family household,Shepparton,2,112
+ $400-$499,Non-family household,Central Queensland,3,3910
+" $1,000-$1,249",Non-family household,Queensland - Outback,3,706
+" $1,250-$1,499",Non-family household,Wide Bay,3,1805
+ $1-$149,Non-family household,Launceston and North East,6,240
+ $150-$299,Non-family household,Migratory - Offshore - Shipping (Qld),3,0
+ $800-$999,Family households,Migratory - Offshore - Shipping (SA),4,0
+" $4,000 or more",Non-family household,Migratory - Offshore - Shipping (Vic.),2,0
+" $3,500-$3,999",Non-family household,Brisbane - East,3,60
+" $1,500-$1,749",Non-family household,Brisbane - West,3,1146
+ $150-$299,Non-family household,Ballarat,2,740
+" $1,000-$1,249",Family households,Mackay - Isaac - Whitsunday,3,2235
+ $150-$299,Family households,Bunbury,5,254
+" $1,500-$1,749",Family households,Mackay - Isaac - Whitsunday,3,2056
+ $650-$799,Non-family household,Adelaide - West,4,2310
+ $1-$149,Family households,Central Queensland,3,254
+ $500-$649,Non-family household,Melbourne - Inner South,2,4283
+ $400-$499,Non-family household,Adelaide - Central and Hills,4,5458
+ $150-$299,Family households,Perth - South East,5,604
+ $500-$649,Non-family household,Migratory - Offshore - Shipping (Tas.),6,0
+ $800-$999,Family households,Adelaide - North,4,8114
+" $1,250-$1,499",Non-family household,Central West,1,1507
+ $1-$149,Non-family household,Sydney - Ryde,1,292
+ $500-$649,Family households,Geelong,2,1652
+ $1-$149,Family households,Sydney - Inner South West,1,681
+" $2,500-$2,999",Family households,South East,6,925
+" $2,000-$2,499",Family households,Other Territories,9,127
+" $2,500-$2,999",Non-family household,Sydney - Outer South West,1,171
+ $400-$499,Non-family household,North West,2,4264
+" $1,500-$1,749",Family households,Shepparton,2,2181
+ $400-$499,Non-family household,Darling Downs - Maranoa,3,2914
+ $150-$299,Family households,Perth - Inner,5,172
+" $1,750-$1,999",Non-family household,Capital Region,1,1197
+ $400-$499,Family households,Sydney - North Sydney and Hornsby,1,1061
+" $3,500-$3,999",Family households,Migratory - Offshore - Shipping (NSW),1,0
+ $300-$399,Non-family household,Melbourne - Outer East,2,2615
+" $3,000-$3,499",Family households,Other Territories,9,75
+" $3,500-$3,999",Non-family household,Sydney - South West,1,68
+ $800-$999,Non-family household,Melbourne - Inner South,2,3951
+" $2,500-$2,999",Non-family household,Brisbane - East,3,206
+ $300-$399,Family households,Queensland - Outback,3,148
+" $3,500-$3,999",Family households,Launceston and North East,6,1401
+" $1,250-$1,499",Non-family household,New England and North West,1,1310
+" $4,000 or more",Family households,Geelong,2,11677
+" $2,500-$2,999",Non-family household,Sydney - Inner West,1,791
+ $1-$149,Family households,Sydney - Northern Beaches,1,214
+ $300-$399,Non-family household,Sydney - Sutherland,1,1080
+ $400-$499,Family households,Cairns,3,1153
+" $3,000-$3,499",Family households,Western Australia - Outback (South),5,2353
+ $400-$499,Family households,Central West,1,1097
+ $500-$649,Non-family household,Richmond - Tweed,1,4658
+ $650-$799,Family households,Capital Region,1,4115
+" $4,000 or more",Family households,Ballarat,2,4314
+ $800-$999,Family households,West and North West,6,2408
+ $150-$299,Family households,Melbourne - Inner South,2,483
+ $400-$499,Family households,Mandurah,5,626
+" $1,000-$1,249",Non-family household,Hobart,6,2853
+" $1,250-$1,499",Family households,Riverina,1,3409
+" $3,500-$3,999",Non-family household,Mornington Peninsula,2,73
+" $1,500-$1,749",Family households,Brisbane - East,3,3299
+ $500-$649,Non-family household,Sydney - Baulkham Hills and Hawkesbury,1,1135
+ $500-$649,Non-family household,Sydney - Sutherland,1,1749
+ $150-$299,Family households,Toowoomba,3,161
+" $3,000-$3,499",Non-family household,Migratory - Offshore - Shipping (Vic.),2,0
+ $300-$399,Family households,Perth - North West,5,757
+" $2,500-$2,999",Non-family household,Mackay - Isaac - Whitsunday,3,189
+" $4,000 or more",Non-family household,Migratory - Offshore - Shipping (Tas.),6,0
+" $2,500-$2,999",Family households,Migratory - Offshore - Shipping (NSW),1,0
+ $150-$299,Family households,Western Australia - Outback (North),5,111
+" $1,750-$1,999",Non-family household,Sydney - Parramatta,1,2207
+ $800-$999,Family households,Melbourne - Inner East,2,3654
+ $300-$399,Family households,Migratory - Offshore - Shipping (OT),9,0
+" $3,500-$3,999",Non-family household,Central Queensland,3,63
+" $1,250-$1,499",Non-family household,Moreton Bay - North,3,1686
+" $3,500-$3,999",Non-family household,Adelaide - Central and Hills,4,177
+" $4,000 or more",Non-family household,Perth - Inner,5,2232
+ $150-$299,Non-family household,Far West and Orana,1,488
+ $300-$399,Family households,Sydney - City and Inner South,1,310
+ $300-$399,Non-family household,Sydney - Outer West and Blue Mountains,1,1871
+ $1-$149,Family households,Sydney - Parramatta,1,502
+" $2,000-$2,499",Family households,Sydney - Inner South West,1,18344
+" $3,500-$3,999",Family households,Melbourne - North West,2,6058
+ $800-$999,Non-family household,New England and North West,1,2110
+" $2,500-$2,999",Family households,Newcastle and Lake Macquarie,1,10579
+ $500-$649,Family households,Brisbane - West,3,613
+" $1,000-$1,249",Non-family household,Perth - North West,5,4900
+" $2,000-$2,499",Non-family household,Sydney - Blacktown,1,1727
+" $2,500-$2,999",Non-family household,Sydney - South West,1,187
+ $1-$149,Non-family household,Gold Coast,3,822
+" $1,250-$1,499",Family households,West and North West,6,2898
+" $4,000 or more",Non-family household,Northern Territory - Outback,7,279
+ $500-$649,Family households,Migratory - Offshore - Shipping (OT),9,0
+" $1,500-$1,749",Non-family household,Murray,1,726
+" $3,500-$3,999",Family households,Murray,1,1256
+" $3,500-$3,999",Non-family household,Sydney - Inner South West,1,344
+" $2,500-$2,999",Non-family household,Hume,2,126
+" $2,000-$2,499",Non-family household,Melbourne - Inner East,2,4028
+ $150-$299,Family households,Central West,1,239
+" $1,750-$1,999",Non-family household,Sydney - Outer South West,1,902
+ $400-$499,Non-family household,Perth - South West,5,6487
+" $1,500-$1,749",Non-family household,Geelong,2,2223
+ $800-$999,Family households,Southern Highlands and Shoalhaven,1,2888
+ $300-$399,Family households,Sydney - Northern Beaches,1,181
+" $1,250-$1,499",Family households,Melbourne - Inner East,2,5587
+ $500-$649,Non-family household,Brisbane Inner City,3,3053
+" $1,250-$1,499",Family households,Melbourne - Outer East,2,9774
+ $1-$149,Non-family household,Ipswich,3,296
+" $1,000-$1,249",Non-family household,Migratory - Offshore - Shipping (OT),9,0
+ $300-$399,Non-family household,Logan - Beaudesert,3,1726
+ $800-$999,Non-family household,Migratory - Offshore - Shipping (Tas.),6,0
+" $3,000-$3,499",Family households,Migratory - Offshore - Shipping (NT),7,0
+" $4,000 or more",Family households,Australian Capital Territory,8,33714
+" $1,750-$1,999",Family households,Migratory - Offshore - Shipping (Vic.),2,0
+ $300-$399,Non-family household,Launceston and North East,6,1553
+ $400-$499,Family households,New England and North West,1,1077
+" $1,500-$1,749",Non-family household,Melbourne - South East,2,3832
+" $1,250-$1,499",Family households,Warrnambool and South West,2,3061
+" $2,000-$2,499",Non-family household,Migratory - Offshore - Shipping (SA),4,0
+" $1,250-$1,499",Non-family household,Migratory - Offshore - Shipping (WA),5,0
+" $3,500-$3,999",Family households,Cairns,3,2680
+" $4,000 or more",Family households,Barossa - Yorke - Mid North,4,1864
+ $1-$149,Family households,Coffs Harbour - Grafton,1,210
+" $1,750-$1,999",Non-family household,Mid North Coast,1,743
+" $4,000 or more",Family households,Mid North Coast,1,3828
+ $400-$499,Family households,Wide Bay,3,2355
+" $1,500-$1,749",Family households,Adelaide - South,4,6053
+" $4,000 or more",Non-family household,Bunbury,5,399
+ $400-$499,Non-family household,Perth - North East,5,3981
+" $1,000-$1,249",Family households,Sydney - Inner West,1,3245
+" $3,500-$3,999",Family households,Latrobe - Gippsland,2,2651
+" $3,500-$3,999",Non-family household,Darling Downs - Maranoa,3,37
+" $2,500-$2,999",Family households,Toowoomba,3,4089
+" $4,000 or more",Non-family household,Richmond - Tweed,1,612
+ $1-$149,Family households,North West,2,181
+" $4,000 or more",Family households,Migratory - Offshore - Shipping (Qld),3,0
+ $150-$299,Non-family household,Western Australia - Wheat Belt,5,614
+ $150-$299,Non-family household,Sydney - Eastern Suburbs,1,870
+ $300-$399,Family households,Sydney - Outer South West,1,420
+" $3,500-$3,999",Non-family household,Shepparton,2,29
+" $1,750-$1,999",Family households,South Australia - South East,4,3500
+" $1,500-$1,749",Non-family household,Western Australia - Outback (North),5,614
+ $650-$799,Non-family household,Coffs Harbour - Grafton,1,1374
+" $2,000-$2,499",Non-family household,Southern Highlands and Shoalhaven,1,865
+" $1,000-$1,249",Non-family household,Moreton Bay - South,3,1622
+" $3,000-$3,499",Non-family household,Melbourne - Outer East,2,716
+ $1-$149,Family households,Migratory - Offshore - Shipping (ACT),8,0
+" $3,500-$3,999",Family households,Mandurah,5,1116
+" $4,000 or more",Family households,Perth - South West,5,20417
+" $2,000-$2,499",Non-family household,Western Australia - Wheat Belt,5,925
+ $400-$499,Family households,Migratory - Offshore - Shipping (WA),5,0
+ $650-$799,Non-family household,North West,2,1510
+ $400-$499,Non-family household,Australian Capital Territory,8,4175
+ $500-$649,Family households,Sydney - Inner West,1,982
+ $800-$999,Non-family household,Perth - South East,5,4223
+ $800-$999,Family households,Western Australia - Wheat Belt,5,2148
+ $400-$499,Non-family household,Hunter Valley exc Newcastle,1,5419
+" $1,750-$1,999",Family households,Richmond - Tweed,1,4239
+ $150-$299,Non-family household,Townsville,3,866
+" $1,750-$1,999",Non-family household,Migratory - Offshore - Shipping (Qld),3,0
+ $650-$799,Non-family household,Darwin,7,623
+" $2,000-$2,499",Non-family household,Illawarra,1,2284
+" $1,000-$1,249",Family households,Hume,2,3760
+ $300-$399,Family households,Other Territories,9,12
+" $1,250-$1,499",Family households,Hunter Valley exc Newcastle,1,6181
+ $400-$499,Family households,Sydney - Blacktown,1,1397
+ $800-$999,Non-family household,Melbourne - West,2,5347
+" $3,000-$3,499",Family households,Queensland - Outback,3,1297
+ $300-$399,Non-family household,Melbourne - Inner,2,6017
+" $1,000-$1,249",Family households,Brisbane - North,3,3199
+ $400-$499,Non-family household,Ipswich,3,5048
+" $3,000-$3,499",Family households,Sydney - Eastern Suburbs,1,5083
+" $1,750-$1,999",Family households,Sunshine Coast,3,6921
+" $3,500-$3,999",Family households,Melbourne - Inner,2,9734
+" $1,750-$1,999",Non-family household,Brisbane - South,3,2175
+" $4,000 or more",Non-family household,Brisbane Inner City,3,3612
+ $650-$799,Non-family household,Migratory - Offshore - Shipping (ACT),8,0
+ $500-$649,Non-family household,Far West and Orana,1,1329
+" $3,000-$3,499",Family households,Sydney - North Sydney and Hornsby,1,9188
+ $800-$999,Non-family household,Bendigo,2,1956
+" $1,500-$1,749",Family households,Brisbane - North,3,3014
+ $650-$799,Non-family household,Moreton Bay - South,3,1031
+ $300-$399,Non-family household,Migratory - Offshore - Shipping (NT),7,0
+ $800-$999,Family households,Illawarra,1,4592
+ $650-$799,Non-family household,Melbourne - North West,2,1969
+ $500-$649,Non-family household,Melbourne - South East,2,5558
+" $1,000-$1,249",Non-family household,Sydney - Northern Beaches,1,2017
+ $400-$499,Family households,Perth - North East,5,1010
+ $300-$399,Non-family household,Hobart,6,1885
+" $1,500-$1,749",Family households,Gold Coast,3,9844
+" $4,000 or more",Non-family household,Sunshine Coast,3,1019
+" $1,750-$1,999",Non-family household,Perth - North West,5,2915
+ $400-$499,Non-family household,Migratory - Offshore - Shipping (WA),5,0
+" $1,250-$1,499",Non-family household,Sydney - Blacktown,1,1627
+" $1,250-$1,499",Family households,Western Australia - Outback (South),5,1621
+ $800-$999,Non-family household,Southern Highlands and Shoalhaven,1,1712
+ $1-$149,Family households,Ipswich,3,294
+" $2,000-$2,499",Family households,Central Coast,1,11857
+ $400-$499,Non-family household,Latrobe - Gippsland,2,7989
+" $1,250-$1,499",Non-family household,Toowoomba,3,1394
+" $2,000-$2,499",Family households,Sydney - Outer West and Blue Mountains,1,12068
+" $1,750-$1,999",Family households,Melbourne - Inner South,2,4879
+" $2,500-$2,999",Non-family household,Darling Downs - Maranoa,3,92
+" $1,000-$1,249",Family households,Newcastle and Lake Macquarie,1,6604
+ $800-$999,Non-family household,Ballarat,2,2082
+ $400-$499,Non-family household,Mornington Peninsula,2,6073
+ $650-$799,Non-family household,Sydney - Parramatta,1,2353
+" $1,250-$1,499",Non-family household,Migratory - Offshore - Shipping (NSW),1,0
+ $650-$799,Family households,Sydney - Parramatta,1,5912
+ $800-$999,Family households,Ballarat,2,2966
+ $650-$799,Family households,Brisbane - South,3,3621
+" $1,500-$1,749",Family households,Migratory - Offshore - Shipping (ACT),8,0
+" $1,000-$1,249",Family households,Sydney - South West,1,7615
+ $800-$999,Non-family household,Moreton Bay - North,3,2534
+" $1,750-$1,999",Non-family household,Northern Territory - Outback,7,471
+" $3,000-$3,499",Non-family household,South Australia - South East,4,170
+" $1,000-$1,249",Non-family household,Sydney - Inner West,1,3061
+ $1-$149,Non-family household,Adelaide - North,4,516
+ $1-$149,Family households,South Australia - Outback,4,85
+" $3,500-$3,999",Family households,Capital Region,1,3169
+" $1,000-$1,249",Non-family household,Sydney - City and Inner South,1,4910
+ $650-$799,Non-family household,Mornington Peninsula,2,2684
+" $2,000-$2,499",Family households,Queensland - Outback,3,1889
+" $1,750-$1,999",Family households,Northern Territory - Outback,7,814
+ $500-$649,Family households,Shepparton,2,860
+ $150-$299,Family households,Migratory - Offshore - Shipping (SA),4,0
+ $500-$649,Family households,Western Australia - Outback (North),5,284
+" $3,000-$3,499",Non-family household,Sydney - Sutherland,1,522
+" $3,500-$3,999",Non-family household,Adelaide - North,4,140
+" $3,500-$3,999",Family households,South Australia - Outback,4,775
+" $1,250-$1,499",Non-family household,South East,6,232
+" $2,000-$2,499",Non-family household,West and North West,6,596
+ $1-$149,Family households,Capital Region,1,308
+ $400-$499,Family households,Migratory - Offshore - Shipping (NSW),1,0
+" $2,000-$2,499",Family households,Adelaide - North,4,16940
+" $3,000-$3,499",Non-family household,Riverina,1,227
+ $300-$399,Non-family household,Sydney - Baulkham Hills and Hawkesbury,1,531
+ $1-$149,Family households,Mornington Peninsula,2,355
+ $800-$999,Non-family household,Far West and Orana,1,1235
+" $1,750-$1,999",Family households,Riverina,1,2835
+" $2,000-$2,499",Non-family household,Sydney - Outer West and Blue Mountains,1,2307
+ $500-$649,Family households,Melbourne - South East,2,3696
+" $1,750-$1,999",Family households,Bunbury,5,2872
+" $1,500-$1,749",Family households,Adelaide - West,4,3722
+" $3,000-$3,499",Non-family household,Sydney - North Sydney and Hornsby,1,2144
+" $3,000-$3,499",Family households,Sydney - Outer West and Blue Mountains,1,7973
+ $300-$399,Non-family household,Adelaide - North,4,3688
+ $300-$399,Family households,South Australia - Outback,4,139
+" $4,000 or more",Family households,Migratory - Offshore - Shipping (SA),4,0
+" $1,750-$1,999",Family households,Migratory - Offshore - Shipping (Tas.),6,0
+" $1,500-$1,749",Family households,Darwin,7,1454
+ $1-$149,Non-family household,Capital Region,1,355
+ $150-$299,Family households,New England and North West,1,249
+" $1,500-$1,749",Family households,Sydney - Inner South West,1,8142
+" $3,000-$3,499",Family households,Geelong,2,7441
+" $4,000 or more",Non-family household,Melbourne - Inner South,2,2358
+" $2,500-$2,999",Family households,Cairns,3,5762
+" $3,500-$3,999",Family households,Adelaide - West,4,3453
+" $3,000-$3,499",Non-family household,Melbourne - Inner East,2,1149
+" $2,500-$2,999",Family households,Bunbury,5,4612
+ $300-$399,Non-family household,Queensland - Outback,3,566
+" $3,000-$3,499",Non-family household,Western Australia - Outback (South),5,334
+" $4,000 or more",Non-family household,Riverina,1,336
+" $1,500-$1,749",Family households,Sydney - South West,1,6808
+" $1,000-$1,249",Family households,Brisbane - East,3,3901
+ $1-$149,Non-family household,Adelaide - West,4,385
+" $1,750-$1,999",Non-family household,Mandurah,5,410
+ $400-$499,Non-family household,South East,6,1228
+" $4,000 or more",Family households,Far West and Orana,1,2488
+" $3,500-$3,999",Family households,Mornington Peninsula,2,4249
+" $3,500-$3,999",Family households,Ipswich,3,4308
+" $3,500-$3,999",Non-family household,Adelaide - West,4,164
+ $150-$299,Family households,Far West and Orana,1,136
+ $650-$799,Non-family household,Sydney - Northern Beaches,1,1575
+ $800-$999,Family households,Bendigo,2,2819
+" $1,750-$1,999",Family households,Perth - South East,5,7963
+" $3,000-$3,499",Non-family household,West and North West,6,90
+ $500-$649,Non-family household,Migratory - Offshore - Shipping (NT),7,0
+" $1,500-$1,749",Non-family household,Migratory - Offshore - Shipping (OT),9,0
+ $1-$149,Family households,Adelaide - West,4,238
+ $400-$499,Family households,South East,6,305
+" $3,500-$3,999",Non-family household,Mackay - Isaac - Whitsunday,3,71
+ $650-$799,Family households,Northern Territory - Outback,7,850
+ $150-$299,Family households,Sydney - Eastern Suburbs,1,215
+ $150-$299,Non-family household,Melbourne - Inner South,2,1343
+" $1,000-$1,249",Family households,Moreton Bay - South,3,3414
+" $2,000-$2,499",Non-family household,Barossa - Yorke - Mid North,4,526
+" $2,500-$2,999",Family households,Migratory - Offshore - Shipping (WA),5,0
+ $500-$649,Family households,Migratory - Offshore - Shipping (NT),7,0
+" $1,500-$1,749",Non-family household,Central Coast,1,1835
+ $1-$149,Family households,Sydney - Ryde,1,258
+" $1,500-$1,749",Family households,Hume,2,2984
+" $4,000 or more",Family households,Brisbane Inner City,3,23032
+" $3,500-$3,999",Family households,Darling Downs - Maranoa,3,1025
+" $2,000-$2,499",Family households,Hobart,6,8668
+" $1,000-$1,249",Family households,Sydney - Outer South West,1,4433
+ $150-$299,Family households,Ballarat,2,184
+" $2,000-$2,499",Non-family household,Melbourne - Outer East,2,3369
+" $1,250-$1,499",Family households,South Australia - South East,4,5168
+" $4,000 or more",Family households,Southern Highlands and Shoalhaven,1,4600
+" $1,250-$1,499",Family households,Brisbane Inner City,3,3407
+" $1,750-$1,999",Family households,Migratory - Offshore - Shipping (Qld),3,0
+ $300-$399,Family households,Sydney - Inner West,1,352
+" $2,500-$2,999",Family households,Latrobe - Gippsland,2,6574
+" $3,000-$3,499",Family households,Sydney - Sutherland,1,6086
+ $150-$299,Family households,Townsville,3,220
+ $650-$799,Family households,Mandurah,5,2605
+ $150-$299,Non-family household,Mid North Coast,1,1087
+ $150-$299,Non-family household,Australian Capital Territory,8,951
+" $1,250-$1,499",Non-family household,Perth - North East,5,2211
+ $400-$499,Non-family household,Melbourne - North West,2,5144
+ $1-$149,Family households,Moreton Bay - South,3,175
+ $400-$499,Family households,Toowoomba,3,704
+ $150-$299,Family households,Illawarra,1,329
+" $1,500-$1,749",Non-family household,Shepparton,2,751
+" $1,000-$1,249",Family households,Brisbane - South,3,4897
+" $3,500-$3,999",Family households,Gold Coast,3,8194
+" $3,000-$3,499",Non-family household,Sunshine Coast,3,640
+" $4,000 or more",Family households,Townsville,3,6155
+ $1-$149,Non-family household,South Australia - Outback,4,137
+ $650-$799,Non-family household,Perth - North West,5,3513
+" $4,000 or more",Non-family household,Perth - South East,5,1603
+" $4,000 or more",Family households,Western Australia - Wheat Belt,5,2936
+ $500-$649,Non-family household,Western Australia - Outback (North),5,201
+" $4,000 or more",Non-family household,Mid North Coast,1,372
+" $1,250-$1,499",Family households,Migratory - Offshore - Shipping (Vic.),2,0
+ $650-$799,Non-family household,Ipswich,3,2138
+" $1,000-$1,249",Non-family household,South Australia - Outback,4,900
+" $3,000-$3,499",Non-family household,Richmond - Tweed,1,340
+ $150-$299,Family households,Southern Highlands and Shoalhaven,1,217
+ $300-$399,Family households,Coffs Harbour - Grafton,1,271
+" $2,500-$2,999",Non-family household,Sydney - City and Inner South,1,1643
+" $4,000 or more",Family households,Sydney - Eastern Suburbs,1,26385
+ $400-$499,Non-family household,Migratory - Offshore - Shipping (NSW),1,0
+" $1,750-$1,999",Non-family household,Melbourne - North West,2,1568
+ $150-$299,Non-family household,Perth - South East,5,1657
+ $150-$299,Family households,Western Australia - Wheat Belt,5,188
+" $3,500-$3,999",Non-family household,Darwin,7,161
+" $3,500-$3,999",Family households,Sydney - Ryde,1,3538
+ $500-$649,Non-family household,Barossa - Yorke - Mid North,4,1789
+" $3,500-$3,999",Non-family household,Murray,1,38
+" $2,500-$2,999",Non-family household,Newcastle and Lake Macquarie,1,663
+ $300-$399,Non-family household,Melbourne - North East,2,2882
+" $1,250-$1,499",Non-family household,Hunter Valley exc Newcastle,1,1807
+ $1-$149,Non-family household,Melbourne - Inner,2,1454
+ $800-$999,Family households,Melbourne - West,2,10256
+" $2,000-$2,499",Non-family household,Brisbane - West,3,1719
+" $3,500-$3,999",Family households,Adelaide - Central and Hills,4,4729
+ $400-$499,Family households,Perth - South West,5,1702
+ $500-$649,Non-family household,Logan - Beaudesert,3,3338
+ $1-$149,Non-family household,Darwin,7,104
+ $800-$999,Non-family household,Illawarra,1,2628
+" $1,000-$1,249",Family households,Sydney - City and Inner South,1,2642
+" $2,500-$2,999",Non-family household,Brisbane - South,3,835
+ $650-$799,Non-family household,Central Queensland,3,1537
+ $800-$999,Non-family household,Perth - Inner,5,1835
+ $150-$299,Family households,Moreton Bay - North,3,288
+" $1,250-$1,499",Family households,Sunshine Coast,3,9114
+" $3,000-$3,499",Non-family household,Sydney - Blacktown,1,405
+ $650-$799,Family households,Melbourne - North West,2,5991
+ $800-$999,Family households,Warrnambool and South West,2,2329
+ $150-$299,Family households,Wide Bay,3,488
+" $1,000-$1,249",Family households,Adelaide - Central and Hills,4,4752
+" $3,500-$3,999",Non-family household,Migratory - Offshore - Shipping (ACT),8,0
+" $1,250-$1,499",Family households,Moreton Bay - North,3,6113
+" $1,250-$1,499",Family households,Richmond - Tweed,1,6021
+" $3,500-$3,999",Non-family household,Brisbane - North,3,142
+ $650-$799,Non-family household,Sydney - Ryde,1,1153
+ $300-$399,Family households,Melbourne - Inner,2,745
+ $500-$649,Non-family household,Melbourne - West,2,5032
+" $2,000-$2,499",Non-family household,Warrnambool and South West,2,738
+" $1,000-$1,249",Non-family household,Brisbane - North,3,2363
+ $800-$999,Non-family household,Townsville,3,2350
+ $1-$149,Non-family household,Migratory - Offshore - Shipping (ACT),8,0
+" $1,000-$1,249",Family households,Darling Downs - Maranoa,3,2500
+ $800-$999,Non-family household,Wide Bay,3,3319
+" $1,250-$1,499",Family households,Sydney - Blacktown,1,6398
+ $800-$999,Non-family household,Sydney - Eastern Suburbs,1,2189
+ $800-$999,Family households,Barossa - Yorke - Mid North,4,2464
+ $800-$999,Family households,Brisbane - West,3,1593
+" $3,500-$3,999",Non-family household,Hume,2,44
+ $800-$999,Family households,Melbourne - Outer East,2,6465
+" $3,000-$3,499",Non-family household,Brisbane Inner City,3,2113
+" $3,000-$3,499",Family households,Logan - Beaudesert,3,6462
+" $2,500-$2,999",Non-family household,Adelaide - Central and Hills,4,472
+ $150-$299,Non-family household,Perth - South West,5,1387
+ $300-$399,Non-family household,Other Territories,9,36
+ $400-$499,Family households,Hunter Valley exc Newcastle,1,1346
+ $1-$149,Non-family household,Murray,1,172
+" $2,000-$2,499",Family households,Adelaide - South,4,13668
+ $300-$399,Family households,Brisbane - North,3,207
+ $1-$149,Non-family household,Townsville,3,294
+ $500-$649,Non-family household,Adelaide - Central and Hills,4,4232
+" $1,000-$1,249",Family households,Hobart,6,4561
+ $400-$499,Non-family household,Migratory - Offshore - Shipping (Tas.),6,0
+" $4,000 or more",Family households,Northern Territory - Outback,7,1925
+ $650-$799,Family households,Sydney - Eastern Suburbs,1,1502
+ $800-$999,Family households,Sydney - North Sydney and Hornsby,1,2636
+ $150-$299,Non-family household,Migratory - Offshore - Shipping (Vic.),2,0
+ $300-$399,Family households,Mandurah,5,204
+" $2,000-$2,499",Family households,South East,6,1300
+" $2,500-$2,999",Family households,Brisbane - South,3,9800
+" $2,500-$2,999",Non-family household,Moreton Bay - South,3,205
+ $650-$799,Non-family household,Logan - Beaudesert,3,1972
+ $300-$399,Non-family household,Darwin,7,694
+ $400-$499,Family households,Australian Capital Territory,8,855
+ $400-$499,Non-family household,Newcastle and Lake Macquarie,1,8273
+" $3,000-$3,499",Family households,Sydney - Blacktown,1,9769
+" $4,000 or more",Non-family household,Ballarat,2,402
+ $800-$999,Non-family household,Warrnambool and South West,2,1660
+ $800-$999,Non-family household,West and North West,6,1341
+ $150-$299,Non-family household,Richmond - Tweed,1,1024
+" $3,000-$3,499",Family households,Western Australia - Outback (North),5,1849
+" $2,000-$2,499",Family households,Southern Highlands and Shoalhaven,1,5247
+" $2,500-$2,999",Family households,Sydney - Inner West,1,6847
+ $1-$149,Non-family household,Sydney - Northern Beaches,1,358
+ $650-$799,Family households,Melbourne - Inner East,2,3792
+" $3,000-$3,499",Family households,Melbourne - Outer East,2,13177
+" $2,000-$2,499",Family households,Moreton Bay - South,3,8558
+" $4,000 or more",Non-family household,Townsville,3,502
+" $1,500-$1,749",Non-family household,New England and North West,1,1009
+ $500-$649,Non-family household,Darling Downs - Maranoa,3,1655
+ $300-$399,Family households,Perth - South East,5,743
+" $1,250-$1,499",Family households,Migratory - Offshore - Shipping (WA),5,0
+ $500-$649,Family households,Central Coast,1,1767
+ $1-$149,Non-family household,Brisbane - East,3,243
+" $1,250-$1,499",Non-family household,Coffs Harbour - Grafton,1,899
+" $2,500-$2,999",Family households,Sydney - Outer South West,1,8430
+" $3,500-$3,999",Non-family household,Melbourne - Outer East,2,165
+ $400-$499,Non-family household,Bunbury,5,3643
+ $150-$299,Family households,Migratory - Offshore - Shipping (ACT),8,0
+" $3,500-$3,999",Non-family household,Sydney - Ryde,1,146
+ $650-$799,Family households,Adelaide - North,4,8477
+" $1,000-$1,249",Family households,Sunshine Coast,3,7762
+ $650-$799,Family households,Adelaide - West,4,3875
+" $3,500-$3,999",Family households,Sydney - Northern Beaches,1,4397
+ $1-$149,Non-family household,Ballarat,2,258
+ $1-$149,Family households,Illawarra,1,290
+ $500-$649,Family households,Melbourne - North East,2,2309
+" $1,750-$1,999",Family households,Melbourne - West,2,13180
+ $800-$999,Non-family household,North West,2,1985
+" $1,750-$1,999",Family households,Barossa - Yorke - Mid North,4,1909
+" $3,500-$3,999",Family households,Barossa - Yorke - Mid North,4,998
+" $1,250-$1,499",Non-family household,Latrobe - Gippsland,2,2134
+ $400-$499,Non-family household,Brisbane - North,3,3653
+" $1,750-$1,999",Family households,Other Territories,9,72
+" $1,500-$1,749",Non-family household,Sydney - Baulkham Hills and Hawkesbury,1,803
+" $2,000-$2,499",Family households,Migratory - Offshore - Shipping (Vic.),2,0
+ $300-$399,Non-family household,Central Queensland,3,1606
+" $1,000-$1,249",Family households,South Australia - South East,4,4515
+ $400-$499,Family households,Riverina,1,802
+" $4,000 or more",Family households,Migratory - Offshore - Shipping (Vic.),2,0
+ $650-$799,Non-family household,Northern Territory - Outback,7,322
+ $150-$299,Family households,Geelong,2,349
+" $1,500-$1,749",Non-family household,Mornington Peninsula,2,1946
+ $400-$499,Non-family household,Perth - Inner,5,2365
+" $4,000 or more",Family households,Illawarra,1,12296
+ $300-$399,Family households,Newcastle and Lake Macquarie,1,437
+ $650-$799,Non-family household,Brisbane Inner City,3,2749
+" $4,000 or more",Family households,Cairns,3,5511
+" $1,500-$1,749",Non-family household,Brisbane Inner City,3,4237
+ $1-$149,Family households,Central Coast,1,352
+" $2,500-$2,999",Non-family household,Migratory - Offshore - Shipping (NSW),1,0
+" $3,500-$3,999",Family households,Perth - North West,5,9099
+" $2,500-$2,999",Family households,Mid North Coast,1,4474
+" $3,000-$3,499",Non-family household,New England and North West,1,254
+" $3,500-$3,999",Family households,Brisbane - East,3,4150
+" $2,500-$2,999",Non-family household,Brisbane - West,3,275
+" $4,000 or more",Non-family household,Far West and Orana,1,289
+" $1,250-$1,499",Family households,Sydney - Outer South West,1,5267
+ $150-$299,Non-family household,Melbourne - North East,2,1481
+" $1,500-$1,749",Family households,Adelaide - North,4,7970
+ $400-$499,Non-family household,Mandurah,5,2558
+" $1,000-$1,249",Non-family household,Capital Region,1,2637
+ $500-$649,Non-family household,Coffs Harbour - Grafton,1,2570
+" $1,750-$1,999",Family households,Sydney - Parramatta,1,6907
+ $1-$149,Family households,Migratory - Offshore - Shipping (NSW),1,0
+ $800-$999,Family households,Hume,2,3167
+" $2,000-$2,499",Non-family household,Shepparton,2,695
+" $1,750-$1,999",Family households,Sydney - Northern Beaches,1,2888
+" $3,000-$3,499",Family households,Melbourne - North West,2,9102
+ $300-$399,Non-family household,Brisbane - South,3,1975
+ $650-$799,Non-family household,Cairns,3,2182
+ $300-$399,Non-family household,Migratory - Offshore - Shipping (OT),9,0
+" $2,000-$2,499",Non-family household,South Australia - Outback,4,672
+ $300-$399,Non-family household,Sydney - Inner South West,1,4244
+" $3,000-$3,499",Family households,Migratory - Offshore - Shipping (Tas.),6,0
+ $150-$299,Non-family household,Murray,1,578
+" $3,000-$3,499",Non-family household,Bendigo,2,201
+ $650-$799,Non-family household,Gold Coast,3,4652
+ $150-$299,Non-family household,Toowoomba,3,500
+ $500-$649,Non-family household,South Australia - South East,4,3498
+ $800-$999,Family households,Far West and Orana,1,1689
+" $2,500-$2,999",Family households,Sydney - Inner South West,1,13788
+ $150-$299,Family households,Bendigo,2,175
+" $3,000-$3,499",Family households,Melbourne - South East,2,17946
+" $3,500-$3,999",Non-family household,Ipswich,3,85
+ $500-$649,Non-family household,Townsville,3,2616
+" $2,500-$2,999",Family households,Central Queensland,3,5379
+ $500-$649,Non-family household,Sunshine Coast,3,4986
+ $800-$999,Non-family household,Migratory - Offshore - Shipping (OT),9,0
+" $1,000-$1,249",Family households,Murray,1,2337
+" $2,000-$2,499",Non-family household,Capital Region,1,1798
+" $1,250-$1,499",Family households,Brisbane - South,3,6013
+ $1-$149,Non-family household,Adelaide - Central and Hills,4,505
+" $3,000-$3,499",Family households,Perth - Inner,5,3339
+ $400-$499,Non-family household,Launceston and North East,6,4250
+" $1,500-$1,749",Non-family household,Mid North Coast,1,1023
+ $400-$499,Non-family household,Sydney - Ryde,1,1904
+" $1,750-$1,999",Non-family household,Warrnambool and South West,2,559
+" $1,000-$1,249",Non-family household,Bunbury,5,1710
+" $1,250-$1,499",Family households,Central West,1,4261
+ $650-$799,Non-family household,Richmond - Tweed,1,2593
+" $1,250-$1,499",Family households,Sydney - Inner West,1,3984
+ $150-$299,Family households,Melbourne - Inner East,2,680
+" $1,500-$1,749",Family households,Melbourne - Inner East,2,4260
+ $500-$649,Non-family household,Ballarat,2,2638
+ $400-$499,Family households,Hobart,6,1099
+" $2,500-$2,999",Family households,Migratory - Offshore - Shipping (OT),9,0
+ $1-$149,Non-family household,Far West and Orana,1,176
+ $150-$299,Non-family household,Southern Highlands and Shoalhaven,1,609
+" $4,000 or more",Family households,Sydney - Baulkham Hills and Hawkesbury,1,22666
+" $2,000-$2,499",Family households,Latrobe - Gippsland,2,9748
+" $3,000-$3,499",Non-family household,Migratory - Offshore - Shipping (Qld),3,0
+" $1,750-$1,999",Non-family household,West and North West,6,506
+ $800-$999,Non-family household,Central Queensland,3,1930
+" $1,500-$1,749",Non-family household,Logan - Beaudesert,3,1617
+ $150-$299,Family households,Adelaide - North,4,562
+" $1,750-$1,999",Non-family household,Melbourne - Outer East,2,2145
+" $1,250-$1,499",Non-family household,Moreton Bay - South,3,1337
+ $1-$149,Family households,Central West,1,269
+" $1,750-$1,999",Family households,Hume,2,3244
+ $500-$649,Non-family household,Queensland - Outback,3,559
+" $1,250-$1,499",Family households,Perth - North East,5,4852
+" $3,500-$3,999",Family households,Coffs Harbour - Grafton,1,1259
+ $500-$649,Non-family household,Migratory - Offshore - Shipping (SA),4,0
+" $3,500-$3,999",Non-family household,Newcastle and Lake Macquarie,1,273
+ $800-$999,Non-family household,Sydney - Inner South West,1,3802
+ $150-$299,Non-family household,Gold Coast,3,1672
+ $650-$799,Family households,Ipswich,3,5570
+ $400-$499,Family households,Townsville,3,916
+" $1,000-$1,249",Non-family household,Perth - Inner,5,2298
+" $1,500-$1,749",Family households,Sydney - Eastern Suburbs,1,1897
+" $1,250-$1,499",Family households,Logan - Beaudesert,3,7658
+ $500-$649,Non-family household,Other Territories,9,45
+ $800-$999,Family households,Sydney - Northern Beaches,1,1696
+" $3,000-$3,499",Non-family household,Mornington Peninsula,2,449
+ $300-$399,Non-family household,North West,2,1533
+ $150-$299,Family households,Migratory - Offshore - Shipping (Qld),3,0
+" $1,250-$1,499",Non-family household,Western Australia - Wheat Belt,5,941
+ $300-$399,Non-family household,Sydney - Inner West,1,1828
+" $1,000-$1,249",Family households,Migratory - Offshore - Shipping (Vic.),2,0
+" $1,500-$1,749",Non-family household,Cairns,3,1577
+ $150-$299,Family households,Mid North Coast,1,349
+ $800-$999,Family households,Brisbane - East,3,3157
+" $1,750-$1,999",Family households,Brisbane - East,3,3705
+" $1,250-$1,499",Family households,Sydney - Sutherland,1,3347
+" $2,500-$2,999",Non-family household,Coffs Harbour - Grafton,1,105
+" $1,000-$1,249",Family households,Riverina,1,2860
+ $150-$299,Non-family household,Migratory - Offshore - Shipping (NSW),1,0
+" $2,000-$2,499",Family households,Cairns,3,8278
+" $2,500-$2,999",Family households,Migratory - Offshore - Shipping (Qld),3,0
+" $4,000 or more",Non-family household,South Australia - Outback,4,211
+ $150-$299,Family households,Hunter Valley exc Newcastle,1,316
+ $150-$299,Non-family household,Brisbane Inner City,3,1075
+ $400-$499,Family households,Sunshine Coast,3,1708
+ $400-$499,Family households,South Australia - South East,4,1265
+ $150-$299,Non-family household,Hobart,6,893
+" $1,750-$1,999",Non-family household,Hunter Valley exc Newcastle,1,1103
+ $1-$149,Non-family household,Darling Downs - Maranoa,3,197
+" $1,750-$1,999",Non-family household,Central Queensland,3,1108
+ $800-$999,Family households,Townsville,3,3020
+" $3,000-$3,499",Non-family household,Mid North Coast,1,178
+ $400-$499,Family households,Sydney - South West,1,2353
+" $1,000-$1,249",Family households,Latrobe - Gippsland,2,6466
+ $650-$799,Non-family household,New England and North West,1,1633
+" $1,250-$1,499",Non-family household,Queensland - Outback,3,560
+ $300-$399,Non-family household,Geelong,2,2233
+ $150-$299,Family households,Mornington Peninsula,2,358
+" $3,000-$3,499",Family households,Bunbury,5,3679
+ $500-$649,Non-family household,Sydney - Northern Beaches,1,1999
+ $650-$799,Family households,Sydney - Ryde,1,1724
+" $4,000 or more",Non-family household,Sydney - South West,1,370
+ $1-$149,Non-family household,Shepparton,2,205
+ $150-$299,Family households,Ipswich,3,406
+" $4,000 or more",Non-family household,South Australia - South East,4,324
+" $2,500-$2,999",Family households,West and North West,6,2578
+" $1,250-$1,499",Family households,Migratory - Offshore - Shipping (OT),9,0
+" $1,750-$1,999",Non-family household,Sydney - Inner South West,1,2451
+ $300-$399,Family households,Sydney - North Sydney and Hornsby,1,390
+ $650-$799,Non-family household,Migratory - Offshore - Shipping (Vic.),2,0
+" $2,000-$2,499",Family households,Logan - Beaudesert,3,12789
+ $500-$649,Family households,Central West,1,1130
+" $2,000-$2,499",Non-family household,Perth - Inner,5,3405
+ $650-$799,Family households,Sydney - City and Inner South,1,2062
+ $650-$799,Non-family household,South East,6,383
+" $1,750-$1,999",Non-family household,Migratory - Offshore - Shipping (OT),9,0
+ $500-$649,Family households,Bendigo,2,930
+ $150-$299,Family households,Migratory - Offshore - Shipping (NT),7,0
+" $1,000-$1,249",Non-family household,Other Territories,9,52
+" $4,000 or more",Family households,Migratory - Offshore - Shipping (NT),7,0
+" $1,250-$1,499",Family households,Sydney - Inner South West,1,10809
+" $1,500-$1,749",Family households,North West,2,2483
+" $2,500-$2,999",Family households,Brisbane Inner City,3,6053
+" $1,750-$1,999",Family households,Darling Downs - Maranoa,3,2091
+ $650-$799,Non-family household,Mid North Coast,1,2332
+" $3,500-$3,999",Non-family household,Sydney - Outer West and Blue Mountains,1,76
+ $500-$649,Family households,Brisbane - South,3,1382
+ $800-$999,Non-family household,Perth - North East,5,2159
+" $4,000 or more",Non-family household,Capital Region,1,619
+" $3,500-$3,999",Non-family household,Warrnambool and South West,2,25
+" $3,000-$3,499",Non-family household,Hunter Valley exc Newcastle,1,375
+ $650-$799,Non-family household,Murray,1,1228
+" $1,500-$1,749",Non-family household,Richmond - Tweed,1,1345
+" $4,000 or more",Family households,Latrobe - Gippsland,2,6327
+" $1,000-$1,249",Non-family household,Barossa - Yorke - Mid North,4,1201
+ $300-$399,Family households,Melbourne - South East,2,1187
+" $1,250-$1,499",Non-family household,Illawarra,1,2060
+" $4,000 or more",Family households,Adelaide - South,4,11956
+" $1,750-$1,999",Family households,Adelaide - Central and Hills,4,4526
+ $1-$149,Family households,Migratory - Offshore - Shipping (NT),7,0
+ $650-$799,Family households,Sydney - Blacktown,1,4245
+ $500-$649,Family households,Sydney - Outer South West,1,1438
+ $500-$649,Family households,Murray,1,748
+" $2,000-$2,499",Family households,Brisbane Inner City,3,8004
+ $300-$399,Non-family household,Wide Bay,3,3075
+" $2,500-$2,999",Family households,Hunter Valley exc Newcastle,1,7654
+" $1,250-$1,499",Non-family household,Sydney - Northern Beaches,1,1621
+ $1-$149,Family households,Migratory - Offshore - Shipping (WA),5,0
+" $2,000-$2,499",Non-family household,Migratory - Offshore - Shipping (Tas.),6,0
+" $4,000 or more",Family households,Brisbane - West,3,14303
+" $1,500-$1,749",Family households,Bunbury,5,2610
+" $2,000-$2,499",Family households,Riverina,1,5562
+" $1,250-$1,499",Family households,Melbourne - North East,2,9760
+" $1,500-$1,749",Non-family household,Migratory - Offshore - Shipping (Vic.),2,0
+" $1,250-$1,499",Non-family household,Barossa - Yorke - Mid North,4,846
+ $650-$799,Non-family household,Sydney - Inner West,1,2005
+" $4,000 or more",Non-family household,Sydney - Outer West and Blue Mountains,1,513
+" $1,750-$1,999",Non-family household,Perth - South East,5,2658
+" $1,750-$1,999",Family households,Western Australia - Wheat Belt,5,2074
+ $800-$999,Non-family household,Migratory - Offshore - Shipping (WA),5,0
+" $1,250-$1,499",Family households,Toowoomba,3,3415
+" $3,000-$3,499",Non-family household,Sydney - Baulkham Hills and Hawkesbury,1,296
+" $1,500-$1,749",Non-family household,Sydney - Sutherland,1,1383
+" $2,500-$2,999",Non-family household,Queensland - Outback,3,65
+ $800-$999,Family households,Other Territories,9,55
+" $1,750-$1,999",Non-family household,Melbourne - Inner South,2,2938
+" $1,250-$1,499",Family households,North West,2,3609
+" $2,000-$2,499",Family households,Darling Downs - Maranoa,3,4006
+ $1-$149,Family households,Perth - South West,5,466
+ $800-$999,Non-family household,Western Australia - Outback (North),5,289
+ $300-$399,Family households,Sydney - Ryde,1,231
+" $2,000-$2,499",Family households,Sydney - Sutherland,1,7001
+" $2,000-$2,499",Family households,Sunshine Coast,3,14113
+ $1-$149,Family households,Adelaide - South,4,364
+" $2,000-$2,499",Family households,South Australia - South East,4,6288
+" $2,500-$2,999",Non-family household,Central West,1,181
+" $1,250-$1,499",Non-family household,Western Australia - Outback (South),5,872
+" $2,000-$2,499",Non-family household,Australian Capital Territory,8,8230
+" $2,000-$2,499",Non-family household,Sydney - South West,1,1437
+ $500-$649,Family households,Moreton Bay - North,3,1679
+" $3,500-$3,999",Family households,Queensland - Outback,3,830
+" $2,000-$2,499",Family households,Adelaide - Central and Hills,4,10107
+" $1,250-$1,499",Non-family household,Sydney - Parramatta,1,3157
+" $3,000-$3,499",Family households,Melbourne - Inner,2,12809
+ $500-$649,Non-family household,Brisbane - East,3,2430
+" $2,500-$2,999",Non-family household,Central Coast,1,276
+" $1,500-$1,749",Family households,Central Queensland,3,2853
+" $1,750-$1,999",Family households,Perth - Inner,5,1873
+ $400-$499,Family households,Far West and Orana,1,598
+ $400-$499,Family households,Southern Highlands and Shoalhaven,1,891
+ $800-$999,Non-family household,Melbourne - North West,2,2564
+ $300-$399,Family households,Ipswich,3,579
+ $1-$149,Non-family household,Hobart,6,285
+" $1,750-$1,999",Non-family household,Sydney - Inner West,1,2349
+ $400-$499,Family households,Ballarat,2,875
+" $4,000 or more",Non-family household,Migratory - Offshore - Shipping (SA),4,0
+" $2,000-$2,499",Family households,Coffs Harbour - Grafton,1,4624
+" $2,500-$2,999",Family households,Gold Coast,3,16762
+ $300-$399,Non-family household,Moreton Bay - North,3,1959
+ $150-$299,Non-family household,Migratory - Offshore - Shipping (SA),4,0
+" $3,500-$3,999",Family households,Perth - South West,5,6838
+" $1,000-$1,249",Family households,Northern Territory - Outback,7,997
+ $800-$999,Non-family household,Melbourne - South East,2,5506
+ $1-$149,Family households,Queensland - Outback,3,83
+" $3,000-$3,499",Non-family household,Geelong,2,612
+" $4,000 or more",Non-family household,Sydney - North Sydney and Hornsby,1,4450
+" $1,750-$1,999",Family households,Mandurah,5,1440
+ $650-$799,Family households,Launceston and North East,6,3611
+ $500-$649,Family households,Darwin,7,416
+" $2,000-$2,499",Family households,Richmond - Tweed,1,8380
+ $500-$649,Non-family household,Migratory - Offshore - Shipping (Vic.),2,0
+ $150-$299,Non-family household,Logan - Beaudesert,3,759
+" $4,000 or more",Family households,Queensland - Outback,3,1956
+ $1-$149,Family households,Perth - North East,5,258
+ $400-$499,Non-family household,Sydney - Northern Beaches,1,2555
+" $1,250-$1,499",Family households,Migratory - Offshore - Shipping (NSW),1,0
+ $300-$399,Non-family household,Bendigo,2,1440
+ $800-$999,Family households,Brisbane - North,3,2541
+" $1,250-$1,499",Non-family household,Adelaide - Central and Hills,4,2849
+ $1-$149,Non-family household,Mandurah,5,149
+ $650-$799,Family households,Migratory - Offshore - Shipping (Tas.),6,0
+" $2,500-$2,999",Non-family household,Adelaide - South,4,411
+ $400-$499,Non-family household,Adelaide - West,4,6163
+" $4,000 or more",Family households,South East,6,605
+" $1,750-$1,999",Non-family household,Melbourne - Inner,2,9581
+" $1,500-$1,749",Non-family household,Moreton Bay - South,3,1144
+ $650-$799,Non-family household,Migratory - Offshore - Shipping (Qld),3,0
+ $400-$499,Family households,Migratory - Offshore - Shipping (SA),4,0
+" $2,500-$2,999",Non-family household,Toowoomba,3,186
+ $300-$399,Family households,Western Australia - Outback (North),5,138
+ $500-$649,Non-family household,Riverina,1,1845
+ $300-$399,Non-family household,Sydney - Outer South West,1,1399
+" $3,500-$3,999",Family households,Australian Capital Territory,8,9814
+ $800-$999,Family households,Melbourne - Inner South,2,3683
+" $1,000-$1,249",Non-family household,Melbourne - West,2,6071
+" $1,000-$1,249",Family households,South East,6,994
+" $3,000-$3,499",Family households,Shepparton,2,2130
+ $400-$499,Non-family household,Brisbane - East,3,4053
+" $1,250-$1,499",Non-family household,Darling Downs - Maranoa,3,813
+ $300-$399,Non-family household,Sydney - Eastern Suburbs,1,1614
+" $1,250-$1,499",Non-family household,Melbourne - West,2,5225
+" $1,000-$1,249",Family households,Shepparton,2,2697
+" $2,000-$2,499",Family households,Migratory - Offshore - Shipping (SA),4,0
+" $3,500-$3,999",Non-family household,Mandurah,5,27
+ $650-$799,Family households,Brisbane - North,3,2305
+ $150-$299,Family households,Adelaide - South,4,374
+ $150-$299,Non-family household,Sydney - Sutherland,1,559
+" $1,750-$1,999",Family households,Brisbane - West,3,2337
+" $2,000-$2,499",Non-family household,Perth - South West,5,3984
+" $2,500-$2,999",Family households,Richmond - Tweed,1,5736
+ $1-$149,Family households,Sydney - Baulkham Hills and Hawkesbury,1,292
+ $400-$499,Non-family household,Sydney - Eastern Suburbs,1,2929
+" $3,000-$3,499",Family households,Sydney - Inner South West,1,11468
+" $1,250-$1,499",Non-family household,Cairns,3,2071
+" $2,500-$2,999",Non-family household,Perth - South West,5,487
+ $300-$399,Family households,Melbourne - Outer East,2,619
+" $1,500-$1,749",Non-family household,West and North West,6,667
+" $2,500-$2,999",Family households,Darwin,7,3658
+ $650-$799,Non-family household,Migratory - Offshore - Shipping (OT),9,0
+" $4,000 or more",Family households,Central Coast,1,11550
+" $3,000-$3,499",Non-family household,Migratory - Offshore - Shipping (NT),7,0
+ $400-$499,Non-family household,Hume,2,4396
+ $500-$649,Non-family household,Hume,2,2669
+ $300-$399,Family households,Warrnambool and South West,2,200
+" $1,250-$1,499",Non-family household,Brisbane - West,3,1222
+ $150-$299,Non-family household,Perth - North West,5,1692
+ $500-$649,Family households,Illawarra,1,1583
+ $1-$149,Non-family household,Sydney - Parramatta,1,491
+" $2,000-$2,499",Family households,Ballarat,2,5760
+" $2,000-$2,499",Non-family household,Mackay - Isaac - Whitsunday,3,1692
+" $3,000-$3,499",Family households,Mackay - Isaac - Whitsunday,3,3826
+" $2,000-$2,499",Family households,Townsville,3,7898
+" $2,500-$2,999",Non-family household,Other Territories,9,0
+" $3,000-$3,499",Family households,Migratory - Offshore - Shipping (OT),9,0
+ $150-$299,Family households,Central Coast,1,341
+" $1,750-$1,999",Family households,Newcastle and Lake Macquarie,1,5764
+" $1,500-$1,749",Family households,Geelong,2,4736
+" $2,000-$2,499",Non-family household,Melbourne - Inner,2,19034
+ $300-$399,Non-family household,Melbourne - Inner East,2,1946
+ $1-$149,Family households,Toowoomba,3,177
+" $2,500-$2,999",Non-family household,Sydney - Baulkham Hills and Hawkesbury,1,125
+ $300-$399,Family households,Sydney - Outer West and Blue Mountains,1,367
+" $1,500-$1,749",Family households,Melbourne - North West,2,6508
+" $1,750-$1,999",Family households,Western Australia - Outback (South),5,1418
+ $150-$299,Non-family household,Brisbane - South,3,1052
+ $650-$799,Family households,Moreton Bay - North,3,5662
+ $650-$799,Non-family household,Sydney - Inner South West,1,3072
+" $1,000-$1,249",Family households,Melbourne - North East,2,8164
+" $3,500-$3,999",Non-family household,Melbourne - South East,2,502
+ $500-$649,Family households,Wide Bay,3,2412
+ $800-$999,Family households,Launceston and North East,6,3040
+" $3,500-$3,999",Non-family household,Sydney - Parramatta,1,413
+ $500-$649,Family households,Gold Coast,3,2996
+ $800-$999,Non-family household,Bunbury,5,1697
+ $800-$999,Family households,Perth - South East,5,6089
+" $3,000-$3,499",Non-family household,Northern Territory - Outback,7,208
+ $300-$399,Family households,Sydney - Parramatta,1,772
+" $4,000 or more",Non-family household,Perth - North West,5,1674
+ $650-$799,Non-family household,Melbourne - North East,2,3106
+" $3,000-$3,499",Non-family household,Adelaide - South,4,521
+" $3,000-$3,499",Non-family household,Central Coast,1,469
+" $1,500-$1,749",Non-family household,Southern Highlands and Shoalhaven,1,849
+" $2,500-$2,999",Family households,Migratory - Offshore - Shipping (Vic.),2,0
+ $650-$799,Family households,Migratory - Offshore - Shipping (ACT),8,0
+ $1-$149,Non-family household,Western Australia - Outback (North),5,59
+" $3,500-$3,999",Non-family household,Western Australia - Outback (North),5,67
+" $1,750-$1,999",Non-family household,Darwin,7,1005
+ $1-$149,Family households,Australian Capital Territory,8,239
+" $2,500-$2,999",Non-family household,Australian Capital Territory,8,968
+ $1-$149,Non-family household,Sydney - Outer West and Blue Mountains,1,358
+" $1,000-$1,249",Non-family household,Melbourne - North West,2,2792
+" $3,500-$3,999",Family households,Toowoomba,3,1845
+" $2,500-$2,999",Family households,New England and North West,1,3937
+ $400-$499,Non-family household,Sydney - Blacktown,1,3579
+" $2,000-$2,499",Family households,Sydney - Northern Beaches,1,6805
+" $1,750-$1,999",Family households,Sydney - Ryde,1,2460
+ $400-$499,Family households,Sydney - Sutherland,1,696
+ $400-$499,Family households,Perth - North West,5,2222
+" $3,500-$3,999",Family households,Other Territories,9,57
+" $1,500-$1,749",Non-family household,Sydney - City and Inner South,1,4670
+ $1-$149,Non-family household,Latrobe - Gippsland,2,517
+ $400-$499,Family households,Melbourne - Inner,2,1759
+" $4,000 or more",Non-family household,Melbourne - Outer East,2,880
+ $500-$649,Non-family household,Perth - South East,5,4916
+ $500-$649,Family households,Western Australia - Wheat Belt,5,796
+" $4,000 or more",Non-family household,Western Australia - Outback (North),5,543
+ $650-$799,Family households,Hume,2,3667
+ $800-$999,Non-family household,Melbourne - Inner,2,8573
+" $1,500-$1,749",Family households,Melbourne - West,2,12878
+ $650-$799,Non-family household,West and North West,6,1088
+" $1,000-$1,249",Non-family household,Sydney - Eastern Suburbs,1,2683
+" $2,000-$2,499",Family households,Sydney - Parramatta,1,15724
+" $3,000-$3,499",Non-family household,Sydney - Ryde,1,610
+ $500-$649,Non-family household,Cairns,3,3178
+" $1,000-$1,249",Family households,New England and North West,1,3502
+" $1,250-$1,499",Non-family household,Hume,2,1405
+" $2,000-$2,499",Family households,Mid North Coast,1,6786
+ $1-$149,Non-family household,Melbourne - Outer East,2,619
+ $150-$299,Family households,Mandurah,5,159
+" $1,250-$1,499",Family households,Hobart,6,5482
+ $150-$299,Non-family household,Sydney - South West,1,1087
+ $400-$499,Family households,Logan - Beaudesert,3,1463
+" $1,500-$1,749",Family households,Migratory - Offshore - Shipping (WA),5,0
+ $650-$799,Family households,Sydney - Baulkham Hills and Hawkesbury,1,1976
+ $300-$399,Non-family household,Bunbury,5,1429
+ $150-$299,Family households,Newcastle and Lake Macquarie,1,383
+ $1-$149,Non-family household,Southern Highlands and Shoalhaven,1,286
+ $150-$299,Non-family household,Sydney - Inner West,1,870
+ $500-$649,Non-family household,Brisbane - North,3,2634
+" $1,750-$1,999",Non-family household,Mackay - Isaac - Whitsunday,3,816
+" $3,000-$3,499",Family households,Darwin,7,3273
+" $4,000 or more",Family households,Migratory - Offshore - Shipping (ACT),8,0
+ $650-$799,Non-family household,Hunter Valley exc Newcastle,1,1942
+" $2,500-$2,999",Non-family household,Moreton Bay - North,3,191
+ $500-$649,Non-family household,Northern Territory - Outback,7,320
+" $3,000-$3,499",Family households,Sydney - South West,1,8783
+" $3,000-$3,499",Family households,Brisbane - South,3,8600
+ $1-$149,Non-family household,South East,6,66
+ $150-$299,Non-family household,Darwin,7,282
+ $1-$149,Non-family household,Richmond - Tweed,1,427
+" $1,250-$1,499",Non-family household,Sydney - Baulkham Hills and Hawkesbury,1,852
+" $3,000-$3,499",Family households,Sydney - Inner West,1,6676
+" $3,000-$3,499",Non-family household,Moreton Bay - South,3,236
+" $4,000 or more",Family households,Adelaide - Central and Hills,4,17019
+" $1,250-$1,499",Non-family household,Adelaide - South,4,3193
+ $500-$649,Family households,Perth - South West,5,2066
+ $300-$399,Non-family household,Illawarra,1,2479
+ $400-$499,Family households,Sydney - Outer West and Blue Mountains,1,1149
+ $150-$299,Family households,Cairns,3,335
+ $400-$499,Family households,Melbourne - North East,2,2133
+ $400-$499,Non-family household,Western Australia - Outback (South),5,1919
+" $3,500-$3,999",Family households,Illawarra,1,4776
+" $2,500-$2,999",Family households,Southern Highlands and Shoalhaven,1,3738
+ $400-$499,Non-family household,Migratory - Offshore - Shipping (ACT),8,0
+ $300-$399,Non-family household,Sydney - Blacktown,1,1749
+" $4,000 or more",Family households,Sydney - City and Inner South,1,24332
+ $500-$649,Family households,North West,2,954
+" $2,000-$2,499",Non-family household,Murray,1,700
+" $1,250-$1,499",Family households,Melbourne - North West,2,8071
+" $3,000-$3,499",Family households,Perth - North East,5,6235
+" $3,500-$3,999",Non-family household,Mid North Coast,1,29
+" $4,000 or more",Non-family household,Murray,1,236
+ $400-$499,Family households,Gold Coast,3,2433
+" $1,500-$1,749",Family households,Perth - North East,5,3842
+" $4,000 or more",Family households,Darling Downs - Maranoa,3,2076
+" $1,750-$1,999",Non-family household,Far West and Orana,1,561
+" $1,250-$1,499",Family households,Murray,1,2755
+ $650-$799,Non-family household,Riverina,1,1362
+" $3,000-$3,499",Family households,Sydney - Outer South West,1,6855
+ $800-$999,Family households,Latrobe - Gippsland,2,5962
+" $1,500-$1,749",Non-family household,South Australia - South East,4,995
+ $650-$799,Family households,Central Coast,1,6265
+" $2,000-$2,499",Non-family household,Melbourne - North West,2,2644
+" $3,500-$3,999",Non-family household,Migratory - Offshore - Shipping (Qld),3,0
+ $800-$999,Family households,Coffs Harbour - Grafton,1,2821
+" $1,750-$1,999",Non-family household,Sydney - North Sydney and Hornsby,1,2971
+ $400-$499,Non-family household,Geelong,2,5923
+" $1,000-$1,249",Non-family household,Western Australia - Wheat Belt,5,1448
+ $300-$399,Family households,Hunter Valley exc Newcastle,1,391
+ $650-$799,Family households,Wide Bay,3,9798
+" $1,750-$1,999",Family households,Launceston and North East,6,2532
+" $2,500-$2,999",Non-family household,Melbourne - West,2,1003
+ $800-$999,Family households,Darling Downs - Maranoa,3,2281
+ $1-$149,Family households,Barossa - Yorke - Mid North,4,164
+ $1-$149,Non-family household,Northern Territory - Outback,7,82
+" $2,500-$2,999",Non-family household,Barossa - Yorke - Mid North,4,45
+" $1,000-$1,249",Non-family household,Perth - South West,5,3852
+" $1,500-$1,749",Non-family household,Hunter Valley exc Newcastle,1,1490
+" $3,500-$3,999",Family households,Sydney - Blacktown,1,6777
+" $3,000-$3,499",Non-family household,Latrobe - Gippsland,2,369
+" $3,000-$3,499",Family households,North West,2,2299
+ $650-$799,Non-family household,Warrnambool and South West,2,1322
+ $150-$299,Family households,Brisbane - North,3,209
+" $1,000-$1,249",Family households,Brisbane Inner City,3,2676
+ $800-$999,Non-family household,Melbourne - North East,2,3832
+" $1,500-$1,749",Non-family household,Ipswich,3,2010
+ $500-$649,Family households,Australian Capital Territory,8,1096
+ $150-$299,Non-family household,Sydney - Outer South West,1,644
+" $1,000-$1,249",Non-family household,Brisbane - West,3,1474
+" $1,500-$1,749",Non-family household,Sunshine Coast,3,2083
+" $4,000 or more",Family households,Other Territories,9,94
+ $300-$399,Family households,South Australia - South East,4,330
+ $650-$799,Family households,Perth - Inner,5,1023
+ $500-$649,Non-family household,Newcastle and Lake Macquarie,1,5099
+" $2,000-$2,499",Family households,Migratory - Offshore - Shipping (Qld),3,0
+ $650-$799,Family households,Adelaide - South,4,6153
+" $2,500-$2,999",Family households,Melbourne - Outer East,2,15584
+ $500-$649,Family households,Central Queensland,3,1241
+" $1,500-$1,749",Family households,Moreton Bay - North,3,4395
+" $1,750-$1,999",Family households,Moreton Bay - South,3,3799
+" $3,500-$3,999",Non-family household,Townsville,3,103
+" $2,000-$2,499",Family households,New England and North West,1,5935
+ $300-$399,Non-family household,Melbourne - North West,2,2061
+ $300-$399,Family households,Townsville,3,343
+ $150-$299,Family households,Launceston and North East,6,185
+" $1,000-$1,249",Non-family household,Western Australia - Outback (South),5,1092
+ $650-$799,Non-family household,Hobart,6,2316
+" $2,000-$2,499",Non-family household,Migratory - Offshore - Shipping (NSW),1,0
+" $3,000-$3,499",Non-family household,Ipswich,3,377
+ $300-$399,Family households,Migratory - Offshore - Shipping (SA),4,0
+ $300-$399,Family households,Ballarat,2,263
+" $1,000-$1,249",Family households,Mid North Coast,1,5676
+" $1,250-$1,499",Non-family household,Brisbane - North,3,2239
+ $400-$499,Non-family household,Other Territories,9,80
+ $650-$799,Non-family household,Sunshine Coast,3,3130
+" $2,500-$2,999",Non-family household,Wide Bay,3,173
+ $300-$399,Family households,Migratory - Offshore - Shipping (Qld),3,0
+ $500-$649,Family households,Perth - North West,5,2535
+" $3,000-$3,499",Non-family household,Newcastle and Lake Macquarie,1,862
+" $4,000 or more",Non-family household,Melbourne - South East,2,1695
+" $1,000-$1,249",Family households,Logan - Beaudesert,3,6286
+ $400-$499,Non-family household,Barossa - Yorke - Mid North,4,3689
+ $1-$149,Non-family household,Sydney - Sutherland,1,304
+" $2,500-$2,999",Family households,Sydney - Sutherland,1,6133
+ $400-$499,Non-family household,Bendigo,2,3918
+" $1,500-$1,749",Family households,Bendigo,2,2720
+" $4,000 or more",Non-family household,Gold Coast,3,1843
+ $1-$149,Family households,Moreton Bay - North,3,308
+" $2,000-$2,499",Non-family household,Toowoomba,3,1078
+" $3,000-$3,499",Non-family household,Mandurah,5,183
+ $300-$399,Non-family household,Central West,1,1868
+ $150-$299,Family households,Sydney - Ryde,1,249
+ $400-$499,Non-family household,Melbourne - Inner East,2,4269
+ $800-$999,Family households,South East,6,899
+" $3,000-$3,499",Non-family household,Adelaide - North,4,431
+" $3,000-$3,499",Family households,South Australia - Outback,4,1354
+ $400-$499,Family households,Western Australia - Outback (North),5,325
+ $400-$499,Family households,Capital Region,1,1096
+ $150-$299,Family households,Sydney - Baulkham Hills and Hawkesbury,1,217
+ $800-$999,Family households,Moreton Bay - South,3,2528
+" $3,000-$3,499",Family households,Migratory - Offshore - Shipping (WA),5,0
+" $1,750-$1,999",Family households,Queensland - Outback,3,868
+" $1,500-$1,749",Family households,Wide Bay,3,4935
+" $1,250-$1,499",Non-family household,Central Coast,1,2303
+" $3,500-$3,999",Non-family household,Far West and Orana,1,37
+" $1,500-$1,749",Non-family household,Riverina,1,962
+" $2,500-$2,999",Non-family household,Migratory - Offshore - Shipping (NT),7,0
+" $1,000-$1,249",Non-family household,Australian Capital Territory,8,4107
+" $1,500-$1,749",Non-family household,Latrobe - Gippsland,2,1685
+" $3,000-$3,499",Non-family household,Cairns,3,376
+" $3,500-$3,999",Non-family household,Ballarat,2,50
+" $1,750-$1,999",Non-family household,Shepparton,2,486
+ $150-$299,Non-family household,South Australia - Outback,4,548
+ $800-$999,Family households,Adelaide - West,4,3623
+ $500-$649,Non-family household,South East,6,546
+" $3,500-$3,999",Family households,Central West,1,2497
+" $2,000-$2,499",Family households,Mornington Peninsula,2,10798
+" $4,000 or more",Family households,Mornington Peninsula,2,11021
+" $4,000 or more",Family households,Adelaide - North,4,8267
+" $3,000-$3,499",Non-family household,Launceston and North East,6,171
+" $1,750-$1,999",Family households,Coffs Harbour - Grafton,1,2530
+" $2,500-$2,999",Family households,Migratory - Offshore - Shipping (SA),4,0
+" $3,500-$3,999",Family households,Migratory - Offshore - Shipping (Tas.),6,0
+" $1,250-$1,499",Non-family household,Migratory - Offshore - Shipping (NT),7,0
+ $650-$799,Non-family household,South Australia - South East,4,2114
+" $4,000 or more",Non-family household,Hobart,6,651
+ $300-$399,Family households,West and North West,6,223
+" $1,000-$1,249",Family households,Sydney - Outer West and Blue Mountains,1,4955
+" $1,750-$1,999",Non-family household,Sydney - Sutherland,1,1123
+" $1,000-$1,249",Family households,Melbourne - Inner South,2,4877
+" $3,500-$3,999",Non-family household,West and North West,6,20
+ $650-$799,Family households,Bendigo,2,3097
+ $1-$149,Family households,Geelong,2,375
+" $1,000-$1,249",Non-family household,Melbourne - Inner East,2,3438
+ $800-$999,Non-family household,Mackay - Isaac - Whitsunday,3,1443
+ $500-$649,Non-family household,Moreton Bay - South,3,1498
+ $300-$399,Non-family household,Migratory - Offshore - Shipping (Tas.),6,0
+" $2,500-$2,999",Family households,Melbourne - North East,2,15262
+" $1,250-$1,499",Non-family household,Brisbane - East,3,1375
+" $3,500-$3,999",Non-family household,Sydney - North Sydney and Hornsby,1,341
+ $400-$499,Non-family household,Adelaide - North,4,9080
+ $400-$499,Family households,South Australia - Outback,4,538
+ $1-$149,Non-family household,Migratory - Offshore - Shipping (SA),4,0
+" $3,500-$3,999",Non-family household,Hunter Valley exc Newcastle,1,58
+ $500-$649,Family households,Migratory - Offshore - Shipping (NSW),1,0
+" $3,500-$3,999",Non-family household,Brisbane Inner City,3,583
+" $2,000-$2,499",Non-family household,Central Queensland,3,1831
+" $1,500-$1,749",Non-family household,Migratory - Offshore - Shipping (Qld),3,0
+ $400-$499,Family households,Shepparton,2,833
+" $3,500-$3,999",Family households,Brisbane - West,3,3576
+" $3,500-$3,999",Non-family household,South Australia - South East,4,25
+ $1-$149,Non-family household,Sydney - North Sydney and Hornsby,1,535
+" $1,500-$1,749",Family households,Perth - Inner,5,1558
+" $1,000-$1,249",Family households,Richmond - Tweed,1,5301
+" $3,500-$3,999",Non-family household,Riverina,1,59
+ $500-$649,Family households,Perth - North East,5,1259
+ $300-$399,Family households,Far West and Orana,1,165
+" $2,500-$2,999",Non-family household,Geelong,2,432
+" $1,750-$1,999",Family households,Migratory - Offshore - Shipping (ACT),8,0
+" $2,000-$2,499",Family households,Hunter Valley exc Newcastle,1,10269
+ $650-$799,Non-family household,Melbourne - South East,2,3917
+ $400-$499,Non-family household,Melbourne - West,2,8874
+" $3,500-$3,999",Family households,Wide Bay,3,2140
+" $3,000-$3,499",Family households,Capital Region,1,4745
+ $1-$149,Non-family household,Riverina,1,217
+" $2,000-$2,499",Non-family household,North West,2,843
+" $1,250-$1,499",Family households,Central Queensland,3,3883
+" $2,000-$2,499",Non-family household,Bunbury,5,1262
+" $1,000-$1,249",Non-family household,Sydney - Blacktown,1,2138
+ $800-$999,Non-family household,Sydney - Outer South West,1,1769
+" $2,500-$2,999",Non-family household,Perth - Inner,5,403
+" $1,500-$1,749",Family households,Migratory - Offshore - Shipping (Tas.),6,0
+" $1,750-$1,999",Family households,Central Coast,1,5616
+" $1,500-$1,749",Family households,Australian Capital Territory,8,5113
+" $1,750-$1,999",Family households,Brisbane - North,3,3311
+ $650-$799,Non-family household,Far West and Orana,1,867
+" $1,000-$1,249",Non-family household,Illawarra,1,2715
+ $650-$799,Non-family household,Southern Highlands and Shoalhaven,1,1520
+ $800-$999,Family households,Sydney - City and Inner South,1,2090
+ $800-$999,Non-family household,Sydney - Inner West,1,2537
+" $2,000-$2,499",Non-family household,Perth - North West,5,4976
+" $1,250-$1,499",Non-family household,Launceston and North East,6,1176
+ $1-$149,Non-family household,Hunter Valley exc Newcastle,1,335
+ $300-$399,Family households,Mid North Coast,1,431
+ $400-$499,Family households,Murray,1,641
+" $1,250-$1,499",Family households,Gold Coast,3,13042
+" $3,500-$3,999",Non-family household,Sunshine Coast,3,164
+ $500-$649,Family households,Toowoomba,3,797
+ $300-$399,Non-family household,Migratory - Offshore - Shipping (WA),5,0
+ $500-$649,Non-family household,Latrobe - Gippsland,2,4818
+" $1,750-$1,999",Non-family household,Melbourne - North East,2,2538
+" $1,250-$1,499",Family households,Darwin,7,1651
+ $650-$799,Family households,Other Territories,9,50
+ $500-$649,Family households,Melbourne - North West,2,2182
+ $500-$649,Non-family household,Mornington Peninsula,2,4297
+ $400-$499,Non-family household,Brisbane - West,3,1768
+ $1-$149,Non-family household,Sunshine Coast,3,510
+ $1-$149,Non-family household,South Australia - South East,4,342
+ $800-$999,Non-family household,Brisbane - South,3,2958
+" $3,500-$3,999",Family households,Sydney - Eastern Suburbs,1,3929
+" $1,000-$1,249",Family households,Melbourne - Outer East,2,8190
+ $1-$149,Family households,Melbourne - West,2,845
+" $3,000-$3,499",Non-family household,Hume,2,225
+" $3,000-$3,499",Non-family household,Migratory - Offshore - Shipping (ACT),8,0
+ $800-$999,Family households,Newcastle and Lake Macquarie,1,5540
+" $4,000 or more",Family households,Hume,2,3901
+ $500-$649,Non-family household,Ipswich,3,3284
+ $400-$499,Non-family household,Adelaide - South,4,7945
+" $3,500-$3,999",Family households,Melbourne - West,2,11997
+" $1,750-$1,999",Non-family household,Logan - Beaudesert,3,1100
+" $1,000-$1,249",Non-family household,Moreton Bay - North,3,2585
+" $1,500-$1,749",Non-family household,Northern Territory - Outback,7,597
+ $400-$499,Family households,Sydney - Inner West,1,882
+" $4,000 or more",Non-family household,Melbourne - Inner,2,10205
+" $2,500-$2,999",Family households,Logan - Beaudesert,3,9206
+ $300-$399,Non-family household,Perth - South West,5,2754
+" $1,750-$1,999",Non-family household,Western Australia - Outback (North),5,602
+" $3,000-$3,499",Non-family household,Coffs Harbour - Grafton,1,122
+ $800-$999,Family households,Sydney - Ryde,1,1763
+ $150-$299,Family households,Moreton Bay - South,3,168
+ $650-$799,Non-family household,Townsville,3,1801
+" $1,000-$1,249",Family households,Townsville,3,3667
+" $2,500-$2,999",Non-family household,Sydney - Eastern Suburbs,1,805
+ $650-$799,Non-family household,Melbourne - Outer East,2,3416
+ $1-$149,Family households,Brisbane - West,3,191
+ $800-$999,Family households,Adelaide - Central and Hills,4,3753
+ $1-$149,Family households,Sydney - Eastern Suburbs,1,204
+ $1-$149,Non-family household,Brisbane Inner City,3,493
+" $1,250-$1,499",Non-family household,Other Territories,9,39
+ $150-$299,Family households,Hume,2,194
+" $2,500-$2,999",Family households,Hobart,6,6430
+" $1,500-$1,749",Family households,Sydney - Blacktown,1,5405
+" $3,000-$3,499",Non-family household,Brisbane - North,3,630
+ $650-$799,Family households,Barossa - Yorke - Mid North,4,3092
+ $800-$999,Non-family household,Murray,1,1472
+" $4,000 or more",Family households,Moreton Bay - South,3,8941
+ $1-$149,Family households,Wide Bay,3,547
+ $500-$649,Non-family household,Sydney - Ryde,1,1466
+ $150-$299,Non-family household,Melbourne - Inner,2,3350
+" $2,500-$2,999",Family households,Warrnambool and South West,2,3134
+" $1,250-$1,499",Family households,Melbourne - Inner,2,7025
+" $3,000-$3,499",Non-family household,Darling Downs - Maranoa,3,146
+" $3,000-$3,499",Non-family household,Adelaide - Central and Hills,4,856
+" $2,500-$2,999",Non-family household,Western Australia - Wheat Belt,5,67
+ $500-$649,Family households,Migratory - Offshore - Shipping (WA),5,0
+" $1,500-$1,749",Family households,Central West,1,3093
+" $2,500-$2,999",Non-family household,Illawarra,1,366
+ $150-$299,Family households,Brisbane - East,3,230
+ $400-$499,Non-family household,Queensland - Outback,3,1080
+ $800-$999,Non-family household,South Australia - Outback,4,963
+ $500-$649,Family households,Bunbury,5,1097
+ $150-$299,Family households,Sydney - City and Inner South,1,271
+" $4,000 or more",Non-family household,Melbourne - North East,2,1075
+ $650-$799,Non-family household,Migratory - Offshore - Shipping (SA),4,0
+" $1,500-$1,749",Family households,Perth - South West,5,5785
+ $300-$399,Family households,Sunshine Coast,3,447
+" $4,000 or more",Family households,Adelaide - West,4,7546
+" $1,750-$1,999",Non-family household,Sydney - Outer West and Blue Mountains,1,1531
+" $1,000-$1,249",Non-family household,Migratory - Offshore - Shipping (Tas.),6,0
+ $150-$299,Family households,Coffs Harbour - Grafton,1,201
+ $800-$999,Non-family household,Darwin,7,977
+ $650-$799,Family households,Melbourne - West,2,10670
+ $300-$399,Family households,Migratory - Offshore - Shipping (Vic.),2,0
+" $1,000-$1,249",Family households,Southern Highlands and Shoalhaven,1,3554
+ $1-$149,Family households,Bendigo,2,189
+ $150-$299,Non-family household,Shepparton,2,573
+" $2,000-$2,499",Non-family household,Brisbane - South,3,3904
+ $800-$999,Family households,Cairns,3,3767
+ $1-$149,Non-family household,Perth - South East,5,652
+ $1-$149,Family households,Western Australia - Wheat Belt,5,192
+" $1,000-$1,249",Family households,West and North West,6,2510
+" $3,000-$3,499",Non-family household,Sydney - City and Inner South,1,3651
+ $800-$999,Family households,Sydney - Parramatta,1,5522
+ $300-$399,Non-family household,Migratory - Offshore - Shipping (NSW),1,0
+ $800-$999,Family households,Mandurah,5,2069
+" $3,500-$3,999",Family households,Perth - Inner,5,2506
+ $650-$799,Non-family household,Sydney - North Sydney and Hornsby,1,2455
+" $3,000-$3,499",Family households,Central Queensland,3,4580
+ $150-$299,Family households,Sydney - Northern Beaches,1,186
+ $650-$799,Family households,Migratory - Offshore - Shipping (NT),7,0
+" $3,500-$3,999",Family households,Bendigo,2,1960
+" $4,000 or more",Non-family household,Shepparton,2,284
+" $3,500-$3,999",Non-family household,Perth - South East,5,306
+" $3,500-$3,999",Family households,Western Australia - Wheat Belt,5,1235
+ $400-$499,Non-family household,Central Coast,1,7701
+" $4,000 or more",Family households,Coffs Harbour - Grafton,1,2702
+ $650-$799,Non-family household,Ballarat,2,1655
+" $1,250-$1,499",Family households,Capital Region,1,4999
+" $4,000 or more",Family households,Sydney - Northern Beaches,1,26325
+ $800-$999,Non-family household,Sydney - South West,1,2185
+" $1,000-$1,249",Family households,Sydney - Sutherland,1,2756
+ $400-$499,Family households,Mackay - Isaac - Whitsunday,3,698
+ $300-$399,Non-family household,Perth - North East,5,1669
+" $2,000-$2,499",Family households,Northern Territory - Outback,7,1760
+ $300-$399,Non-family household,Australian Capital Territory,8,1881
+ $500-$649,Non-family household,Sydney - Parramatta,1,2928
+" $3,500-$3,999",Non-family household,Migratory - Offshore - Shipping (Vic.),2,0
+" $1,000-$1,249",Family households,Sydney - North Sydney and Hornsby,1,3839
+ $800-$999,Family households,Ipswich,3,5514
+" $4,000 or more",Non-family household,Mackay - Isaac - Whitsunday,3,538
+ $650-$799,Family households,Geelong,2,4986
+ $150-$299,Non-family household,Migratory - Offshore - Shipping (OT),9,0
+ $800-$999,Non-family household,Capital Region,1,2479
+" $3,000-$3,499",Non-family household,Sydney - Northern Beaches,1,878
+" $1,250-$1,499",Family households,Sydney - South West,1,8500
+" $1,000-$1,249",Family households,Ballarat,2,3465
+ $150-$299,Non-family household,Sydney - Inner South West,1,1857
+" $3,500-$3,999",Family households,Melbourne - Inner East,2,5464
+" $2,500-$2,999",Family households,Western Australia - Outback (North),5,1559
+" $3,500-$3,999",Family households,Western Australia - Outback (South),5,1429
+ $1-$149,Non-family household,Melbourne - Inner South,2,736
+" $2,500-$2,999",Non-family household,Western Australia - Outback (South),5,102
+" $1,000-$1,249",Family households,Far West and Orana,1,1987
+ $300-$399,Family households,New England and North West,1,282
+" $1,750-$1,999",Non-family household,Melbourne - South East,2,2812
+ $300-$399,Non-family household,Toowoomba,3,1081
+" $3,000-$3,499",Family households,Perth - North West,5,13593
+ $150-$299,Non-family household,Mackay - Isaac - Whitsunday,3,551
+" $1,750-$1,999",Family households,Adelaide - North,4,7997
+" $4,000 or more",Family households,Brisbane - East,3,11045
+" $3,000-$3,499",Non-family household,Adelaide - West,4,526
+ $500-$649,Non-family household,Mandurah,5,1678
+" $1,500-$1,749",Non-family household,South East,6,214
+ $1-$149,Non-family household,New England and North West,1,301
+ $300-$399,Family households,Riverina,1,226
+ $650-$799,Non-family household,Sydney - Sutherland,1,1353
+ $300-$399,Family households,Melbourne - Inner South,2,425
+" $3,500-$3,999",Non-family household,Melbourne - Inner South,2,251
+" $2,500-$2,999",Family households,Melbourne - South East,2,23610
+ $800-$999,Family households,Mornington Peninsula,2,4461
+ $1-$149,Family households,Western Australia - Outback (South),5,118
+" $1,750-$1,999",Family households,Sydney - Baulkham Hills and Hawkesbury,1,3046
+ $400-$499,Family households,Sydney - Inner South West,1,2874
+ $1-$149,Family households,Melbourne - Inner East,2,673
+ $400-$499,Non-family household,Migratory - Offshore - Shipping (NT),7,0
+" $3,500-$3,999",Non-family household,New England and North West,1,53
+" $4,000 or more",Non-family household,Sydney - Inner South West,1,1440
+" $2,500-$2,999",Non-family household,Melbourne - Inner East,2,575
+ $1-$149,Non-family household,Migratory - Offshore - Shipping (Vic.),2,0
+" $1,000-$1,249",Family households,Migratory - Offshore - Shipping (SA),4,0
+ $400-$499,Family households,Migratory - Offshore - Shipping (OT),9,0
+" $2,500-$2,999",Family households,Sydney - Outer West and Blue Mountains,1,9671
+" $2,500-$2,999",Non-family household,Bendigo,2,172
+ $800-$999,Non-family household,Gold Coast,3,6029
+ $150-$299,Family households,Adelaide - West,4,264
+" $4,000 or more",Non-family household,Migratory - Offshore - Shipping (OT),9,0
