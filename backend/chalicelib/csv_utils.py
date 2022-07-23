@@ -2,19 +2,30 @@ import numpy as np
 import pandas as pd
 import re
 import matplotlib.pyplot as plt
+import boto3
 
 from os import listdir
 from os.path import isfile, join
 
+region_key = 'SA4 HH Weekly Income Counts.csv'
+state_key = 'State HH Income Counts.csv'
+bucket = 'income-data-counts'
+s3 = boto3.resource('s3')
+region_obj = s3.Object(bucket, region_key)
+
 def get_csv_filenames():
-    return [re.sub('\.csv$', '', f) for f in listdir('../files/') if f.endswith('.csv')]
+    return [f for f in s3.Bucket(bucket).objects.all() if isfile(f.key)]
 
 def df_to_csv(df):
     return df.to_csv()
 
+def get_csv_data(filename):
+    df = pd.read_csv('s3://income-data-counts/'+filename)
+    return df
+
 def multi_sort_csv(filename, queries):
     # queries = [{'column': 'column_name', 'query': 'query_string'}]
-    df = pd.read_csv('../files/'+filename)
+    df = pd.read_csv('s3://income-data-counts/'+filename)
 
     for query in queries:
         df = df[df[query['column']] == query['query']]
@@ -22,11 +33,11 @@ def multi_sort_csv(filename, queries):
     return df
 
 def get_regions():
-    df = pd.read_csv('../files/SA4 HH Weekly Income Counts.csv')
+    df = pd.read_csv('files/SA4 HH Weekly Income Counts.csv')
     return df['SA4 Region Name'].unique().tolist()
 
 def get_states():
-    df = pd.read_csv('../files/State HH Income Counts.csv')
+    df = pd.read_csv('files/State HH Income Counts.csv')
     return df['State'].unique().tolist()
 
 def get_income_brackets(df):

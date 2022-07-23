@@ -1,6 +1,5 @@
-from crypt import methods
 from chalice import Chalice
-from utils.csv_data import *
+from chalicelib.csv_utils import *
 
 app = Chalice(app_name='backend')
 
@@ -9,11 +8,16 @@ app = Chalice(app_name='backend')
 def index():
     return {'hello': 'world'}
 
-@app.route('/regions', methods=['POST'])
-def regions():
-    # return table of results
-    return
+# @app.route('/regions', methods=['GET'])
+# def list_regions():
+#     # return table of results
 
+#     return {'SA4 HH Weekly Income Counts': get_csv_data('SA4 HH Weekly Income Counts.csv').to_csv()}
+
+# @app.route('/regions/{region}', methods=['GET'])
+# def regions_filter(region):
+#     # return table of results
+#     return {region: multi_sort_csv('SA4 HH Weekly Income Counts.csv', [{'column': 'SA4 Region Name', 'query': region}]).to_csv()}
 
 
 
@@ -36,3 +40,6 @@ def regions():
 #
 # See the README documentation for more examples.
 #
+
+if __name__ == '__main__':
+    print(list_regions())
