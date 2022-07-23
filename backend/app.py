@@ -1,11 +1,20 @@
+from crypt import methods
 from chalice import Chalice
+from utils.csv_data import *
 
 app = Chalice(app_name='backend')
 
 
 @app.route('/')
 def index():
-    return {'hello': 'there'}
+    return {'hello': 'world'}
+
+@app.route('/regions', methods=['POST'])
+def regions():
+    # return table of results
+    return
+
+
 
 
 # The view function above will return {"hello": "world"}
