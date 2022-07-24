@@ -3,43 +3,44 @@ from chalicelib.csv_utils import *
 
 app = Chalice(app_name='backend')
 
-
 @app.route('/')
 def index():
     return {'hello': 'world'}
 
-# @app.route('/regions', methods=['GET'])
-# def list_regions():
-#     # return table of results
+@app.route('/search', methods=['GET'])
+def search():
+    # if app.current_request.query_params.get('state'):
+    #     return {query: multi_sort_csv(state_key, [{'column': 'State', 'query': query}]).to_dict()}
+    # elif app.current_request.query_params.get('region'):
+    #     return {query: multi_sort_csv(region_key, [{'column': 'SA4 Region Name', 'query': query}]).to_dict()}
+    # else:
+    return {'Regions and State': get_regions_states()}
 
-#     return {'SA4 HH Weekly Income Counts': get_csv_data('SA4 HH Weekly Income Counts.csv').to_csv()}
+@app.route('/search/{query}', methods=['GET'])
+def search(query):
+    # return json of results
+    query = query.replace('%20', ' ')
+    if is_state(query):
+        return {query: multi_sort_csv(state_key, [{'column': 'State', 'query': query}]).to_dict()}
+    else:
+        return {query: multi_sort_csv(region_key, [{'column': 'SA4 Region Name', 'query': query}]).to_dict()}
 
-# @app.route('/regions/{region}', methods=['GET'])
-# def regions_filter(region):
-#     # return table of results
-#     return {region: multi_sort_csv('SA4 HH Weekly Income Counts.csv', [{'column': 'SA4 Region Name', 'query': region}]).to_csv()}
+@app.route('/filter', methods=['GET'])
+def filter():
+    params = app.current_request.query_params
+    multi = []
+    if params.get('state'):
+        multi.append({'column': 'State', 'query': params.get('state')})
+    if params.get('composition'):
+        multi.append({'column': 'Household Composition', 'query': params.get('composition')})
+    if params.get('income'):
+        multi.append({'column': 'Weekly Household Income', 'query': params.get('income')})
+    return {'Filtered': multi_sort_csv(region_key, multi).to_dict()}
 
-
-
-# The view function above will return {"hello": "world"}
-# whenever you make an HTTP GET request to '/'.
-#
-# Here are a few more examples:
-#
-# @app.route('/hello/{name}')
-# def hello_name(name):
-#    # '/hello/james' -> {"hello": "james"}
-#    return {'hello': name}
-#
-# @app.route('/users', methods=['POST'])
-# def create_user():
-#     # This is the JSON body the user sent in their POST request.
-#     user_as_json = app.current_request.json_body
-#     # We'll echo the json body back to the user in a 'user' key.
-#     return {'user': user_as_json}
-#
-# See the README documentation for more examples.
-#
-
-if __name__ == '__main__':
-    print(list_regions())
+@app.route('/filter/{query}', methods=['GET'])
+def filter(query):
+    query = query.replace('%20', ' ')
+    if is_state(query):
+        return {'Regions': get_regions_in_state(query)}
+    else:
+        return {'Proportions': get_proportion(query)}

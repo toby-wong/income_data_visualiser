@@ -1,7 +1,5 @@
-# import numpy as np
 import pandas as pd
 import re
-import matplotlib.pyplot as plt
 import boto3
 
 from os import listdir
@@ -11,10 +9,18 @@ region_key = 'SA4 HH Weekly Income Counts.csv'
 state_key = 'State HH Income Counts.csv'
 bucket = 'income-data-counts'
 s3 = boto3.resource('s3')
-region_obj = s3.Object(bucket, region_key)
 
-def get_csv_filenames():
-    return [f for f in s3.Bucket(bucket).objects.all() if isfile(f.key)]
+states = [
+    'New South Wales',
+    'Victoria',
+    'Queensland',
+    'South Australia',
+    'Western Australia',
+    'Tasmania',
+    'Northern Territory',
+    'Australian Capital Territory',
+    'Other Territories'
+    ]
 
 def df_to_csv(df):
     return df.to_csv()
@@ -23,32 +29,50 @@ def get_csv_data(filename):
     df = pd.read_csv('s3://income-data-counts/'+filename)
     return df
 
-def multi_sort_csv(filename, queries):
-    # queries = [{'column': 'column_name', 'query': 'query_string'}]
-    df = pd.read_csv('s3://income-data-counts/'+filename)
-
-    for query in queries:
-        df = df[df[query['column']] == query['query']]
-
-    return df
+def get_csv_filenames():
+    return [f.key for f in s3.Bucket(bucket).objects.all()]
 
 def get_regions():
-    df = pd.read_csv('files/SA4 HH Weekly Income Counts.csv')
+    df = pd.read_csv(f's3://{bucket}/{region_key}')
     return df['SA4 Region Name'].unique().tolist()
 
 def get_states():
-    df = pd.read_csv('files/State HH Income Counts.csv')
+    df = pd.read_csv(f's3://{bucket}/{state_key}/')
     return df['State'].unique().tolist()
+
+def get_state_id(state):
+    return states.index(state) + 1
+
+def get_state(state_id):
+    return states[state_id]
+
+def get_regions_states():
+    return get_regions() + get_states()
+
+def is_state(query):
+    return query in get_states() if True else False
+
+def get_regions_in_state(state):
+    state_id = get_state_id(state)
+    df = multi_sort_csv(region_key, [{'column': 'State ID', 'query': state_id}])
+    return df['SA4 Region Name'].unique().tolist()
 
 def get_income_brackets(df):
     return df['Weekly Household Income'].unique().tolist()
 
+def multi_sort_csv(filename, queries):
+    # queries = [{'column': 'column_name', 'query': 'query_string'}]
+    df = pd.read_csv(f's3://{bucket}/{filename}')
+    for query in queries:
+        df = df[df[query['column']] == query['query']]
+    return df
+
 def get_proportion(region):
-    df1 = multi_sort_csv('SA4 HH Weekly Income Counts.csv', [{'column': 'SA4 Region Name', 'query': region}])
+    df1 = multi_sort_csv(region_key, [{'column': 'SA4 Region Name', 'query': region}])
     r_count = df1['Count'].astype(int).sum()
     stateID = df1['State ID'].unique().tolist()[0]
 
-    df2 = multi_sort_csv('State HH Income Counts.csv', [{'column': 'State ID', 'query': stateID}])
+    df2 = multi_sort_csv(state_key, [{'column': 'State ID', 'query': stateID}])
     state = df2['State'].unique().tolist()[0]
     s_count = df2['Count'].astype(int).sum()
 
@@ -68,10 +92,9 @@ def get_proportion(region):
 if __name__ == "__main__":
     # print(get_csv_filenames())
     # print(multi_sort_csv('State HH Income Counts.csv', [{'column': 'State', 'query': 'Tasmania'}, {'column': 'Household composition', 'query': 'Family households'}]))
-    # print(get_regions())
-    # print(get_states())
-    p = get_proportion('Sydney - Eastern Suburbs')
-    print([p[i]['New South Wales'] for i in range(len(p))])
+    print(get_states())
+    # p = get_proportion('Sydney - Eastern Suburbs')
+    # print([p[i]['New South Wales'] for i in range(len(p))])
 
     # p1 = list()
     # for x in range(len(p)):
