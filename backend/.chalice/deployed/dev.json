@@ -1,6 +1,11 @@
 {
   "resources": [
     {
+      "name": "managed-layer",
+      "resource_type": "lambda_layer",
+      "layer_version_arn": "arn:aws:lambda:ap-southeast-2:816283426479:layer:backend-dev-managed-layer:2"
+    },
+    {
       "name": "default-role",
       "resource_type": "iam_role",
       "role_arn": "arn:aws:iam::816283426479:role/backend-dev",

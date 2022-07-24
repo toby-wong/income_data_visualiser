@@ -1,5 +1,4 @@
 chalice
 pandas
-matplotlib
 boto3
 s3fs

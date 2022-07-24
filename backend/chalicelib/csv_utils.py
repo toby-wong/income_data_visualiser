@@ -1,4 +1,4 @@
-import numpy as np
+# import numpy as np
 import pandas as pd
 import re
 import matplotlib.pyplot as plt
@@ -78,14 +78,14 @@ if __name__ == "__main__":
     #     p1.append(p[x]['Sydney - Eastern Suburbs'])
     #     p1.append(p[x]['New South Wales'])
 
-    n=16
-    r = np.arange(n)
-    width = 0.5
+    # n=16
+    # # r = np.arange(n)
+    # width = 0.5
 
-    plt.bar(r, [p[i]['Sydney - Eastern Suburbs'] for i in range(len(p))], width=width, color='blue')
-    plt.bar(r+width, [p[i]['New South Wales'] for i in range(len(p))], width=width, color='red')
-    plt.xticks(r+width/2, [p[i]['Bracket'] for i in range(len(p))])
-    plt.title('Proportion of households by income bracket')
-    plt.legend(['Sydney - Eastern Suburbs', 'New South Wales'])
-    plt.show()
+    # plt.bar(r, [p[i]['Sydney - Eastern Suburbs'] for i in range(len(p))], width=width, color='blue')
+    # plt.bar(r+width, [p[i]['New South Wales'] for i in range(len(p))], width=width, color='red')
+    # plt.xticks(r+width/2, [p[i]['Bracket'] for i in range(len(p))])
+    # plt.title('Proportion of households by income bracket')
+    # plt.legend(['Sydney - Eastern Suburbs', 'New South Wales'])
+    # plt.show()
 
